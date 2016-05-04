@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Automatic identification of crop and weed species with chlorophyll fluorescence induction curves</dc:title>
+  <dc:creator>Tyystjärvi, Esa</dc:creator>
+  <dc:creator>Nørremark, Michael</dc:creator>
+  <dc:creator>Mattila, Heta</dc:creator>
+  <dc:creator>Keränen, Mika</dc:creator>
+  <dc:creator>Hakala-Yatkin, Marja</dc:creator>
+  <dc:creator>Ottosen, Carl-Otto</dc:creator>
+  <dc:creator>Rosenqvist, Eva</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>Automatic identification of crop and weed species is  required for many precision farming practices. The use of chlorophyll fluorescence fingerprinting for identification &#xD;
+of maize and barley among six weed species was tested. The plants were grown in outdoor pots and the fluorescence measurements were done in variable natural conditions. &#xD;
+The measurement protocol consisted of 1 s of shading followed by two short pulses of strong light photosynthetic photon flux density 1700 lmol m-2 s-1) with 0.2 s of darkness in between. Both illumination pulses caused the fluorescence yield to increase by 30–60% and to display a rapid fluorescence transient resembling transients obtained after long dark incubation. A neural network classifier, working on 17 features extracted from each fluorescence induction curve, correctly classified 86.7–96.1% of the curves as crop (maize or barley) or weed. Classification of individual species yielded a 50.2–80.8% rate of correct classifications. The best results were obtained if the training and test sets were measured on the same day, but good results were also obtained when the training and test &#xD;
+sets were measured on different dates, and even if fluorescence induction curves measured from both leaf sides were mixed. The results indicate that fluorescence fingerprinting has potential for rapid field separation of crop and weed species.</dc:description>
+  <dc:date>2011</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20654/4/20654.pdf</dc:identifier>
+  <dc:identifier>Tyystjärvi, Esa ; Nørremark, Michael; Mattila, Heta ; Keränen, Mika ; Hakala-Yatkin, Marja ; Ottosen, Carl-Otto  and Rosenqvist, Eva    (2011) Automatic identification of crop and weed species with chlorophyll fluorescence induction curves.   Precision Agriculture, 12, pp. 546-563.</dc:identifier>
+  <dc:relation>http://orgprints.org/20654/</dc:relation>
+</oai_dc:dc>

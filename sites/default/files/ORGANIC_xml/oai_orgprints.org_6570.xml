@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>VARIANCE COMPONENTS AND SELECTION FOR FEATHER PECKING BEHAVIOR IN LAYING HENS</dc:title>
+  <dc:creator>Su, Guosheng</dc:creator>
+  <dc:creator>Kjaer, Jørgen B.</dc:creator>
+  <dc:creator>Sørensen, Poul</dc:creator>
+  <dc:subject>Breeding and genetics</dc:subject>
+  <dc:description>Variance components and selection response for feather pecking behaviour were studied by analysing the data from a divergent selection experiment. An investigation show that a Box-Cox transformation with power =-0.2 made the data be approximately normally distributed and fit best by the given model. Variance components and selection response were estimated using Bayesian analysis with Gibbs sampling technique. The total variation was rather large for the two traits in both low feather pecking line (LP) and high feather pecking line (HP). The standard deviation was about three times as large as the mean in the observed scale, and about the same value as the mean in the transformed scale. Based on the mean of marginal posterior distribution, in the Box-Cox transformed scale, heritability for number of feather pecking bouts (FP bouts) was 0.174 in line LP and 0.139 in line HP. For number of feather pecking pecks (FP pecks), heritability was 0.139 in line LP and 0.105 in line HP. No full-sib group effect and observing pen effect were found in the two traits. After 4 generations of selection, the total response for number of FP bouts in the transformed scale was 58% and 74% of the mean of the first generation in line LP and line HP, respectively. And the total response for number of FP pecks was 47% and 46% of the mean of the first generation in line LP and line HP, respectively. The total response in original scale in line HP was rather larger than that in line LP. These results show that the heritability for feather pecking behaviour is moderately low but the variation is large. And genetic improvement on feather pecking behaviour by selection is effective.</dc:description>
+  <dc:publisher>Poutry Science Association</dc:publisher>
+  <dc:date>2005</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/6570/1/6570.pdf</dc:identifier>
+  <dc:identifier>Su, Guosheng; Kjaer, Jørgen B. and Sørensen, Poul   (2005) VARIANCE COMPONENTS AND SELECTION FOR FEATHER PECKING BEHAVIOR IN LAYING HENS.   Poultry Science, 84 (1), pp. 14-21.</dc:identifier>
+  <dc:relation>http://orgprints.org/6570/</dc:relation>
+</oai_dc:dc>

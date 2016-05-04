@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modelling diverse root density dynamics and deep nitrogen uptake</dc:title>
+  <dc:creator>Pedersen, Anders</dc:creator>
+  <dc:creator>Zhang, Kefeng</dc:creator>
+  <dc:creator>Thorup-Kristensen, Kristian</dc:creator>
+  <dc:creator>Jensen, Lars Stoumann</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:subject>Farm nutrient management</dc:subject>
+  <dc:subject>Air and water emissions</dc:subject>
+  <dc:description>We present a 2-D model for simulation of root density and plant nitrogen (N) uptake for crops grown in agricultural systems, based on a modification of the root density equation originally proposed by Gerwitz and Page (1974). A root system form parameter was introduced to describe the distribution of root length vertically and horizontally in the soil profile. The form parameter can vary from 0 where root density is evenly distributed through the soil profile, to 8 where practically all roots are found near the surface. The root model has other components describing root features, such as specific root length and plant N uptake kinetics. The same approach is used to distribute root length horizontally, allowing simulation of root growth and plant N uptake in row crops.&#xD;
+The rooting depth penetration rate and depth distribution of root density were found to be the most important parameters controlling crop N uptake from deeper soil layers. The validity of the root distribution model was tested with field data for white cabbage, red beet, and leek. The model was able to simulate very different root distributions, but it was not able to simulate increasing root density with depth as seen in the experimental results for white cabbage. The model was able to simulate N depletion in different soil layers in two field studies. One included vegetable crops with very different rooting depths and the other compared effects of spring wheat and winter wheat. In both experiments variation in spring soil N availability and depth distribution was varied by the use of cover crops. This shows the model sensitivity to the form parameter value and the ability of the model to reproduce N depletion in soil layers. This work shows that the relatively simple root model developed, driven by degree days and simulated crop growth, can be used to simulate crop soil N uptake and depletion appropriately in low N input vegetable production systems, with a requirement of few measured parameters.</dc:description>
+  <dc:date>2009</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/16106/1/16106.pdf</dc:identifier>
+  <dc:identifier>Pedersen, Anders; Zhang, Kefeng; Thorup-Kristensen, Kristian and Jensen, Lars Stoumann   (2009) Modelling diverse root density dynamics and deep nitrogen uptake.   Plant and Soil, 326 (1-2), pp. 493-510.</dc:identifier>
+  <dc:relation>http://orgprints.org/16106/</dc:relation>
+</oai_dc:dc>

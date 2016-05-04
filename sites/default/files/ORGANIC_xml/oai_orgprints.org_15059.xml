@@ -1,0 +1,13 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>CH-FARMIS - An agricultural sector model for Swiss agriculture</dc:title>
+  <dc:creator>Sanders, Jürn</dc:creator>
+  <dc:subject>Policy environments and social economy</dc:subject>
+  <dc:description>This working paper gives an overview of the farm group model CH-FARMIS - a comparative static, process analytical, non-linear programming model that allows a separate assessment of the impacts of policies on organic and non-organic farming in Switzerland. In CH-FARMIS, the agricultural sector is represented by thirty farm groups, which can be char-acterised by their farming system, farm type and geographic location. Book keeping data from the Swiss FADN was used as a primary source for the model. By applying farm-specific weight-ing factors, farm data were aggregated to sector accounts. The technical coefficients of the farm model were either taken directly from farm accounts or calculated on the basis of normative data. Agricultural production is represented by 29 crop activities and 15 livestock activities. The factor allocation and production of each farm group is optimised by maximising farm income under policy and management restrictions. The restrictions cover the area of land and labour use, livestock feeding, fertiliser balance, rearing of young stock, allocation of direct payments and requirements with respect to the organic production system. A positive mathematical pro-gramming approach (PMP) was used to calibrate the production activities in the base year to observed activity levels.</dc:description>
+  <dc:date>2006</dc:date>
+  <dc:type>Working paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/15059/1/FARMIS_Discussionpaper.pdf</dc:identifier>
+  <dc:identifier>Sanders, Jürn    (2006) CH-FARMIS - An agricultural sector model for Swiss agriculture.    Working paper, Research Institute of Organic Agriculture FiBL, 5070 frick, Switzerland.   [Unpublished]</dc:identifier>
+  <dc:relation>http://orgprints.org/15059/</dc:relation>
+</oai_dc:dc>

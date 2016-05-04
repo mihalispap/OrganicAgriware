@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A decision network for inspections in organic farms in Italy</dc:title>
+  <dc:creator>Gambelli, Danilo</dc:creator>
+  <dc:creator>Zanoli, Raffaele</dc:creator>
+  <dc:creator>Solfanelli, Francesco</dc:creator>
+  <dc:subject>Food security, food quality and human health</dc:subject>
+  <dc:subject>Values, standards and certification</dc:subject>
+  <dc:description>Inspections in organic farming systems are the key tool to assure reliability of the organic business and detection of non-compliant operators. Supporting control bodies in the inspection procedure can increase the efficiency and competitiveness of the sector. Here we propose a decision support system for inspections based on Bayesian networks. Our model is based on statistical information taken from the archives of main Italian control body, and considers decision strategies according to the maximization of expected utility based on risk minimization. © 2012 The authors and IOS Press.</dc:description>
+  <dc:date>2014</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/27765/7/27765.pdf</dc:identifier>
+  <dc:identifier>Gambelli, Danilo; Zanoli, Raffaele and Solfanelli, Francesco   (2014) A decision network for inspections in organic farms in Italy.   Frontiers in Artificial Intelligence and Applications, 238, pp. 403-408.</dc:identifier>
+  <dc:relation>http://orgprints.org/27765/</dc:relation>
+</oai_dc:dc>

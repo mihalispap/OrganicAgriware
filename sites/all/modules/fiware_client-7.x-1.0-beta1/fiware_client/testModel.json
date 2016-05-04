@@ -1,0 +1,27 @@
+{"contextElements": [
+        {
+            "type": "UserTrack",
+            "isPattern": "false",
+            "id": "2",
+            "attributes": [
+            {
+                "name": "ip",
+                "type": "string",
+                "value": "1.1.1.1"
+            },
+            {
+                "name": "searchterm",
+                "type": "string",
+                "value": "tommatoes"
+            },
+            {
+                "name": "login_days",
+                "type": "integer",
+                "value": "2"
+            }
+            ]
+        }
+    ],
+    "updateAction": "APPEND"
+}
+

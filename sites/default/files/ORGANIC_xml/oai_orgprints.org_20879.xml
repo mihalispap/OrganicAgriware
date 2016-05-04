@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Incomplete split-plots in designs with many entries – a compromise between split-plots and randomized complete block designs</dc:title>
+  <dc:creator>Kristensen, Kristian</dc:creator>
+  <dc:subject>Farming Systems</dc:subject>
+  <dc:subject>Crop husbandry</dc:subject>
+  <dc:description>The paper shows how the Alpha-design (also known as generalised lattice) may be used for constructing incomplete split-plot designs and describes 4 different methods (A, B, C and D) of construction. Intra-block efficiency factors and theoretical considerations are used to compare the methods. Based on those considerations method B was considered to be the most appropriate method for trials where tests for interaction between the two factors were important and thus this method was used and most of the paper deals with trials based on this construction method. &#xD;
+&#xD;
+The incomplete split-plots were superior to traditional split-plots in most cases – and the increase in efficiency of the designs can be quite large – especially for comparisons involving the whole-plot treatment. The efficiency for the comparison of the main effect of the whole-plot treatment was in most cases larger for randomized complete block design than for the incomplete split-plot design, but for other comparisons the proposed designs were in most cases more efficient than a randomized complete block design. The efficiency of the designs was compared to traditional split-plot designs and randomized complete block designs using 3 types of data. The 3 types were simulated data with known covariance structure, data from uniformity trials and data from actual trials using incomplete split-plot designs for comparing cereal varieties under different growing conditions. It is concluded that the incomplete split-plot designs may be a good alternative to traditional split-plots and a good compromise between split-plots and randomised complete blocks.</dc:description>
+  <dc:date>2012</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20879/1/2012_Kristensen_Incomplete_split-plot_designs.pdf</dc:identifier>
+  <dc:identifier>Kristensen, Kristian   (2012) Incomplete split-plots in designs with many entries – a compromise between split-plots and randomized complete block designs.   Euphytica, 183 (3), pp. 401-413.</dc:identifier>
+  <dc:relation>http://orgprints.org/20879/</dc:relation>
+</oai_dc:dc>

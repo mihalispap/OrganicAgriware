@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Development of a dynamic population model as a decision support system for Codling Moth (Cydia pomonella L) management</dc:title>
+  <dc:creator>Trapman, M.</dc:creator>
+  <dc:creator>Helsen, H.</dc:creator>
+  <dc:creator>Polfliet, M.</dc:creator>
+  <dc:subject>Crop health, quality, protection</dc:subject>
+  <dc:subject>Fruit and berries</dc:subject>
+  <dc:description>In 2004 RIMpro-Cydia was developed as a dynamic population model that simulates the&#xD;
+within-year biology of a local codling moth population. The model is meant to be used by&#xD;
+growers and advisors to optimize the control of codling moth populations in organic and&#xD;
+integrated managed orchards. The model is based on literature data and unpublished&#xD;
+research data. Fractional boxcar trains are used to mimic the dispersion in the&#xD;
+developmental processes. The model is run in real time on the data input of local weather&#xD;
+stations, starting on 1 January. The output of the model was compared with the results of&#xD;
+field observations in three years in an untreated orchard. In the years 2005 to 2007 the&#xD;
+progress in egg deposition as predicted by the model was in general agreement with the&#xD;
+field data. The start of the egg deposition period was predicted well. The end of the egg&#xD;
+deposition period was predicted when in the field about 10% of the eggs was still to be&#xD;
+laid. There was no consistency in the relation between cumulated pheromone trap catches&#xD;
+and the cumulative egg deposition as calculated from the field data.</dc:description>
+  <dc:contributor>Boos, Markus</dc:contributor>
+  <dc:date>2008</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/13703/1/247-251.pdf</dc:identifier>
+  <dc:identifier>Trapman, M.; Helsen, H. and Polfliet, M.    (2008) Development of a dynamic population model as a decision support system for Codling Moth (Cydia pomonella L) management.   In: Boos, Markus (Ed.)  Ecofruit - 13th International Conference on Cultivation Technique and Phytopathological Problems in Organic Fruit-Growing: Proceedings to the Conference from 18thFebruary to 20th February 2008 at Weinsberg/Germany, pp. 247-251.</dc:identifier>
+  <dc:relation>http://orgprints.org/13703/</dc:relation>
+</oai_dc:dc>

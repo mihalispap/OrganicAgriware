@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Organic dairy cows: milk yield and lactation characteristics in thirteen established herds and development of a herd simulation model for organic milk production</dc:title>
+  <dc:creator>Hovi, M</dc:creator>
+  <dc:subject>Education, extension and communication</dc:subject>
+  <dc:subject>Dairy cattle</dc:subject>
+  <dc:subject>Animal husbandry</dc:subject>
+  <dc:description>As a consequence of organic standards and principles, organic dairy producers are frequently faced with a different set of management considerations than those found in conventional dairy systems. The broad objective of this study was to examine in detail the production characteristics of 13 well-established organic dairy herds, and to relate these to the specific conditions that exist within organic dairy farming.&#xD;
+&#xD;
+Monthly milk records for 13 organic herds for three years were collected and converted into a Microsoft Access database, using InterHerd™ (Agrisoft Plc., UK) herd management software. The data were sorted and analysed using the InterHerd-herd management, Excel for Windows™ and Statistix for Windows software programmes. Estimated parameters were used to examine the importance of two important indicators: lifetime yield/lactation length and economic efficiency. To assess the first, a spreadsheet model based on the Wood's lactation curve was developed. With regard to the latter, a model calculator was used. Five herds were chosen for case studies, that examined the farm performance by using InterHerd™-generated data and by interviewing the producer retrospectively and asking him to comment on the data.&#xD;
+&#xD;
+Results&#xD;
+Milk yield and lactation characteristics&#xD;
+ The 13 established, organic herds were characterised with relatively low yields, but herd variation was great: from a total lactation yield of 5,100 kg to 7,000 kg. Milk fat and protein content, lactation length and individual cow SCC means were similar to those reported in conventional, milk recorded herds.&#xD;
+ Lactation yields increased up to the third lactation, whereas persistency of lactations decreased up to the third lactation. This pattern followed similar patterns reported in conventionally managed herds. Similarly, somatic cell counts increased with parity, mimicking similar phenomenon reported in conventionally managed dairy cows.&#xD;
+ Length of lactation and lactation persistency were associated with month of calving, with autumn calving cows tending to have shorter lactations with better persistency. This phenomenon was, however, confounded with parity.&#xD;
+Fertility&#xD;
+ It is concluded that fertility performance in terms of culling for fertility and mean calving intervals were better in the organic survey herds when compared with existing data from conventionally managed UK dairy herds. Good fertility performance even in the highest yielding organically managed cows suggests that early lactation energy deficit may not be a major problem in these herds. It is also suggested that financial impact of high number of services per conception, as observed in majority of the survey herds, may be insignificant as the main losses caused by poor fertility are attributable to culling and prolonged calving intervals. &#xD;
+Herd models&#xD;
+ Herd productivity indices were generated, using an existing model based on a measure of feed conversion efficiency at the herd level. The advantage of using this approach in the estimation of productivity is that it takes full account of the entire feed input to the system, including forage. &#xD;
+ The production index was closely and independently associated with yield and calving rate. Culling was not independently associated with the production index but once calving rate and lactation yield are taken into account, culling rate also becomes a significant factor.&#xD;
+Case studies&#xD;
+ Case studies demonstrated the usefulness of recorded data analysis, using herd management software and observation of seasonally adjusted lactation curves to examine feeding management. In all five herds, apparent and reoccurring seasonal feeding and grazing management shortcomings were detected.&#xD;
+&#xD;
+Recommendations&#xD;
+ Further research would need to be carried out to establish financial consequences of poor fertility in organic systems with different milk pricing and cow values. Similarly, further research is needed to establish causes for high numbers of services per conception in these herds and to establish whether this phenomenon exists in other organically managed herds.&#xD;
+ The herd productivity calculator model (LPEC) showed to be a good and robust measure of productivity. Next logical step in this analysis would be to gain data on purchased feeds, so that the productivity index can be expressed in terms of a gross margin per unit of forage input. This would allow the full importance of forage to organic dairy systems to be expressed, and would also allow productivity to be evaluated in terms economic margin per unit of input produced on-farm. &#xD;
+ The LPEC generated indices could also be utilised to examine the potential impact of changes to systems before an intervention is implemented, by including costs of intervention and assumed values of production post-intervention. Sensitivity analyses may be conducted to identify the relative importance of individual production parameters to overall herd productivity. &#xD;
+ Careful assessment of lactation characteristics in a herd is needed to predict the overall impact of extended calving intervals. It is likely that in most organic herds feeding management would need to be adjusted in order to produce lactations with low late lactation decline to avoid financial losses caused by longer calving intervals.&#xD;
+ Analysis of seasonally adjusted lactation curves as a monitoring and decision support system for feeding management is likely to be a useful for organic herds, particularly during conversion period when new feeding systems need to be introduced in a herd.</dc:description>
+  <dc:date>2001</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/6609/1/OF0170_2152_FRP.pdf</dc:identifier>
+  <dc:identifier>Hovi, M         (2001) Organic dairy cows: milk yield and lactation characteristics in thirteen established herds and development of a herd simulation model for organic milk production.    University of Reading, VEERU.</dc:identifier>
+  <dc:relation>http://orgprints.org/6609/</dc:relation>
+</oai_dc:dc>

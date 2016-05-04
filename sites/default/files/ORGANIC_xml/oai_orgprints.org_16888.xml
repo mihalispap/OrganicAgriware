@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Recommendable block sizes: a case study on Finnish official variety trials of barley cultivars</dc:title>
+  <dc:creator>Jauhiainen, Lauri</dc:creator>
+  <dc:creator>Öfversten, Jukka</dc:creator>
+  <dc:creator>Kangas, Arjo</dc:creator>
+  <dc:subject>Research methodology and philosophy</dc:subject>
+  <dc:description>Well-established results in the current statistical literature imply that plant breeders should use incomplete block designs wherever spatial variability exists and the number of treatments is large. But the theoretical position does not indicate the recommendable number of cultivars in an incomplete block. In this study we used data from 28 official variety trials conducted in Finland during the period 2001-2005 to study theffect of block size on the efficiency of testing pairwise yield differences of barley cultivars and cultivar rankings. In previous trials some 6-7 cultivars have usually been included in one block. Our results imply that the efficiency of testing procedures could be improved by using a block size as small as 4-5. The results further imply that if an experiment with an incomplete block design is well planned to mitigate the effects of within-block heterogeneity, the spatial mixed model techniques and the conventional analysis of variance techniques have approximately the same efficiency in testing pairwise yield differences. Thus, if appropriate blocking strategies are used in planning the trials, there is usually no need to change the conventional practice followed in statistical analysis.</dc:description>
+  <dc:publisher>MTT Agrifood Research Finland</dc:publisher>
+  <dc:date>2008</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/16888/1/jauhiainen.pdf</dc:identifier>
+  <dc:identifier>Jauhiainen, Lauri; Öfversten, Jukka and Kangas, Arjo   (2008) Recommendable block sizes: a case study on Finnish official variety trials of barley cultivars.   Agricultural and Food Science, 17 (1), pp. 63-72.</dc:identifier>
+  <dc:relation>http://orgprints.org/16888/</dc:relation>
+</oai_dc:dc>

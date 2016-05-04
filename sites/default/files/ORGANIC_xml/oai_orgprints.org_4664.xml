@@ -1,0 +1,13 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>C-TOOL version 1.1. A tool for simulation of soil carbon turnover. Description and users guide</dc:title>
+  <dc:creator>Petersen, B.M.</dc:creator>
+  <dc:subject>Soil biology</dc:subject>
+  <dc:description>The program C-TOOL (v. 1.1) can enhance SOM model development by aiding the construction, revision and testing of soil carbon turnover models. Models can be created directly, without the aid of programmers. The program can use any time step between one day and one year, and can be run either for a predefined period or continue until specified steady-level criterions for carbon pools are reached. Development in soil carbon content at any desired time span can be simulated.  Simulation of carbon isotopes 13C and 14C is facilitated, and it is possible to simulate a specific isotope tagging in order to investigate carbon flow properties in the implemented model.  Standard driving variables are temperature (in air or soil), soil water content (either absolute content, relative content or pressure potential) and amount, type and application date for input of carbon to the soil.  All settings are performed through ascii-files, and not through screen dialogs.</dc:description>
+  <dc:date>2003</dc:date>
+  <dc:type>Web product</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/4664/1/4664.pdf</dc:identifier>
+  <dc:identifier>Petersen, B.M.    (2003) C-TOOL version 1.1. A tool for simulation of soil carbon turnover. Description and users guide.   .  Online at &lt;www.agrsci.dk/c-tool/  &lt;www.agrsci.dk/c-tool/ &gt;&gt;.</dc:identifier>
+  <dc:relation>http://orgprints.org/4664/</dc:relation>
+</oai_dc:dc>

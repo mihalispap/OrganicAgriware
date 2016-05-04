@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Yield of spring barley mixtures as a function of varietal and environmental characteristics</dc:title>
+  <dc:creator>Kiær, Lars</dc:creator>
+  <dc:creator>Skovgaard, Ib</dc:creator>
+  <dc:creator>Østergård, Hanne</dc:creator>
+  <dc:subject>Cereals, pulses and oilseeds</dc:subject>
+  <dc:subject>Crop combinations and interactions</dc:subject>
+  <dc:subject>Breeding, genetics and propagation</dc:subject>
+  <dc:description>To design good variety mixtures it is important to understand the influence of varietal and environmental characteristics on mixing effect, e.g. what characteristics are more beneficial when all mixed varieties express it highly and what characteristics are more beneficial when the mixed varieties express it to varying extent. However, as it is generally impossible to manage more than a few experimental combinations in each field trial, information on general relationships and factors of importance for the successful design of variety mixtures may be overlooked. Using meta-regression (e.g. Houwelingen et al. 2002), numerous results of such trials can be combined, and the influence of varietal and environmental factors on mixing effect can be elucidated. &#xD;
+Here, two specific hypotheses were investigated:&#xD;
+1.	Variation in straw length among component varieties will increase mixing effect due to enhanced potential for resource utilization. &#xD;
+2.	Mixing effect will increase with more stressful environments due to increased importance of mechanisms like complementarity and compensation.&#xD;
+Meta-analyses with and without covariates were applied to test the hypotheses and elucidate factors of importance for mixing success.&#xD;
+The simple meta-analysis showed significant overall increase in yield due to mixing of varieties in spite of slightly opposing results between individual trials. However, the meta-regressions were unable to support the two hypotheses: the mixing effect was not affected by component variation in straw length, and the mixing effect was slightly increasing with environmental yield potential, which was actually arguing against the hypothesis. Further analyses must be done to investigate whether these trends can be found in other data sets and whether further covariates may assist interpretation.&#xD;
+The results also show that experimental trials with extraordinarily small experimental variation may influence the conclusions of the analysis. The excluded trial was performed at an experimental farm which is known to provide rather homogenous growing conditions. This information is not readily included in the current use of weighting. In the work to come, we will assess the appropriateness of the current application of inverse variance as weights in meta-analysis of field trial data.&#xD;
+Other critical issues that need further investigation include the possible lack of independence between estimates due to shared environments and common component varieties of mixtures.</dc:description>
+  <dc:date>2007</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/11371/1/11371.pdf</dc:identifier>
+  <dc:identifier>Kiær, Lars; Skovgaard, Ib and Østergård, Hanne    (2007) Yield of spring barley mixtures as a function of varietal and environmental characteristics.       Paper at:   Varietal characteristics of cerealsin different growing systems with special emphasis on below ground traits, Velence, Hungary, 29-31 May, 2007.</dc:identifier>
+  <dc:relation>http://orgprints.org/11371/</dc:relation>
+</oai_dc:dc>

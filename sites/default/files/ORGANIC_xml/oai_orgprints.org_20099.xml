@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Un sistema di certificazione risk-based per i controlli&#xD;
+in agricoltura biologica: un’applicazione tramite&#xD;
+Bayesian networks</dc:title>
+  <dc:creator>Gambelli, Danilo</dc:creator>
+  <dc:creator>SOLFANELLI, FRANCESCO</dc:creator>
+  <dc:creator>Zanoli, Raffaele</dc:creator>
+  <dc:subject>Values, standards and certification</dc:subject>
+  <dc:subject>Regulation</dc:subject>
+  <dc:description>Risk-based inspection system for the organic certification: a bayesian&#xD;
+networks approach.&#xD;
+The existing method of certification in organic agriculture system, which&#xD;
+requires a periodical inspection for all the operators, is inefficient due to the&#xD;
+high cost of these controls. A risk based decision support system, that could&#xD;
+assist the inspection body during the planning of the annual inspection visits,&#xD;
+is advocated to be more cost-effective and efficient. The risk based decision&#xD;
+support system is constructed as a Bayesian network; the models incorporate&#xD;
+the factors that influence risk of irregularity and analyse their effects by&#xD;
+determining probability of non-compliance. Empirical findings using a sample&#xD;
+of Italian data on inspection of organic farms, support the idea that the current&#xD;
+risk categories used by control bodies in Italy are reasonable, but could be&#xD;
+recursively updated by using a Bayesian network model and incremental&#xD;
+inspection evidence.</dc:description>
+  <dc:date>2011</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20099/1/REAA_PREPRINT.pdf</dc:identifier>
+  <dc:identifier>Gambelli, Danilo; SOLFANELLI, FRANCESCO and Zanoli, Raffaele   (2011) Un sistema di certificazione risk-based per i controlli in agricoltura biologica: un’applicazione tramite Bayesian networks.  [A risk-based certification system for inspections in organic farming: an analysis with Bayesian networks.]  Rivista di Economia Agro-Alimentare, 3, pp. 20-40.</dc:identifier>
+  <dc:relation>http://orgprints.org/20099/</dc:relation>
+</oai_dc:dc>

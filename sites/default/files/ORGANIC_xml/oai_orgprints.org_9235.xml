@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Life cycle modelling of environmental impacts of application of processed organic municipal solid waste on agricultural land (EASEWASTE)</dc:title>
+  <dc:creator>Hansen, Trine L.</dc:creator>
+  <dc:creator>Bhander, Gurbakhash S.</dc:creator>
+  <dc:creator>Christensen, Thomas H.</dc:creator>
+  <dc:creator>Bruun, Sander</dc:creator>
+  <dc:creator>Jensen, Lars S.</dc:creator>
+  <dc:subject>Environmental aspects</dc:subject>
+  <dc:subject>Recycling, balancing and resource management</dc:subject>
+  <dc:description>A model capable of quantifying the potential environmental impacts of agricultural application of composted or anaerobically digested source-separated organic municipal solid waste (MSW) is presented. In addition to the direct impacts, the model accounts for savings by avoiding the production and use of commercial fertilizers. The model is part of a larger model, Environmental Assessment of Solid Waste Systems and Technology (EASEWASTE), developed as a decisionsupport model, focusing on assessment of alternative waste management options. The environmental impacts of the land application of processed organic waste are quantified by emission coefficients referring to the composition of the processed waste and related to specific crop rotation as well as soil type. The model contains several default parameters based on literature data, field experiments and modelling by the agro-ecosystem model, Daisy. All data can be modified by the user allowing application of the model to other situations. A case study including four scenarios was performed to illustrate the use of the model. One tonne of nitrogen in composted and anaerobically digested MSW was applied as fertilizer to loamy and sandy soil at a plant farm in western Denmark. Application of the processed organic waste mainly affected the environmental impact categories global warming (0.4–0.7 PE), acidification (–0.06 (saving)–1.6 PE), nutrient enrichment (–1.0 (saving)–3.1 PE), and toxicity. The main contributors to these categories were nitrous oxide formation (global warming), ammonia volatilization (acidification and nutrient enrichment), nitrate losses (nutrient enrichment and groundwater contamination), and heavy metal input to soil (toxicity potentials). The local agricultural conditions as well as the composition of the processed MSW showed large influence on the environmental impacts. A range of benefits, mainly related to improved soil quality from long-term application of the processed organic waste, could not be generally quantified with respect to the chosen life cycle assessment impact categories and were therefore not included in the model. These effects should be considered in conjunction with the results of the life cycle assessment.</dc:description>
+  <dc:date>2006</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/9235/1/9235.pdf</dc:identifier>
+  <dc:identifier>Hansen, Trine L.; Bhander, Gurbakhash S.; Christensen, Thomas H.; Bruun, Sander and Jensen, Lars S.   (2006) Life cycle modelling of environmental impacts of application of processed organic municipal solid waste on agricultural land (EASEWASTE).   Waste Management and Research, 24, pp. 153-166.</dc:identifier>
+  <dc:relation>http://orgprints.org/9235/</dc:relation>
+</oai_dc:dc>

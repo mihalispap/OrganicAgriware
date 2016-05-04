@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Evaluating and communicating simulated wildlife responses to land-use scenarios</dc:title>
+  <dc:creator>Høye, T.T.</dc:creator>
+  <dc:creator>Skov, F.</dc:creator>
+  <dc:creator>Topping, C.J.</dc:creator>
+  <dc:subject>Education, extension and communication</dc:subject>
+  <dc:subject>Research methodology and philosophy</dc:subject>
+  <dc:description>Reliable assessments of how human activities affect  wildlife populations are essential for effective natural resource management. Agent-based models provide a powerful tool for integration of multiple drivers of ecological systems, but communication of model results is at the same time constrained by the complexity of the model responses. Here, we systematically modify a digital version of a real landscape to produce a set of model landscapes differing in the degree of heterogeneity and test how different landscapes affect abundance and occupancy of six model animal species in four different management scenarios using an agent-based model framework (ALMaSS). ALMaSS is capable of highly detailed modelling of individuals but the outputs can be complex and voluminous. We develop a statistic (the AOR-index) based on the abundance occupancy relationship to simplify presentation of model simulations and facilitate scenario comparisons. Scenario results demonstrate that species respond very differently to a particular land-use scenario and in some cases in opposite directions. The bird and mammal species generally showed larger responses than the invertebrates and changes in occupancy were often smaller than changes in abundance. The species-specific responses are caused by differences in habitat requirements and dispersal abilities, but the importance of such life history traits are affected by landscape dynamics and structure. Hence predictions of species-specific responses to land-use changes in terms of abundance and occupancy are greatly improved by incorporation in a model framework taking spatial and temporal dynamics into account. The use of the AOR-index simplifies the presentation of scenario comparison and provides and objective way to combine impacts across species. Its use, however, still requires management goals in order to evaluate scenario responses.</dc:description>
+  <dc:date>2011-02-01</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/19062/7/19062.pdf</dc:identifier>
+  <dc:identifier>Høye, T.T.; Skov, F. and Topping, C.J.   (2011) Evaluating and communicating simulated wildlife responses to land-use scenarios.   Ecological Indicators,  20,  221-227.</dc:identifier>
+  <dc:relation>http://orgprints.org/19062/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Development of a Management Tool to Indicate the Environmental Impact of Organic Viticulture</dc:title>
+  <dc:creator>Fragoulis, Georgios</dc:creator>
+  <dc:creator>Trevisan, Marco</dc:creator>
+  <dc:creator>di Guardo, Andrea</dc:creator>
+  <dc:creator>Scorce, Andrea</dc:creator>
+  <dc:creator>van der Meer, Markus</dc:creator>
+  <dc:creator>Weibel, Franco</dc:creator>
+  <dc:creator>Capri, Ettore</dc:creator>
+  <dc:subject>Biodiversity and ecosystem services</dc:subject>
+  <dc:subject>Viticulture</dc:subject>
+  <dc:description>Organic viticulture is an important part of the European Union organic farming sector, and, according to the most recent surveys, 1.5% of European Union wine originates from organic farms, with an upward trend. This paper describes an environmental impact of an organic viticulture indicator (EIOVI) that can be reliably used in the management of organic vineyards. The EIOVI can be used as a decision support system for farmers and other property managers by evaluating the potential ecological impact of their choices, thus optimizing management options. The tool allows the simulation of vineyard management based on six agricultural and ecological modules. The EIOVI is a fuzzy expert system that calculates the relationship between the modules on the basis of a set of 64 decision rules. Initial testing (validation) has been performed using 20 simulations for six Swiss wine-growing estates. The results of these tests were promising; the EIOVI motivates managers to consider the wine-growing estate as a whole by subsummarizing all aspects of management. The visualization of results is very tangible and clearly shows that the use of this indicator could improve the management of the vineyard. With some improvements, the EIOVI will be a helpful assessment tool for vine growers, consultants, environmental agencies, and scientists.</dc:description>
+  <dc:publisher>ASA, CSSA, SSSA</dc:publisher>
+  <dc:date>2009</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/17947/1/fragoulis-etal-2009-j-environ-qual.pdf</dc:identifier>
+  <dc:identifier>Fragoulis, Georgios; Trevisan, Marco; di Guardo, Andrea; Scorce, Andrea; van der Meer, Markus; Weibel, Franco and Capri, Ettore   (2009) Development of a Management Tool to Indicate the Environmental Impact of Organic Viticulture.   Journal of Environmental Quality , 38 (2), pp. 826-835.</dc:identifier>
+  <dc:relation>http://orgprints.org/17947/</dc:relation>
+</oai_dc:dc>

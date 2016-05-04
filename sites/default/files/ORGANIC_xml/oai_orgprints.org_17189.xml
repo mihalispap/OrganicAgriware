@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Role of benchmark technology in sustainable value analysis : an application to Finnish dairy farms</dc:title>
+  <dc:creator>Kuosmanen, Timo</dc:creator>
+  <dc:creator>Kuosmanen, Natalia</dc:creator>
+  <dc:subject>Environmental aspects</dc:subject>
+  <dc:description>Sustainability is a multidimensional concept that entails economic, environmental, and social aspects. The sustainable value (SV) method is one of the most promising attempts to quantify sustainability performance of firms. SV compares performance of a firm to a benchmark, which must be estimated in one way or another. This paper examines alternative parametric and nonparametric methods for estimating the benchmark technology from empirical data. Reviewed methods are applied to an empirical data of 332 Finnish dairy farms. The application reveals four interesting conclusions. First, the greater flexibility of the nonparametric methods is evident from the better empirical fit. Second, negative skewness of the regression residuals of both parametric OLS and nonparametric CNLS speaks against the average-practice benchmark technology in this application. Third, high positive correlations across a wide spectrum of methods suggest that the findings are relatively robust. Forth, the stochastic decomposition of the disturbance term to filter out the noise component from the inefficiency term yields more realistic efficiency estimates and performance targets.</dc:description>
+  <dc:publisher>MTT Agrifood Research Finland</dc:publisher>
+  <dc:date>2009</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/17189/1/kuosmanen.pdf</dc:identifier>
+  <dc:identifier>Kuosmanen, Timo and Kuosmanen, Natalia   (2009) Role of benchmark technology in sustainable value analysis : an application to Finnish dairy farms.   Agricultural and Food Science, 18 (3-4), pp. 302-316.</dc:identifier>
+  <dc:relation>http://orgprints.org/17189/</dc:relation>
+</oai_dc:dc>

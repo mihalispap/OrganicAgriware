@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>SimDen - en simpel model til kvantificering af N2O-emission og denitrifikation.</dc:title>
+  <dc:creator>Vinther, Finn P.</dc:creator>
+  <dc:creator>Hansen, Søren</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:subject>Air and water emissions</dc:subject>
+  <dc:description>Denitrifikationen, som er særdeles vigtig både i landbrugs- og miljømæssig henseende, er en af de vanskeligste processer i kvælstof kredsløbet at kvantificere, idet den er kendetegnet ved en stor rumlig og tidslig variation. Der er brug for mange ressourcekrævende målinger for med rimelig sikkerhed at kvantificere denitrifikationen på markniveau. Eksperimentel bestemmelse af denitrifikationen er derfor oftest udelukket, og man må ty til matematiske modeller, hvis man ønsker at estimere hvad denitrifikationen har været, eller ønsker at vide hvad denitrifikationen måtte blive ved en given ændring i landbrugspraksis. Også modeller kan dog være vanskelige at håndtere, idet de fleste modeller kræver adgang til flere baggrundsoplysninger end det oftest er muligt at fremskaffe. &#xD;
+&#xD;
+Til beregning af niveauet for denitrifikationen i forskellige jordtyper, gødningsscenarier og til dels dyrkningspraksis præsenteres her en simpel empirisk model SimDen, hvor kun oplysninger om jordtype og gødningsmængde og –type er nødvendige. SimDen tager udgangspunkt i den kendsgerning at der ved denitrifikationen dannes både frit kvælstof (N2) og lattergas (N2O), og denitrifikationens omfang beregnes som et produkt af lattergas-emissionen og forholdet mellem frit kvælstof og lattergas: (N2O-emission) x (N2/N2O). Lattergas-emission beregnes på grundlag af kvælstof input og emissionsfaktorer, og N2/N2O-forhold fastsættes på grundlag af litteraturværdier, mens afhængigheden af jordtype og gødningsanvendelse beskrives som funktioner af jordens vandindhold og tilgængeligheden af organisk stof. &#xD;
+&#xD;
+SimDen er verificeret med målinger fra en række danske undersøgelser, og modellen sammenholdes med den dynamiske jord-plante-atmosfære model Daisy. Disse sammenligninger tyder på, at SimDen beregner en denitrifikation, der er i god overensstemmelse med virkeligheden.&#xD;
+&#xD;
+SimDen  kan downloades fra  www.agrsci.dk/simden</dc:description>
+  <dc:date>2004-05</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/3139/1/SimDen.pdf</dc:identifier>
+  <dc:identifier>Vinther, Finn P. and Hansen, Søren         (2004) SimDen - en simpel model til kvantificering af N2O-emission og denitrifikation.  [SimDen - a simple model for quantification of N2O-emission and denitrification.]  DJF rapport, no. 104. Danish Institute of Agricultural Sciences, Department for Agroecology.</dc:identifier>
+  <dc:relation>http://orgprints.org/3139/</dc:relation>
+</oai_dc:dc>

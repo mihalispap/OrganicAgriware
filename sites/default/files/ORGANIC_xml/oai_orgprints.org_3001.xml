@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Analyzing Coronas of Fruits and Leaves</dc:title>
+  <dc:creator>Sadikov, Aleksander</dc:creator>
+  <dc:creator>Kononenko, Igor</dc:creator>
+  <dc:creator>Weibel, Franco</dc:creator>
+  <dc:subject>Fruit and berries</dc:subject>
+  <dc:description>We implemented a system GDV Assistant (Gas Discharge Visualisation Technique) for parameterization and visualization of coronas of humans and plants. Besides standard parameters, developed by the team of Prof. Korotkov, the program includes some additional numerical parameters. &#xD;
+&#xD;
+In last few years in several studies we recorded coronas of apple tree leaves and fruits in order to verify and compare their vitality under different conditions. We used GDV Assistant for preprocessing and for numerical parameterization of coronas and we used various machine learning algorithms for analyzing the databases of parameterized corona pictures. &#xD;
+&#xD;
+The results of our studies show that coronas of leaves and fruits give useful information about the stress status of plants and about the variety. However, we were not able to differentiate between organically and conventionally grown fruit, which were similar in their standard quality parameters such as fruit flesh firmness and sugar content.</dc:description>
+  <dc:publisher>Backbone Publishing</dc:publisher>
+  <dc:contributor>Korotkov, K.</dc:contributor>
+  <dc:date>2004</dc:date>
+  <dc:type>Book chapter</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/3001/1/sadikov-et-al-2004-analyzing_coronas_of_fruits_and_leaves.pdf</dc:identifier>
+  <dc:identifier>Sadikov, Aleksander; Kononenko, Igor and Weibel, Franco    (2004) Analyzing Coronas of Fruits and Leaves.    In: Korotkov, K. (Ed.)   Measuring Energy Fields: State of the Science.  Backbone Publishing.</dc:identifier>
+  <dc:relation>http://orgprints.org/3001/</dc:relation>
+</oai_dc:dc>

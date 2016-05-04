@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>bioC.info: Vervollständigung des Verzeichnisses der kontrollierten Unternehmen des ökologischen Landbaus</dc:title>
+  <dc:creator>Mäder, Rolf</dc:creator>
+  <dc:creator>Fischer, Ulrich</dc:creator>
+  <dc:subject>Food security, food quality and human health</dc:subject>
+  <dc:subject>Values, standards and certification</dc:subject>
+  <dc:description>Ausgangslage&#xD;
+Derzeit veröffentlichen 13 deutsche Kontrollstellen die Daten der kontrollierten Unternehmen über bioC. Die anderen neun zugelassenen deutschen Kontrollstellen veröffentlichen die Daten jeweils auf ihren eigenen Internetseiten. Die Abfrage ihrer Daten ohne einen regelmäßigen, vollständigen Datentransfer an bioC war eine Forderung mehrerer „externer Kontrollstellen“ für eine Beteiligung an bioC. Mit der Einbindung der Daten der „externen Kontrollstellen“ wird die Vervollständigung von bioC und damit die Bereitstellung eines nationalen Verzeichnisses gemäß Durchführungsverordnung (EU) Nr. 426/2011 möglich.&#xD;
+&#xD;
+Ziele und Ergebnisse im Projekt&#xD;
+Ziel des Projektes war die Entwicklung eines Webservices zur Anbindung von externen Datenbanken von Öko-Kontrollstellen zur Erweiterung von www.bioC.info zu einem vollständigen Verzeichnis der kontrollierten Unternehmen des Ökologischen Landbaus in Deutschland und perspektivisch zu einem europaweiten Verzeichnis. Damit soll eine zentrale Möglichkeit der Recherche nach öko-zertifizierten Unternehmen in Deutschland geschaffen werden.&#xD;
+Die für das Vorhaben geplanten technischen (Entwicklung Webservice) und inhaltlichen Ziele (Klärung datenschutz- und haftungsrechtlicher Fragestellungen) wurden erreicht. Mit dem Webservice schafft bioC auch die technischen Voraussetzungen für ein nationales oder auch europäisches Verzeichnis gemäß Durchführungsverordnung (EU) Nr. 426/2011. Dadurch erübrigt sich die Investition öffentlicher Gelder in ein staatliches Verzeichnis.&#xD;
+Der entwickelte Webservice wurde so konzipiert, dass er auch für die derzeit in Entwicklung befindliche mehrsprachige Version von bioC.info nutzbar ist. Damit ist eine gute Grundlage für eine Internationalisierung von bioC geschaffen.&#xD;
+Die Beschreibung des Webservices sowie der Webservice selbst sind auf Anfrage bei der bioC GmbH kostenfrei erhältlich. Die teilnehmenden Kontrollstellen werden von der bioC GmbH bei der Implementierung des Webservices in ihrem System unterstützt.</dc:description>
+  <dc:date>2012</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20816/1/20816-11OE045-bioC-gmbh-maeder-2012-bioC-verzeichnis.pdf</dc:identifier>
+  <dc:identifier>Mäder, Rolf and Fischer, Ulrich         (2012) bioC.info: Vervollständigung des Verzeichnisses der kontrollierten Unternehmen des ökologischen Landbaus.  [bioC.info: Completion of the Directory of Certified Organic Operators.]   bioC GmbH, D-Frankfurt am Main.</dc:identifier>
+  <dc:relation>http://orgprints.org/20816/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Simulating root density dynamics and nitrogen uptake in the soil profile – A simple approach</dc:title>
+  <dc:creator>Pedersen, Anders</dc:creator>
+  <dc:creator>Zhang, Kefeng</dc:creator>
+  <dc:creator>Thorup-Kristensen, Kristian</dc:creator>
+  <dc:creator>Jensen, Lars S.</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:subject>Crop combinations and interactions</dc:subject>
+  <dc:subject>Root crops</dc:subject>
+  <dc:subject>Farm nutrient management</dc:subject>
+  <dc:subject>Vegetables</dc:subject>
+  <dc:description>We present a 2-D model for simulation of root density and nitrogen (N) uptake for crops grown in agricultural systems, based on a modification of Gerwitz and Page’s root density calculation. A root system form parameter was used to describe the distribution of root biomass vertically and horizontal in the soil profile. The form parameter can vary from 0 where root density is evenly distributed in the soil profile, to 8 where practically all roots are found near the surface. Additionally, the root model has other components describing root features, such as specific root length, N uptake kinetics. &#xD;
+The root penetration rate and the depth distribution of root density were found to be the most important parameters controlling crop N uptake from deeper soil layers. The validity of root distribution parameter was tested with field data of white cabbage and shows the sensibility of parameter choice and that the selected parameter fit with N depletion in soil layers. The model was able to simulate N depletion in different soil layers in a field study for crops with different rooting depth and different soil N. &#xD;
+This work provides a simple root model based on degree days with a few determined parameters. With these parameters it will be possible to parameterise crops by few field measurements as root frequency, N uptake and N depletion in the rooted zone.</dc:description>
+  <dc:date>2007</dc:date>
+  <dc:type>Working paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/11361/1/Rodmodel_Artikel_Org_eprint.pdf</dc:identifier>
+  <dc:identifier>Pedersen, Anders; Zhang, Kefeng; Thorup-Kristensen, Kristian and Jensen, Lars S.    (2007) Simulating root density dynamics and nitrogen uptake in the soil profile – A simple approach.    Working paper.   [Unpublished]</dc:identifier>
+  <dc:relation>http://orgprints.org/11361/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Seed mapping of sugar beet to guide weeding robots</dc:title>
+  <dc:creator>Griepentrog, Hans W.</dc:creator>
+  <dc:creator>Nørremark, Michael</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>Individual plant care in agriculture will lead to new opportunities in crop management. Not only the weeding operation is in focus here but it will be more in general for individual chemical or physical treatments of individual weed or crop plants. For the application of fertilizers and chemicals in small dose rates and accurately targeted advanced sensor information e.g. based on spectral responses can be used to consider the individual plant needs ('the speaking plant'). This will have a significant effect on the reduction of inputs and increase the general efficiency rates of agricultural means.&#xD;
+The objective of this project was to provide high accuracy seed position mapping of a field of sugar beet to allow subsequent physical weeding as inter- and within-row treatments. By knowing where the seeds were placed the assumption was that the plants will show up close by. This information about where the individual plants are can be used to show where the crop rows are. Therefore, this can be used as an appropriate information for guiding tractors and/or implements. At least for steering operations for inter-row weeding this procedure can be sufficient.&#xD;
+A high accurate, cm-level, RTK GPS, optical seed detectors and a data logging system were retrofitted on to a conventional sugar beet precision seeder to map the seeds as they were planted (Nørremark et al., 2003). The average error between the seed map and the actual plant map was between 16 mm and 43 mm depending on vehicle speed and seed spacing (Griepentrog et al., 2003). Both parameters influenced the plant position estimates significantly. The seed spacing was particularly important because of its influence on the potential of seed displacements in the furrow after passing the seed detecting sensors.&#xD;
+The results showed that the overall accuracy of the estimated plant positions were acceptable for the guidance of vehicles and implements for weeding purposes as well as for individual plant treatments. This research is contributing to the ongoing Danish research project Robotic Weeding as a cooperative research project of The Royal Veterinary and Agricultural University (KVL), Frederiksberg and the Danish Institute of Agricultural Sciences (DIAS), Horsens.</dc:description>
+  <dc:date>2004</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/4835/1/4835.pdf</dc:identifier>
+  <dc:identifier>Griepentrog, Hans W. and Nørremark, Michael    (2004) Seed mapping of sugar beet to guide weeding robots.       Poster at:   6th Workshop of the EWRS Working Group 'Physical and Cultural Weed Control', Lillehammer, Norway, 8th March 2004.</dc:identifier>
+  <dc:relation>http://orgprints.org/4835/</dc:relation>
+</oai_dc:dc>

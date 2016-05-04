@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A DSS to improve inspection procedures in organic certification. Evidence from an Italian case study</dc:title>
+  <dc:creator>Gambelli, Danilo</dc:creator>
+  <dc:creator>Solfanelli, Francesco</dc:creator>
+  <dc:creator>Zanoli, Raffaele</dc:creator>
+  <dc:subject>Values, standards and certification</dc:subject>
+  <dc:subject>Regulation</dc:subject>
+  <dc:description>Inspections in organic farming systems are the key tool to assure reliability of the organic business and detection of non-compliant operators. Supporting control bodies in the inspection procedure can increase the efficiency and competitiveness of the sector. Here we propose a decision support system for inspections based on Bayesian networks. Our model is based on statistical information taken from the archives of main Italian control body, and considers decision strategies according to the maximization of expected utility based on risk minimization.</dc:description>
+  <dc:date>2014</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/27762/7/27762.pdf</dc:identifier>
+  <dc:identifier>Gambelli, Danilo; Solfanelli, Francesco and Zanoli, Raffaele   (2014) A DSS to improve inspection procedures in organic certification. Evidence from an Italian case study.   Frontiers in artificial intelligence and Applications, IOS press, 261, pp. 441-446.</dc:identifier>
+  <dc:relation>http://orgprints.org/27762/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Entwicklung und Implementierung eines Zuchtkonzeptes zur Produktion von Jungsauen zur Eigenremontierung und zum Verkauf im ökologischen Landbau</dc:title>
+  <dc:subject>Breeding and genetics</dc:subject>
+  <dc:subject>Health and welfare</dc:subject>
+  <dc:subject>Pigs</dc:subject>
+  <dc:description>Das Ziel des Projektes ist die Entwicklung eines optimalen Designs für eine Zuchtstrategie, die den spezifischen Anforderungen ökologischer Schweineproduktionssysteme genügt. Die Einführung eines neuen Zuchtkonzeptes umfasst die Erweiterung der bisherigen Leistungsprüfung und Datenbanksysteme um neue funktionelle Merkmale, genetische Auswertungen, Entwicklung eines ökologischen Gesamtzuchtwertes und Bewertung der verschiedenen Zuchtplanungskonzepte. Das neue Selektionsinstrument (= ökologischer Gesamtzuchtwert) wird durch teilnehmende Betriebe und Zuchtorganisationen zur Optimierung ihrer Anpaarungskonzepte und Selektionsentscheidungen genutzt werden. &#xD;
+Im Detail beinhaltet das Arbeitsprogramm, in chronologischer Reihenfolge: &#xD;
+1.) Identifizierung der teilnehmenden Herden vor dem Beginn des Projektes, &#xD;
+2.) die Anpassung der Software-Pakete an die Datenerfassung für konventionelle und neuartige funktionale Merkmale, &#xD;
+3.) Erhebung biologisch-technischer betriebsspezifischer Parameter und Kostenkomponenten für die Bewertung des Zuchtprogrammdesigns, &#xD;
+4.) Ableitung der ökonomischen Gewichte für die Merkmale im Zuchtziel auf der Grundlage der "Contingent Valuation"-Methode, &#xD;
+5.) Entwicklung eines Systems (Computerprogramm) zur Bewertung von Zuchtprogrammdesigns anhand der Hauptbewertungskriterien Zuchterfolg, Inzucht, genetische Beziehungen und wirtschaftlichen Bewertungskriterien, &#xD;
+6.) Implementierung von Zuchtwertschätzungen mit spezifischen Anpassungen an die Merkmale (z.B Schwellenwert- oder Logistikmodelle für kategoriale funktionale Merkmale), &#xD;
+7.) Entwicklung eines ökologischen Zuchtwertes mittels Selektionsindex-Methodik und basierend auf genetischen Parametern aus den Zuchtwertschätzungen, &#xD;
+8.)Definition der optimalen Selektions- und Remontierungsstrategie sowohl für Zuchtorganisationen als auch für den Betrieb.&#xD;
+Angaben zur Finanzierung des Projekts finden Sie im Förderkatalog des Bundes unter http://foerderportal.bund.de/foekat/jsp/StartAction.do. Bitte geben Sie in das Suchfeld eine 28 plus das Förderkennzeichen (FKZ) des BÖLN-Projektes ein, z.B. 2808OE212 für das BÖLN-Projekt mit der FKZ 08OE212.</dc:description>
+  <dc:type>Project description</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:identifier>{Project}    Entwicklung und Implementierung eines Zuchtkonzeptes zur Produktion von Jungsauen zur Eigenremontierung und zum Verkauf im ökologischen Landbau.  [Development and implementation of a breeding strategy to optimize replacement decisions and sales of sows in organic production systems.]   Runs 2014 - 2017.      Project Leader(s): König, Prof. Sven and Brandt, Prof. Horst, Universität Kassel, D-Witzenhausen.</dc:identifier>
+  <dc:relation>http://orgprints.org/27823/</dc:relation>
+</oai_dc:dc>

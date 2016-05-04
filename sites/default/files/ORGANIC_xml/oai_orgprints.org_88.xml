@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>CN-SIM - a model for the turnover of soil organic mattter. II: Short term carbon and nitrogen development</dc:title>
+  <dc:creator>Petersen, B.M.</dc:creator>
+  <dc:creator>Jensen, L.S.</dc:creator>
+  <dc:creator>Berntsen, J.</dc:creator>
+  <dc:creator>Hansen, S.</dc:creator>
+  <dc:creator>Pedersen, A.</dc:creator>
+  <dc:creator>Henriksen, T.M.</dc:creator>
+  <dc:creator>Sørensen, P.</dc:creator>
+  <dc:creator>Trinsoutrot, I.</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:description>A computer model is presented, which describes the transformations of C and N in the soil. The development has been divided into two interdependent tasks, the first being development of long-term SOC simulation capabilities, and the second being short-term simulations of C and N, as described in this paper. A number of existing, independent laboratory experiments, covering a range of amendments, have been used for this task. The amendments includes a variety of different crop residues and animal manure. These experiments have included measurements of 13C, 14C and 15N in various pools, and the model facilitates the simulation of these isotopes. Non-linear, automated optimisation procedures were utilised wherever feasible. The model generally yielded good descriptions of the measured data. A new method for subdividing the added matter was developed, which gave results generally superior to subdivision according to van Soest pools.</dc:description>
+  <dc:date>2005</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/88/1/88.pdf</dc:identifier>
+  <dc:identifier>Petersen, B.M.; Jensen, L.S.; Berntsen, J.; Hansen, S.; Pedersen, A.; Henriksen, T.M.; Sørensen, P. and Trinsoutrot, I.   (2005) CN-SIM - a model for the turnover of soil organic mattter. II: Short term carbon and nitrogen development.   Soil Biology and Biochemistry, 37, pp. 375-393.</dc:identifier>
+  <dc:relation>http://orgprints.org/88/</dc:relation>
+</oai_dc:dc>

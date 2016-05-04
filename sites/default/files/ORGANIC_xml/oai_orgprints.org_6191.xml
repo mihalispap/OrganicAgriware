@@ -1,0 +1,127 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>ØkologiPlan – Utvikling av planleggingsverktøy for økologisk korn- og kjernebelgvekstproduksjon</dc:title>
+  <dc:creator>Refsgaard, Karen</dc:creator>
+  <dc:creator>Rogneby, Thor Johannes</dc:creator>
+  <dc:creator>Staven, Kjell</dc:creator>
+  <dc:creator>Ebbesvik, Martha</dc:creator>
+  <dc:creator>Rogstad, Berit</dc:creator>
+  <dc:creator>Knutsen, Heidi</dc:creator>
+  <dc:subject>Crop combinations and interactions</dc:subject>
+  <dc:subject>Education, extension and communication</dc:subject>
+  <dc:subject>Production systems</dc:subject>
+  <dc:description>Økologisk planteproduksjon er mer enn konvensjonell planteproduksjon avhengig&#xD;
+av de lokale og naturgitte forholdene, da det er begrenset mulighet til å substituere&#xD;
+med innkjøpte innsatsfaktorer. I økologisk dyrking av korn og kjernebelgvekster&#xD;
+forventer en lavere avlinger og større avlingsvariasjoner mellom år avhengig av&#xD;
+jordart, moldinnhold, gjødsling, skadegjørere og vekstenes plassering i vekstskiftet.&#xD;
+Økonomiske rammebetingelser slik som priser, tilskudd og politiske rammebetingelser&#xD;
+varierer også mellom år og geografiske områder. Et viktig element for å&#xD;
+kunne ta høyde for dette er god driftsledelse, som stiller krav til planleggingsverktøy&#xD;
+for å kunne lage planer og budsjett under ulike forutsetninger. ØkologiPlan er et&#xD;
+økonomisk planleggingsverktøy som kan anvendes ved omlegging fra konvensjonell&#xD;
+til økologisk korn- og kjernebelgvekstproduksjon eller ved endring i økologisk&#xD;
+produksjon. Det kan anvendes av forsøksringer, veiledningstjeneste, regnskapskontor&#xD;
+og bønder for å oppnå en mer helhetlig rådgivning innen økologisk kornog&#xD;
+kjernebelgvekstproduksjon. Programmet er utviklet i samarbeid mellom&#xD;
+Planteforsk, Norsk senter for økologisk landbruk (NORSØK) og Norsk institutt&#xD;
+for landbruksøkonomisk forskning (NILF) med NILF som prosjektleder.&#xD;
+I oppbyggingen av dekningsbidragskalkyler for økologisk drift, er det flere hensyn&#xD;
+å ta, som delvis er ulike de man skal ta i kalkyler for konvensjonell produksjon.&#xD;
+Jordens fruktbarhet på lang sikt er en sentral målsetting i økologisk drift. Planteproduksjon&#xD;
+og vekstskifte må vurderes i et mer langsiktig perspektiv enn det som er&#xD;
+nødvendig i konvensjonell drift. I økologisk produksjon erstatter en ofte variable&#xD;
+kostnader som plantevernmidler og mineralgjødsel med mekanisk ugrasbekjempelse&#xD;
+og husdyrgjødsel eller grønngjødsling og vekstskifter. En del av utgiftene til&#xD;
+dette regnes vanligvis som faste kostnader. Relevant sammenligning mellom økologisk&#xD;
+og konvensjonell produksjon krever at dekningsbidraget dekker det samme&#xD;
+systemet. I ØkologiPlan er det derfor mulighet for å legge inn de ekstra kostnader&#xD;
+til maskiner og arbeid alternativt sparte variable kostnader.&#xD;
+Økologisk planteproduksjon er avhengig av et godt vekstskifte. Det er aktuelt å&#xD;
+se på flerårige vekstskifter som utgangspunkt for beregning av gjennomsnittlige årlige&#xD;
+dekningsbidrag (DB) fremfor å se på enkeltproduksjoner. For eksempel kan det&#xD;
+være nødvendig å ha et år med grønngjødsling i økologisk kornproduksjon hvilket&#xD;
+ikke bidrar med noen reell salgsinntekt, men som bidrar med næringsforsyning til&#xD;
+planteproduksjonen det etterfølgende år. I ØkologiPlan er det derfor mulighet for å&#xD;
+ha opp til 6-årige vekstskifter. I økologisk produksjon er det naturlig å forvente en&#xD;
+større avlingsvariasjon da en er mer avhengig av de naturgitte forhold. Det er derfor&#xD;
+lagt inn forventet avlingsvariasjon mellom år.&#xD;
+Modell&#xD;
+ØkologiPlan inneholder både kalkyledatabaser og verktøy for individuell planlegging.&#xD;
+Den er utviklet som et selvstendig verktøy som kan kobles opp mot&#xD;
+ØkologiPlan – Utvikling av planleggingsverktøy for økologisk korn- og kjernebelgvekstproduksjon&#xD;
+Senter for matpolitikk og marked/Norsk institutt for landbruksøkonomisk forskning, 2004&#xD;
+2&#xD;
+Norkap, NILFs verktøy for driftsplanlegging. Det finnes følgende hovedelementer&#xD;
+og ark: Adm, VelgKalk, Kalk, Agro, Mek og Resultat.&#xD;
+Arket Adm er inngangsporten til ØkologiPlan, her legges inn nøkkeldata om&#xD;
+brukeren og bruket, som danner utgangspunkt for hvilken region han/hun tilhører.&#xD;
+Videre er det mulighet for å velge mellom ulike vekstskifter.&#xD;
+I Arket Agro - Avlingsnivå estimeres forventede avlinger og avlingsvariasjon.&#xD;
+Modellen er bygd opp av tre delmodeller: en for korn og kjernebelgvekster, en for&#xD;
+grovfôravlinger og en for frødyrking, som alle er sydd sammen til en helhetlig&#xD;
+vekstskiftemodell. Det er mulig å ha ulik arealfordeling på de enkelte skifter på&#xD;
+gården det enkelte år, mens hvert skifte må ha samme areal i hele vekstskifteperioden.&#xD;
+Kornmodellen er bygd opp av fem trinn for å bestemme avlingsnivå og avlingsvariasjon:&#xD;
+1. Fra konvensjonell avling til ugjødslet økologisk kornavling med korn som&#xD;
+forgrøde&#xD;
+2. Avlingseffekt av husdyrgjødsel&#xD;
+3. Avlingseffekt av forgrøde basert på valgt vekstskifte&#xD;
+4. Avlingseffekt av ugraspress&#xD;
+5. Årsvariasjon for økologisk korndyrking.&#xD;
+I Grovfôrmodellen beregner en grasavling ved økologisk drift. Det er forutsatt at det er&#xD;
+slåtteng og at dyrkingen foregår i distriktene som programmet har satt opp.&#xD;
+Modellen tar hensyn til engalder, distrikt, jordart, gjødseltype og gjødselmengde.&#xD;
+Frødyrkingsmodellen er svært enkel og tar utgangspunkt i dyrkingsveiledninger.&#xD;
+Avlingen for de ulike artene er låst og blir verken justert av jordtype, gjødsling eller&#xD;
+distrikt. Det er lagt inn fast årsvariasjon for de ulike frøartene. Modellen legger opp&#xD;
+til valg av ugraspress på samme måte som for kornmodellen.&#xD;
+I VelgKalk-arket velges vekster til vekstskiftet som kan være opp til 6 år. Det&#xD;
+samme gjøres for den opprinnelige konvensjonelle produksjonen. For hver vekst&#xD;
+estimerer programmet et avlingsnivå og det velges en standardkalkyle fra gjeldende&#xD;
+region, som overføres fra Norkalk til ØkologiPlan.&#xD;
+I Kalk-arket finnes dekningsbidragskalkyler for vekstene som er valgt i vekstskiftet.&#xD;
+Kalkylene inneholder priser både for salgsprodukter og innsatsfaktorer og er&#xD;
+utarbeidet på tradisjonell måte med produksjonsinntekter fratrukket variable kostnader&#xD;
+beregnet pr. dekar. De ferdige kalkylene er et utgangspunkt som er ment for&#xD;
+redigering og tilpassing av både mengder og priser til de enkelte skifter. Avlingsnivået&#xD;
+og relaterte poster hentes fra Agro-arket, mens priser og kostnader til innsatsfaktorer&#xD;
+kan endres direkte i kalkylen.&#xD;
+I arket Mek gjennomføres beregninger av maskinkostnader og arbeidsforbruk.&#xD;
+Da utleie av redskaper til økologisk kornproduksjon er lite utbredt, er beregninger&#xD;
+gjort med utgangspunkt i kjøp av redskap, men det er mulig å redusere kostnader&#xD;
+ved å dele maskiner med andre. Regnearkene for mekanisering er lagt opp slik at en&#xD;
+kan vurdere flere alternativer opp mot hverandre. En legger inn både investeringskostnader&#xD;
+for maskiner samt kostnader til vedlikehold basert på forventet bruk.&#xD;
+ØkologiPlan – Utvikling av planleggingsverktøy for økologisk korn- og kjernebelgvekstproduksjon&#xD;
+Senter for matpolitikk og marked/Norsk institutt for landbruksøkonomisk forskning, 2004&#xD;
+3&#xD;
+Frasalg av redskap er også mulig. Endelig kan en legge inn forventet arbeidsforbruk&#xD;
+med tilhørende kostnader.&#xD;
+I Resultat-arket gis den samlede økonomiske oversikt for omleggingen eller&#xD;
+endringen i økologisk drift. Når hele vekstskiftet er lagt inn, og kalkylene for hver&#xD;
+vekst er redigert slik at de er mest mulig realistiske i forhold til det aktuelle gårdsbruket,&#xD;
+beregnes automatisk et dekningsbidrag for hver vekst for hele arealet. I tillegg&#xD;
+beregnes variasjonen i resultatene for hvert år. Spesielle tilskudd til økologisk&#xD;
+drift, samt endringer i øvrige tilskudd beregnes automatisk og likeså de estimerte&#xD;
+faste og variable merkostnader til maskininvesteringer og vedlikehold. Heretter beregnes&#xD;
+både de årlige gjennomsnittlige differanseresultatene mellom økologisk og&#xD;
+konvensjonell drift samt variasjonen. Til slutt beregnes en nåverdi som viser den&#xD;
+totale differansen for hele vekstskifteperioden mellom økologisk og konvensjonell&#xD;
+drift. Nåverdien og differansen mellom totalt dekningsbidrag for gården drevet&#xD;
+økologisk og konvensjonelt er nyttige beslutningsgrunnlag for brukere som vurderer&#xD;
+omlegging eller til vurdering av alternative økologiske vekstskifter. Til slutt gis&#xD;
+en oversikt over dekningsbidrag, mengde avling samt endret arbeidskraftbehov gis&#xD;
+pr. dekar, avling og år.&#xD;
+ØkologiPlan gir muligheter for å beregne de økonomiske konsekvenser av en&#xD;
+omlegging fra konvensjonell til økologisk produksjon og vurdere alternative økologiske&#xD;
+vekstskifter - i første runde innen korn- og kjernebelgvekstproduksjon.&#xD;
+Beslutningsverktøyet tar hensyn til de spesielle krav til produksjonsmåter i økologisk&#xD;
+landbruk om vekstskifteplanlegging og naturlig variasjon.</dc:description>
+  <dc:date>2004</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/6191/1/NILF_rapport_okonomiplan_refsgaard.pdf</dc:identifier>
+  <dc:identifier>Refsgaard, Karen; Rogneby, Thor Johannes; Staven, Kjell; Ebbesvik, Martha; Rogstad, Berit and Knutsen, Heidi         (2004) ØkologiPlan – Utvikling av planleggingsverktøy for økologisk korn- og kjernebelgvekstproduksjon.   NILF-report, no. 4. Norwegian Agricultural Economics Research Institute.</dc:identifier>
+  <dc:relation>http://orgprints.org/6191/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bayesian analysis of the linear reaction norm model with unknown covariate</dc:title>
+  <dc:creator>Su, G.</dc:creator>
+  <dc:creator>Madsen, P.</dc:creator>
+  <dc:creator>Lund, M.S.</dc:creator>
+  <dc:creator>Sørensen, D.</dc:creator>
+  <dc:creator>Korsgaard, I.R.</dc:creator>
+  <dc:creator>Jensen, J.</dc:creator>
+  <dc:subject>Breeding and genetics</dc:subject>
+  <dc:description>The reaction norm model is becoming a popular approach for the analysis of G x E interactions. In a classical reaction norm model, the expression of a genotype in different environments is described as a linear function (a reaction norm) of an environmental gradient or value. A common environmental value is defined as the mean performance of all genotypes in the environment, which is typically unknown. One approximation is to estimate the mean phenotypic performance in each environment, and then treat these estimates as known covariates in the model. However, a more satisfactory alternative is to infer environmental values simultaneously with the other parameters of the model. This study describes a method and its Bayesian MCMC implementation that makes this possible. Frequentist properties of the proposed method are tested in a simulation study. Estimates of parameters of interest agree well with the true values. Further, inferences about genetic parameters from the proposed method are similar to those derived from a reaction norm model using true environmental values. On the other hand, using phenotypic means as proxies for environmental values results in poor inferences.</dc:description>
+  <dc:date>2006</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/6045/1/6045.pdf</dc:identifier>
+  <dc:identifier>Su, G.; Madsen, P.; Lund, M.S.; Sørensen, D.; Korsgaard, I.R. and Jensen, J.   (2006) Bayesian analysis of the linear reaction norm model with unknown covariate.   Journal of Animal Science, 86, pp. 1651-1657.</dc:identifier>
+  <dc:relation>http://orgprints.org/6045/</dc:relation>
+</oai_dc:dc>

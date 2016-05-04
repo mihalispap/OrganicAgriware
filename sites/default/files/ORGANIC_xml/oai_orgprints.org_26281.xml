@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>PERSYST, a model for ex ante assessment of cropping systems performances. Adaptation to organic farming in the Ile-de-France region</dc:title>
+  <dc:creator>Guichard, L.</dc:creator>
+  <dc:creator>Ballot, R.</dc:creator>
+  <dc:creator>Glachant, C.</dc:creator>
+  <dc:creator>Aubert, C.</dc:creator>
+  <dc:subject>Farming Systems</dc:subject>
+  <dc:subject>Crop husbandry</dc:subject>
+  <dc:description>PERSYST is a web software for ex ante assessment of crop yield that takes explicitely into account the cropping system (i.e. crop rotation and crop management) perspective. Environmental and economic indicators are calculated at crop rotation scale to complete the previous yield assessment. In 2012, a research program enabled the model adaptation to organic systems, taking into account weed management and organic inputs supply. This program also allowed to parameterize the web software in the Ile-de-France region for 8 soil types and 18crops. Parameterization has been validated for the most common situations. Validation remains to be done for less common ones. When completed, validation will make it possible to test the software in promising situations of use, such as supporting organic farmers analyzing their current cropping systems, or supporting farmers thinking about converting their farms to organic farming.</dc:description>
+  <dc:date>2013-11</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/26281/1/Guichard_2013_CIAG_Vol32.pdf</dc:identifier>
+  <dc:identifier>Guichard, L.; Ballot, R.; Glachant, C. and Aubert, C.   (2013) PERSYST, a model for ex ante assessment of cropping systems performances. Adaptation to organic farming in the Ile-de-France region.  [PERSYST, un outil d’estimation des PERformances agronomiques de SYSTèmes de culture - Adaptation à l’agriculture biologique en Île-de-France.]  Innovations Agronomiques, 32, pp. 123-138.</dc:identifier>
+  <dc:relation>http://orgprints.org/26281/</dc:relation>
+</oai_dc:dc>

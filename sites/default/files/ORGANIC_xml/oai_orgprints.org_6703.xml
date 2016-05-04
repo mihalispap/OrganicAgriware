@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modelling manure NPK flows in organic farming systems to minimise nitrate leaching, ammonia volatilization and nitrous oxide emissions (OF0197)</dc:title>
+  <dc:creator>Anon,</dc:creator>
+  <dc:subject>Farm nutrient management</dc:subject>
+  <dc:subject>Technology transfer</dc:subject>
+  <dc:subject>Air and water emissions</dc:subject>
+  <dc:description>Manure is an important source of organic matter and nutrients in organic farming systems, principally nitrogen (N), phosphorus (P) and potassium (K). Careful management is required during storage, handling and land-spreading to (a) ensure the most efficient use of the nutrients in the farming system and (b) to limit emissions of nitrate (NO3), ammonia (NH3), nitrous oxide (N2O), methane (CH4) and P to the wider environment. With a likely increase in the organically farmed area, information is needed on best practices for manure management in organic systems to minimise the environmental impacts of these systems. &#xD;
+The aim was that software would calculate NPK fluxes associated with each aspect of the livestock system, and provide options to explore the impact of management change at key stages in the manure management process. The end point was to be a working prototype model/decision support system (DSS), which we could be demonstrated to a group of organic farmers and used for discussion of the NPK flows in their systems. &#xD;
+Most of the effort in this short-term project was spent on three aspects: &#xD;
+1. Developing databases and the underlying model calculations. &#xD;
+2. Developing the software for the prototype system. &#xD;
+3. Limited validation of the output. &#xD;
+The two main challenges in the project were (a) allowing a quick and easy representation of the manure management system, which is often complex and (b) being able to represent complex interactions, simply but robustly. The Manure Model (MANMOD) DSS was developed to allow an iconographic-based model representation of individual farm manure management systems to be readily constructed from a library of system components using a 'drag and drop' operation. This allows the user to construct a diagram of connecting components or ‘nodes’ (e.g. manure source, housing system, storage system) which direct and limit the flow pathway of nutrients through the farming system. Each component or node represents a key stage of the system. &#xD;
+Once the system has been constructed, pressing the calculation button calculates the following variates for each component of the system: output (i.e. the amounts of N, P and K that will be transferred from that component of the system to the next); balance (i.e. the amount residing in that component of the system); losses (gaseous and ‘leachate’). &#xD;
+Workshops were held at the start and end of the project. The following observations were made as a result of this exercise: &#xD;
+- The approach is a relatively quick and simple way of constructing manure management systems. However, it is still quite complex, given the complexity of many management systems. &#xD;
+- It may be that it is a better tool for advisers so that they can use it for several clients and become more familiar with the tool, compared with a farmer who might use it as a one-off during planning. &#xD;
+- Even at its simplest, some detailed information is required – and in units that the farmer may not be familiar with. For example, washdown volume for the hardstanding, amount of straw (kg/animal/month), etc. However, this is not really a reason for not pursuing this information if it will provide an improvement in management. &#xD;
+- One value is the option to scenario test. However, this is reliant on the model being sufficiently refined to be able to fairly represent the changes in response to the system. &#xD;
+The aim of the project was to produce a prototype system. We have done this, but because of the complexity of the systems that we are trying to represent, we recognise that much more detailed validation of the model is required before it can be disseminated. There are now several Defra-funded studies that could be used in the next phase of the work. &#xD;
+(A more detailed summary is available at the start of the main report)</dc:description>
+  <dc:date>2002</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/6703/1/OF0197_2163_FRP.pdf</dc:identifier>
+  <dc:identifier>Anon,          (2002) Modelling manure NPK flows in organic farming systems to minimise nitrate leaching, ammonia volatilization and nitrous oxide emissions (OF0197).    ADAS, Gleadthorpe.</dc:identifier>
+  <dc:relation>http://orgprints.org/6703/</dc:relation>
+</oai_dc:dc>

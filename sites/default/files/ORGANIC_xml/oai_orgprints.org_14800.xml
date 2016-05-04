@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Utilising scripting language for unmanned and automated guided vehicles operating within row crops</dc:title>
+  <dc:creator>Jørgensen, Rasmus N.</dc:creator>
+  <dc:creator>Nørremark, Michael</dc:creator>
+  <dc:creator>Sørensen, Claus G.</dc:creator>
+  <dc:creator>Andersen, Nils Axel</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>A flexible high-level control language is an important element in the ongoing task of introducing automated guided vehicles (AGV) to new application domains. A new application domain is row crops, where small AGV’s will perform weed control around individual crop plants. This paper defines the requirements and scope of a process- and behaviour-based scripting language needed to control the weeding AGV in an agricultural row crop. The goal is to traverse and cover the whole field with no human auxiliary input during the field operation. The basis is the transparent and tactical real-time control language (CL) for small mobile robots (SMR). This SMR-CL has been modified to include some necessary motion commands and a supplemental supervisory function to monitor and record the progressive coverage of the field. The control language was then tested by applying it to a scenario representing typical field conditions for row crops. The construction of a suitable SMR-CL script for use in a field clearly demonstrates the feasibility of adapting behaviour-based control systems to field structures. The conducted case study indicated the importance of including goal-directing modules. Such a module is described here as the ‘supervisory field coverage monitor’ (SFCM), which acts to coordinate the behaviours. The applicability of this modified SMR-CL has been successfully demonstrated using a vehicle test in a specially designed artificial row crop field. The analysis of the operational performance verified that it is possible to cover all rows in a field without conducting time-consuming planning procedures.</dc:description>
+  <dc:date>2008</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/14800/1/14800.pdf</dc:identifier>
+  <dc:identifier>Jørgensen, Rasmus N.; Nørremark, Michael; Sørensen, Claus G. and Andersen, Nils Axel   (2008) Utilising scripting language for unmanned and automated guided vehicles operating within row crops.   Computers and electronics in agriculture, 62, pp. 190-203.</dc:identifier>
+  <dc:relation>http://orgprints.org/14800/</dc:relation>
+</oai_dc:dc>

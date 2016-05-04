@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Identification of organically farmed Atlantic salmon by analysis of stable isotopes and fatty acids</dc:title>
+  <dc:creator>Molkentin, Joachim</dc:creator>
+  <dc:creator>Meisel, Hans</dc:creator>
+  <dc:creator>Lehmann, Ines</dc:creator>
+  <dc:creator>Rehbein, Hartmut</dc:creator>
+  <dc:subject>Food security, food quality and human health</dc:subject>
+  <dc:subject>Aquaculture</dc:subject>
+  <dc:description>Using isotope ratio mass spectrometry (IRMS), the ratios of carbon (δ13C) and nitrogen (δ15N) stable isotopes were investigated in raw fillets of differently grown Atlantic salmon (Salmo salar) in order to develop amethod for the identification of organically farmed salmon. IRMS allowed to distinguish organically farmed salmon (OS) from wild salmon (WS), with δ15N-values being higher in OS, but not from conventionally farmed salmon (CS). The gas chromatographic analysis of fatty acids differentiated WS from CS by stearic acid as well as WS from CS and OS by either linoleic acid or α-linolenic acid, but not OS from CS. The combined data were subjected to analysis using an artificial neural network (ANN). The ANN yielded several combinations of input data that allowed to assign all 100 samples from Ireland and Norway correctly to the three different classes. Although the complete assignment could already be achieved using fatty acid data only, it appeared to be more robust with a combination of fatty acid and IRMS data, i.e. with two independent analytical methods. This is also favourable with respect to a possible manipulation using suitable feed components.Agood differentiation was established even without an ANN by the δ15N-value and the content of linoleic acid. The general applicability in the context of consumer protection should be checked with further samples, particularly regarding the variability of feed composition and possible changes in smoked salmon.&#xD;
+(C) Springer-Verlag 2006</dc:description>
+  <dc:publisher>Springer-Verlag</dc:publisher>
+  <dc:date>2007</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/15285/1/molkentin-etal-2007-EurFoodResTechnol_224_p235-243.pdf</dc:identifier>
+  <dc:identifier>Molkentin, Joachim; Meisel, Hans; Lehmann, Ines and Rehbein, Hartmut   (2007) Identification of organically farmed Atlantic salmon by analysis of stable isotopes and fatty acids.   European Food Research and Technology (224), pp. 535-543.</dc:identifier>
+  <dc:relation>http://orgprints.org/15285/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Simulating soil N2O and CO2 emissions from arable cropping systems using FASSET and MOBILE-DNDC</dc:title>
+  <dc:creator>Chirinda, N.</dc:creator>
+  <dc:creator>Kracher, D.</dc:creator>
+  <dc:creator>Porter, J.R.</dc:creator>
+  <dc:creator>Olesen, J.E.</dc:creator>
+  <dc:creator>Petersen, B.M.</dc:creator>
+  <dc:creator>Doltra, J.</dc:creator>
+  <dc:creator>Kiese, R.</dc:creator>
+  <dc:creator>Butterbach-Bahl, K.</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:subject>Air and water emissions</dc:subject>
+  <dc:description>Modelling of soil emissions of nitrous oxide (N2O) and carbon dioxide (CO2) is complicated by complex interactions between processes and factors influencing their production, consumption and transport. In this study N2O emissions and heterotrophic CO2 respiration were simulated from soils under winter wheat grown in three different organic and one inorganic fertilizer-based cropping system using two different models, i.e., MoBiLE-DNDC and FASSET. The two models were generally capable of simulating most seasonal trends of measured soil heterotrophic CO2 respiration and N2O emissions. Annual soil heterotrophic CO2 respiration was underestimated by both models in all systems (about 10−30% by FASSET and 10−40% by MoBiLE-DNDC). Both models overestimated annual N2O emissions in all systems (about 10−580% by FASSET and 20−50% by MoBiLE-DNDC). In addition, both models had some problems in simulating soil mineral nitrogen, which seemed to originate from deficiencies in simulating degradation of soil organic matter, incorporated residues of catch crops and organic fertilizers. To improve the performance of the models, organic matter decomposition parameters need to be revised.</dc:description>
+  <dc:date>2010</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/18512/1/Chirinda_et_al_%28modelling%29.pdf</dc:identifier>
+  <dc:identifier>Chirinda, N.; Kracher, D.; Porter, J.R.; Olesen, J.E.; Petersen, B.M.; Doltra, J.; Kiese, R. and Butterbach-Bahl, K.   (2010) Simulating soil N2O and CO2 emissions from arable cropping systems using FASSET and MOBILE-DNDC.   Plant and Soil, 343 (1-2), pp. 139-160.</dc:identifier>
+  <dc:relation>http://orgprints.org/18512/</dc:relation>
+</oai_dc:dc>

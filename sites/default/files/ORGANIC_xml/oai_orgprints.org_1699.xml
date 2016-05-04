@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Simulating Soil Organic Matter Transformations with the New Implementation of the Daisy Model</dc:title>
+  <dc:creator>Petersen, Anders</dc:creator>
+  <dc:creator>Bruun, Sander</dc:creator>
+  <dc:creator>Jensen, Dr. Lars Stoumann</dc:creator>
+  <dc:creator>Hansen, Dr. Søren</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:subject>Production systems</dc:subject>
+  <dc:subject>Crop combinations and interactions</dc:subject>
+  <dc:subject>Soil biology</dc:subject>
+  <dc:description>Daisy is a well-tested deterministic, dynamic soil-plant-atmosphere model, capable of simulating water balance, nitrogen balance and losses, development in soil organic matter and crop growth and production in crop rotations under alternate management strategies. Originally it was developed as a system of single models describing each process involved, but recently it has been developed into a framework, which can be used for implementation of several different models of each of the different processes. Thus, for example a number of different models for simulating soil water dynamics can be chosen depending on the purpose of the simulation and the availability of data for parameterisation. &#xD;
+The sub-model simulating soil organic matter is still a fixed component in the Daisy terminology. This means that there is currently only one model, which can be used to simulate soil organic matter transformations. However this sub-model can be changed considerably. Some examples are given.</dc:description>
+  <dc:publisher>INRA</dc:publisher>
+  <dc:contributor>Recous, Dr. S.</dc:contributor>
+  <dc:date>2001</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/1699/1/DAISY_Poster_Reims.pdf</dc:identifier>
+  <dc:identifier>Petersen, Anders; Bruun, Sander; Jensen, Dr. Lars Stoumann and Hansen, Dr. Søren    (2001) Simulating Soil Organic Matter Transformations with the New Implementation of the Daisy Model.   In: Recous, Dr. S. (Ed.)  Conference Transactions, INRA.</dc:identifier>
+  <dc:relation>http://orgprints.org/1699/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Un sistema di certificazione risk-based per i controlli in agricoltura biologica: un’applicazione tramite Bayesian networks.</dc:title>
+  <dc:creator>Gambelli, Danilo</dc:creator>
+  <dc:creator>Solfanelli, Francesco</dc:creator>
+  <dc:creator>Zanoli, Raffaele</dc:creator>
+  <dc:subject>Regulation</dc:subject>
+  <dc:description>The existing method of certification in organic agriculture system, which requires a periodical inspection for all the operators, is inefficient due to the high cost of these controls. A risk based decision support system, that could assist the inspection body during the planning of the annual inspection visits, is advocated to be more cost-effective and efficient. The risk based decision support system is constructed as a Bayesian network; the models incorporate the factors that influence risk of irregularity and analyse their effects by determining probability of non-compliance. Empirical findings using a sample of Italian data on inspection of organic farms, support the idea that the current risk categories used by control bodies in Italy are reasonable, but could be recursively updated by using a Bayesian network model and incremental inspection evidence.</dc:description>
+  <dc:date>2012-02-01</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/24130/1/EAA_SIEA.pdf</dc:identifier>
+  <dc:identifier>Gambelli, Danilo; Solfanelli, Francesco and Zanoli, Raffaele   (2012) Un sistema di certificazione risk-based per i controlli in agricoltura biologica: un’applicazione tramite Bayesian networks.  [Risk-based inspection system for the organic certification: a bayesian networks approach.]  Società Italiana di Economia Agro- Alimentare (SIEA), 3/2011, pp. 16-37.</dc:identifier>
+  <dc:relation>http://orgprints.org/24130/</dc:relation>
+</oai_dc:dc>

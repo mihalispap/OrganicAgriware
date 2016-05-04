@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Localization in orchards using Extended Kalman Filter for sensor-fusion - A FroboMind component</dc:title>
+  <dc:creator>Christiansen, Martin P.</dc:creator>
+  <dc:creator>Jensen, Kjeld</dc:creator>
+  <dc:creator>Ellekilde, Lars-Peter</dc:creator>
+  <dc:creator>Jørgensen, Rasmus N.</dc:creator>
+  <dc:subject>Crop husbandry</dc:subject>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>Making an automated vehicle navigate in rows of orchards is a feature, relevant for automating the plant nursing and cultivation of the trees. To be able to navigate accurate and reliably, the vehicle must know its position relative to the trees in the orchards.</dc:description>
+  <dc:date>2011-06-14</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20018/1/20018.pdf</dc:identifier>
+  <dc:identifier>Christiansen, Martin P.; Jensen, Kjeld; Ellekilde, Lars-Peter and Jørgensen, Rasmus N.    (2011) Localization in orchards using Extended Kalman Filter for sensor-fusion - A FroboMind component.       Paper at:   NJF seminar 441, Automation and System Technology in Plant Production CIGR section V &amp; NJF section VII conference, Uppsala, Sweden, June 14-16.</dc:identifier>
+  <dc:relation>http://orgprints.org/20018/</dc:relation>
+</oai_dc:dc>

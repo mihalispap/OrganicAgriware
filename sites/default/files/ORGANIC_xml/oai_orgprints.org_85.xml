@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A flexible tool for simulation of soil carbon turnover</dc:title>
+  <dc:creator>Petersen, B.M.</dc:creator>
+  <dc:creator>Olesen, J.E.</dc:creator>
+  <dc:creator>Heidmann, T.</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:description>Existing models of soil organic matter (SOM) turnover are implemented within rigid and often complex modelling environments, which makes the testing of influence of SOM model structure a rather difficult task.&#xD;
+A new soil carbon turnover simulation tool is presented (C-TOOL v. 1.0). It facilitates the construction of a wide range of user-definable SOM models based on linked SOM pools and a decay described for each pool by first order kinetics. Simulation of carbon isotopes 13C and 14C is facilitated. No programming is necessary for defining or redefining models, as the model structure is given in set-up files. The program is fast, and can utilise a range of time-steps, which enhances the computation of steady level SOM contents.&#xD;
+The ability of C-TOOL to mimic and analyse an existing model was tested using the DAISY SOM-model as an example. It was found that both the reduction of the vertically layered SOM-model in DAISY to one layer, and the exclusion of C/N interactions only had small effects on the simulated development in soil carbon content during a 30-year period. This suggests that C/N interactions and vertical layering may initially be ignored when constructing and calibrating models for soil organic matter turnover, which reduces model complexity and input demands considerably. The steady level carbon content was simulated for two soils and a range of management types. An analysis of the model’s sensitivity in simulated steady level carbon content to variation in carbon-input and key parameters was performed, and simulated isotope tagging was demonstrated as a powerful method for analysing carbon flows.</dc:description>
+  <dc:publisher>Elsevier</dc:publisher>
+  <dc:date>2002</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>source</dc:format>
+  <dc:identifier>http://orgprints.org/85/1/85.doc</dc:identifier>
+  <dc:identifier>Petersen, B.M.; Olesen, J.E. and Heidmann, T.   (2002) A flexible tool for simulation of soil carbon turnover.   Ecological Modelling, 151, pp. 1-14.</dc:identifier>
+  <dc:relation>http://orgprints.org/85/</dc:relation>
+</oai_dc:dc>

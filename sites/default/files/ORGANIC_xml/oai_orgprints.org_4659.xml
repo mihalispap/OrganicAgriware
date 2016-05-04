@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>FieldEco – a multi-purpose biologically driven food web model</dc:title>
+  <dc:creator>Axelsen, Jørgen Aagaard</dc:creator>
+  <dc:creator>Sønderskov, Mette</dc:creator>
+  <dc:creator>Bruus-Pedersen, Marianne</dc:creator>
+  <dc:creator>Tybirk, Knud</dc:creator>
+  <dc:creator>Eriksen, Jørgen</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:subject>Soil biology</dc:subject>
+  <dc:subject>Biodiversity and ecosystem services</dc:subject>
+  <dc:description>We here present a food web model (FieldEco) that has been constructed to simulate complicated eco-system processes in a food web that includes both the soil and above ground ecosystems and connec-tions between them. FieldEco has been designed to work at the species level. The model is driven by climatic input, and both the population dynamics and the interactions between species are simulated according to the ideas presented by Gutierrez (1996). &#xD;
+FieldEco is equipped with a user interface from which it is possible to design an ecosystem of interest from a list of parameterised species. Presently, this list of parameterised species consists mainly of species that are common in Danish agricultural fields, and it is possible to manipulate their biological characteristics from the user interface. FieldEco has been designed to simulate an array of food web interactions including “organic matter – degrader”, “degrader – browser” (organisms preying on degrading fungi and bacteria), “nitrogen – nitrogen consumers”, “plant – herbivore”, “predator – prey”, plant competition and nitrogen mineralisation. Since most of the species that have been parameterised in FieldEco originates from Danish agricultural fields the model also has the pos-sibility to simulate effects of agricultural events such as tilling, cutting, harvest and pesticide appli-cations.&#xD;
+In this paper we that FieldEco is capable of simulating 1) the growth of winter oilseed rape, 2) the competition between crops and several species of weeds under herbicide pressure, 3) the growth of clover-grass over three years followed by three consecutive years with a spring cereal with under-sown ryegrass and the release of nitrogen during the cereal cropping period, and finally 4) the popu-lation  development of two earthworm species over 1½ years after ploughing of a clover grass field. Furthermore, FieldEco, or older models that have now been incorporated into FieldEco, has been used to simulate the population development of a Collembola and a rove mite and the toxic effects of a pesticide on them in a simple laboratory ecotoxicological test system, the effect of money spiders and lady beetles on aphids, the population development of a Chrysomelid leaf beetle and the impact of  a given mortality on three species of earthworms.&#xD;
+Due to the simulation of many ecosystem interactions FieldEco can be used for many different purposes. It can be used to assess the impact of many anthropological disturbances such as different agricultural practices and spread of toxic substances, e.g. pesticides, on the structur and functioning of the ecosystem.</dc:description>
+  <dc:date>2004-11</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/4659/2/4659.pdf</dc:identifier>
+  <dc:identifier>Axelsen, Jørgen Aagaard; Sønderskov, Mette; Bruus-Pedersen, Marianne; Tybirk, Knud and Eriksen, Jørgen   (2004) FieldEco – a multi-purpose biologically driven food web model.    ,  ,  .   [Completed]</dc:identifier>
+  <dc:relation>http://orgprints.org/4659/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Especificação objeto-relacional para rastreabilidade da agricultura orgânica.</dc:title>
+  <dc:creator>Vaz, Monica Cristine Scherer</dc:creator>
+  <dc:creator>Vaz, Maria Salete Marcon Gomes</dc:creator>
+  <dc:subject>Production systems</dc:subject>
+  <dc:subject>Farming Systems</dc:subject>
+  <dc:description>Visando aumentar a credibilidade e a qualidade dos produtos orgânicos, as unidades produtoras passam pela certificação, que dentre outros requisitos avaliados, está a rastreabilidade do processo de produção. Para garantir um nível de rastreamento completo da cadeia de produção é preciso que a especificação dos dados atenda às necessidades do agronegócio envolvido. Este artigo apresenta a especificação de um Banco de Dados Objeto-Relacional para a Rastreabilidade da Agricultura Orgânica, utilizando como requisitos o modelo de rastreabilidade desse tipo de agricultura, desenvolvido para pequenos produtores, e um modelo de banco de dados desenvolvido para gestão. Através dos dois modelos, foi possível obter a especificação que satisfaz as demandas das certificadoras de pequenos produtores orgânicos com relação aos dados rastreados, bem como, permitir o armazenamento e manipulação de dados complexos como, mapa de localização e documentos digitalizados.</dc:description>
+  <dc:date>2013-09-06</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/26044/1/Vaz_Espec%C3%ADfica%C3%A7%C3%A3o%20objeto-relacional%20para%20rastreabilidade.pdf</dc:identifier>
+  <dc:identifier>Vaz, Monica Cristine Scherer and Vaz, Maria Salete Marcon Gomes   (2013) Especificação objeto-relacional para rastreabilidade da agricultura orgânica.  [Relational-Object specification to Organic Agriculture Traceability.]  Revista Brasileira de Agroecologia, 8 (3), pp. 163-175.</dc:identifier>
+  <dc:relation>http://orgprints.org/26044/</dc:relation>
+</oai_dc:dc>

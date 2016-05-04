@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modeling the effect of management strategies on the seed bank dynamics of volunteer oilseed rape</dc:title>
+  <dc:creator>Rasmussen, Ilse A.</dc:creator>
+  <dc:creator>Holst, Niels</dc:creator>
+  <dc:creator>Madsen, Kathrine Hauge</dc:creator>
+  <dc:subject>Crop health, quality, protection</dc:subject>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>Seeds of genetically modified (GM) crops remaining in the field after harvest may later emerge as volunteers. These can affect the purity of subsequently harvested crops and cause an uncontrolled flow of GM pollen into the agro-ecosystem. Management strategies that reduce these long-term effects of GM crops include (1) minimizing the input of GM seeds into the soil, (2) preventing proliferation by volunteers and (3) fast depletion of the soil GM seed bank. Formulation of such strategies requires knowledge of the biology of the GM plant (seed loss at or before harvest, seed survival, germination and emergence rates, reproduction, etc.) and of the effect of management practices on the different life stages.&#xD;
+&#xD;
+Of the GM crops considered for cultivation in Denmark, oilseed rape is one of the more problematic, since there is a large seed loss at harvest (5-10%, but up to 50% have been recorded Thomas et al., 1991), and the seeds are viable for 5 years or more. (Pekrun et al., 1998)&#xD;
+&#xD;
+We extended an existing model (“FieldWeeds”) of weed population dynamics under different management strategies (Rasmussen &amp; Holst, 2003) to describe the population dynamics of oilseed rape volunteers. Based on already published data and expert knowledge, we derived a model to predict whether the seed bank of oilseed rape would increase or decrease under different management practices. Running the model with different scenarios we thus estimated how long time it will take to deplete the oilseed rape seed bank in different crop rotations and with different management practices.&#xD;
+&#xD;
+With an alternative approach Madsen et al. (1999, 2002) developed a model to investigate the evolution of herbicide resistant weed populations and their effect on herbicide use. Results from these two simulation approaches will be described along with possible pitfalls, limitations and uncertainties.</dc:description>
+  <dc:publisher>Danish Institute of Agricultural Sciences</dc:publisher>
+  <dc:contributor>Boelt, Birte</dc:contributor>
+  <dc:date>2003</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>source</dc:format>
+  <dc:identifier>http://orgprints.org/3934/1/3934.doc</dc:identifier>
+  <dc:identifier>Rasmussen, Ilse A.; Holst, Niels and Madsen, Kathrine Hauge    (2003) Modeling the effect of management strategies on the seed bank dynamics of volunteer oilseed rape.   In: Boelt, Birte (Ed.)  Proceedings of the 1st European Conference on the Co-existence of Genetically Modified Crops with Conventional and Organic Crops, Danish Institute of Agricultural Sciences, pp. 184-186.</dc:identifier>
+  <dc:relation>http://orgprints.org/3934/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,126 @@
+<dcds:descriptionSet xmlns:dcds="http://purl.org/dc/xmlns/2008/09/01/dc-ds-xml/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/xmlns/2008/09/01/dc-ds-xml/ http://dublincore.org/schemas/xmls/2008/09/01/dc-ds-xml/dcds.xsd">
+  <dcds:description dcds:resourceURI="http://orgprints.org/id/eprint/4226">
+    <dcds:statement dcds:valueURI="http://voa3r.eu/class/Resource" dcds:propertyURI="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" />
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/title">
+      <dcds:literalValueString xml:lang="en">test</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/language" dcds:vesURI="http://purl.org/dc/terms/RFC5646">
+      <dcds:valueString>en</dcds:valueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/abstract">
+      <dcds:literalValueString xml:lang="en">Studies have been carried out the last four years to search for improved mass trapping systems for the control of olive fruit fly in olive groves in Chania, Crete (Greece). Trapping materials, which include various food and sex attractants and different types of traps (liquid and paper traps), were tested for their attractiveness and effectiveness in field trials. &#xD;
+Among the tested attractants (Entomella 50 (E50), Entomella 75 (E75), Dacus bait 100 (Db100), Ammonium sulphate (As) and Sex pheromone (Sp)), the hydrolyzed protein ‘Db100’ showed the highest attractiveness regardless of the ‘Sp’. Among the tested traps (Daidalos, Elcofon, Zervas, Agrisense &amp; Ecotrap), Daidalos captured significantly more flies than the other traps.&#xD;
+When the traps were tested in mass trapping conditions, no statistical differences were observed among the tested traps (chemical control was applied when was necessary) , but all were different from the reference product (classical chemical control).&#xD;
+In addition, when Spinosad, a novel natural compound derived from fermentation of the bacterium Saccharopolyspora spinosa,  was applied as complementary sprays in the Mass trapping field, it also provided comparable and significant control for B. oleae (Gmel.) in comparison to the classical control.</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/bibliographicCitation" dcds:vesURI="http://www.openurl.info/registry/">
+      <dcds:valueString dcds:sesURI="http://voa3r.eu/terms/EncodedSchema">BibTeX:@unpublished{orgprints4226,
+           title = {Study of trapping systems for control of bactrocera oleae (gmelin)(diptera:tephritidae) in crete olive groves },
+          author = {V. Alexandrakis and K. Varikou and A. Kalaitzaki},
+            year = {2005},
+        keywords = {Bactrocera oleae, mass trapping, attractants, Saccharopolyspora spinosa},
+             url = {http://orgprints.org/4226/},
+        abstract = {Studies have been carried out the last four years to search for improved mass trapping systems for the control of olive fruit fly in olive groves in Chania, Crete (Greece). Trapping materials, which include various food and sex attractants and different types of traps (liquid and paper traps), were tested for their attractiveness and effectiveness in field trials. &#xD;
+Among the tested attractants (Entomella 50 (E50), Entomella 75 (E75), Dacus bait 100 (Db100), Ammonium sulphate (As) and Sex pheromone (Sp)), the hydrolyzed protein ?Db100? showed the highest attractiveness regardless of the ?Sp?. Among the tested traps (Daidalos, Elcofon, Zervas, Agrisense \&amp; Ecotrap), Daidalos captured significantly more flies than the other traps.&#xD;
+When the traps were tested in mass trapping conditions, no statistical differences were observed among the tested traps (chemical control was applied when was necessary) , but all were different from the reference product (classical chemical control).&#xD;
+In addition, when Spinosad, a novel natural compound derived from fermentation of the bacterium Saccharopolyspora spinosa,  was applied as complementary sprays in the Mass trapping field, it also provided comparable and significant control for B. oleae (Gmel.) in comparison to the classical control.&#xD;
+}
+}</dcds:valueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/type" dcds:vesURI="http://voa3r.eu/terms/ResourceType">
+      <dcds:valueString>Conference Contribution</dcds:valueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://voa3r.eu/terms/reviewStatus" dcds:vesURI="http://voa3r.eu/terms/ReviewStatus">
+      <dcds:valueString>Peer Reviewed</dcds:valueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://voa3r.eu/terms/publicationStatus" dcds:vesURI="http://voa3r.eu/terms/PublicationStatus">
+      <dcds:valueString>WorkingDraft</dcds:valueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/creator" dcds:valueRef="creator1" />
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/creator" dcds:valueRef="creator2" />
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/creator" dcds:valueRef="creator3" />
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/subject">
+      <dcds:valueString xml:lang="en">Crop health, quality, protection</dcds:valueString>
+    </dcds:statement>
+    <dcds:statement dcds:valueURI="http://orgprints.org/4226/" dcds:propertyURI="http://www.europeana.eu/schemas/ese/isShownAt" />
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/rights">
+      <dcds:literalValueString xml:lang="en">ICROFS rights: All of the entries, statements, results etc. contained in the Organic Eprints archive have been compiled by the authors according to their best knowledge and the metadata have been scrupulously checked by the International Centre for Research in Organic Food Systems (ICROFS) and the Research Institute of Organic Agriculture (FiBL). All depositors of eprints have agreed with the Deposit Agreement below. However, the possibility of mistakes can not be ruled out entirely. Therefore, the responsible partners behind Organic Eprints, the archive staff and the depositors are not subject to any obligation and make no guarantees whatsoever regarding any of the statements etc. on this website; neither do they accept responsibility or liability for any possible mistakes contained therein. The links to other websites on the Organic Eprints pages are for informational purposes only. ICROFS, FiBL and the depositors are not responsible for the availability or content of these sites. In addition, providing links to these sites should not be interpreted as endorsement or approval by ICROFS or FiBL.
+Deposit Agreement
+When depositing an eprint the depositors consents with the following agreement: "In depositing this eprint (a collection of files and associated metadata), I grant Organic Eprints the right to make it permanently available on-line, with open access to all or in accordance with any access restrictions that I have specified. I understand that Organic Eprints does not assume any responsibility if there is any breach of copyright in distributing these files or metadata. For work being deposited by its own first author: I declare that this eprint is my own intellectual property and that I have the right to make it available in Organic Eprints in the manner chosen. For work being deposited by someone other than its first author: I declare that I have gained the proper permissions from someone with the right to make this eprint available in Organic Eprints in the manner chosen - or that the material is in the public domain. Clicking on the deposit button indicates your agreement to these terms."</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:valueURI="http://purl.org/eprint/accessRights/OpenAccess" dcds:propertyURI="http://purl.org/dc/terms/accessRights" />
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/date">
+      <dcds:literalValueString dcds:sesURI="http://purl.org/dc/terms/W3CDTF">2005</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://voa3r.eu/terms/hasMetametadata" dcds:valueRef="metametadata" />
+  </dcds:description>
+  <dcds:description dcds:resourceId="creator1">
+    <dcds:statement dcds:valueURI="http://xmlns.com/foaf/0.1/Agent" dcds:propertyURI="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" />
+    <dcds:statement dcds:valueURI="http://xmlns.com/foaf/0.1/Person" dcds:propertyURI="http://purl.org/dc/terms/type" />
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/givenName">
+      <dcds:literalValueString>V.</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/firstName">
+      <dcds:literalValueString>V.</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/familyName">
+      <dcds:literalValueString>Alexandrakis</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/lastName">
+      <dcds:literalValueString>Alexandrakis</dcds:literalValueString>
+    </dcds:statement>
+  </dcds:description>
+  <dcds:description dcds:resourceId="creator2">
+    <dcds:statement dcds:valueURI="http://xmlns.com/foaf/0.1/Agent" dcds:propertyURI="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" />
+    <dcds:statement dcds:valueURI="http://xmlns.com/foaf/0.1/Person" dcds:propertyURI="http://purl.org/dc/terms/type" />
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/givenName">
+      <dcds:literalValueString>K.</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/firstName">
+      <dcds:literalValueString>K.</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/familyName">
+      <dcds:literalValueString>Varikou</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/lastName">
+      <dcds:literalValueString>Varikou</dcds:literalValueString>
+    </dcds:statement>
+  </dcds:description>
+  <dcds:description dcds:resourceId="creator3">
+    <dcds:statement dcds:valueURI="http://xmlns.com/foaf/0.1/Agent" dcds:propertyURI="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" />
+    <dcds:statement dcds:valueURI="http://xmlns.com/foaf/0.1/Person" dcds:propertyURI="http://purl.org/dc/terms/type" />
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/givenName">
+      <dcds:literalValueString>A.</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/firstName">
+      <dcds:literalValueString>A.</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/familyName">
+      <dcds:literalValueString>Kalaitzaki</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/lastName">
+      <dcds:literalValueString>Kalaitzaki</dcds:literalValueString>
+    </dcds:statement>
+  </dcds:description>
+  <dcds:description dcds:resourceId="metametadata">
+    <dcds:statement dcds:valueURI="http://voa3r.eu/class/MetaMetadata" dcds:propertyURI="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" />
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/identifier">
+      <dcds:valueString>oai:orgprints.org:4226</dcds:valueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/type">
+      <dcds:literalValueString>voa3r_dcds v1.0</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/date">
+      <dcds:literalValueString dcds:sesURI="http://purl.org/dc/terms/W3CDTF">2015-09-08</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:propertyURI="http://purl.org/dc/terms/contributor" dcds:valueRef="metacontributor" />
+  </dcds:description>
+  <dcds:description dcds:resourceId="metacontributor">
+    <dcds:statement dcds:valueURI="http://xmlns.com/foaf/0.1/Agent" dcds:propertyURI="http://www.w3.org/1999/02/22-rdf-syntax-ns#type" />
+    <dcds:statement dcds:valueURI="http://xmlns.com/foaf/0.1/Organization" dcds:propertyURI="http://purl.org/dc/terms/type" />
+    <dcds:statement dcds:propertyURI="http://xmlns.com/foaf/0.1/name">
+      <dcds:literalValueString xml:lang="en">Organic eprints</dcds:literalValueString>
+    </dcds:statement>
+    <dcds:statement dcds:valueURI="mailto:eprints@orgprints.org" dcds:propertyURI="http://xmlns.com/foaf/0.1/mbox" />
+  </dcds:description>
+</dcds:descriptionSet>

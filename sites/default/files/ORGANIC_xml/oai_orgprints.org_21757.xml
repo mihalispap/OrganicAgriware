@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Trial setup and statistical analysis</dc:title>
+  <dc:creator>Büchse, A.</dc:creator>
+  <dc:creator>Krajewski, P.</dc:creator>
+  <dc:creator>Kristensen, K.</dc:creator>
+  <dc:creator>Pilarczyk, W.</dc:creator>
+  <dc:subject>Surveys and statistics</dc:subject>
+  <dc:subject>Breeding, genetics and propagation</dc:subject>
+  <dc:description>The response from field trials is subject to random variation. This means that two neighbouring plots grown with the same variety and treated in the same way will always yield differently. This also applies to all other recordings made on a continuous scale. The size of the differences will depend on several circumstances such as the variability in the soil, variability in the applied fertilizer, historical events and uncertainty in the recording process. This means that a recorded difference between e.g. two varieties may be due to either a true difference in the response of the two varieties or may be due to random variations. In order to help decide whether the difference is caused by the different varieties or by random variation it is necessary to apply some statistical methods in order to estimate the actual size of the random variation in the field and compare the measured difference with the size of the random variation. In order to do that properly it is necessary to use properly designed trials and the correct way of analysing the recorded data.</dc:description>
+  <dc:publisher>COST860-SUSVAR</dc:publisher>
+  <dc:contributor>Donner, D.</dc:contributor>
+  <dc:contributor>Osman, A.</dc:contributor>
+  <dc:date>2007-04</dc:date>
+  <dc:type>Book chapter</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/21757/1/21757.pdf</dc:identifier>
+  <dc:identifier>Büchse, A.; Krajewski, P.; Kristensen, K. and Pilarczyk, W.    (2007) Trial setup and statistical analysis.    In: Donner, D. and Osman, A. (Eds.)   Cereal variety testing for organic and low input agriculture.  COST860-SUSVAR, Risø National Laboratory, Denmark, TS1-TS27.</dc:identifier>
+  <dc:relation>http://orgprints.org/21757/</dc:relation>
+</oai_dc:dc>

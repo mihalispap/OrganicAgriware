@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Studying the gut microbiota using rainbow trout as a model: the dynamics of the microbiota changes after first feeding</dc:title>
+  <dc:creator>Ingerslev, Hans-Christian</dc:creator>
+  <dc:creator>Boye, Mette</dc:creator>
+  <dc:creator>Dalsgaard, Inger</dc:creator>
+  <dc:creator>Madsen, Lone</dc:creator>
+  <dc:subject>Feeding and growth</dc:subject>
+  <dc:subject>Health and welfare</dc:subject>
+  <dc:description>Poster abstract from ISME14:&#xD;
+&#xD;
+Fish provide an excellent model for studying the gut microbiota. During the very first life stage of most fish species nutrition only comes from a yolk sac originating from the egg and not from external feed sources. During this larval phase the intestine is being formed and becomes functional as the amount of yolk sac protein is used up and feeding from external sources slowly takes over. Thus, studying the intestine in this developmental window is useful for examining the influence of feeding on the gut microbiota dynamics. In this study we examined this in the commercially produced species rainbow trout (Oncorhynchus mykiss) using next-generation sequencing. The examined fish were reared in re-circulated freshwater supplied by groundwater and fed commercial fish feed. Intestines from the fish were collected at three different time points during the developmental stage between larvae and fry for subsequent DNA isolation; a) 2 days prior to first feeding; b) 26 and c) 49 days post first feeding, respectively. A 16S rDNA PCR targeting the V5 region using universal barcoded primers was run on DNA from each sample prior to sequencing on the Illumina HiSeq 2000 platform. Obtained sequences were then subsequently analysed using a recently developed software package and taxonomically classified against the GreenGenes database (Bion Meta software, genomics.dk, in prep). &#xD;
+A significant shift in the bacterial composition occurred as a result of feeding. At the larval stage the bacterial composition measured as amount of reads was dominated by bacteria from the phyla Bacteriodetes (46.1%), Proteobacteria (26.3%) and Firmicutes (13.4%). Following feeding the amount of Bacteriodetes decreased to 19% (26 days post feeding) and down to 6% (49 days post first feeding), while the amount of Proteobacteria increased to 33.3% and 48.5% after 26 and 49 days post first feeding, respectively. For the Firmicutes the amount of reads increased to 31% and 30% after 26 and 49 days post first-feeding, respectively. The dominant genus within Bacteriodetes at all sample points was Sediminibacterium, an environmental bacterium usually found in soil and sediments. For the Firmicutes, these mostly constituted of Clostridiales and Lactobacillales, while the Proteobacteria were more diverse and consisted mainly of bacteria from the gamma-class and to a lesser extent the alpha- and beta-classes. Since the yolk sac is considered sterile it is hypothesised that the bacterial flora in the intestine prior to first feeding reflects the one present in the surrounding water and that, later, bacteria in the feed colonise the gut and to a certain degree outcompete the flora initially established before feeding.</dc:description>
+  <dc:date>2012-08</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/21753/3/21753.pdf</dc:identifier>
+  <dc:identifier>Ingerslev, Hans-Christian; Boye, Mette; Dalsgaard, Inger and Madsen, Lone    (2012) Studying the gut microbiota using rainbow trout as a model: the dynamics of the microbiota changes after first feeding.   In:     ISME14 (14th International Symposium on Microbial Ecology) - Abstracts.</dc:identifier>
+  <dc:relation>http://orgprints.org/21753/</dc:relation>
+</oai_dc:dc>

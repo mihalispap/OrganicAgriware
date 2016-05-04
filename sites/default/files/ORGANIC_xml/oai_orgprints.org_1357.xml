@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Beschreibung und Differenzierung der dänischen Agrarlandschaft anhand von räumlichen Strukturindexen.</dc:title>
+  <dc:creator>Levin, M.Sc. Gregor</dc:creator>
+  <dc:creator>Frederiksen, Senior researcher Pia</dc:creator>
+  <dc:subject>Landscape and recreation</dc:subject>
+  <dc:description>Nur wenige Untersuchungen haben sich bisher mit der Anwendbarkeit von Strukturindexen zur Beschreibung dänischer Landschaften beschäftigt. Unser Poster präsentiert eine vorläufige Studie zur Anwendbarkeit  von Strukturindexen zur Beschreibung und Differenzierung dänischer Agrarlandschaften.&#xD;
+Die Studie basiert auf einer Kombination aus dem digitalen Verzeichnis über Natur- und Halbnaturflächen, die unter Naturschutz stehen, der nationalen topographischen Karte (1:25.000) und der dänischen Karte über Agrarflächen. Die hieraus resultierende Rasterkarte wurde zu 4 Klassen in einer Matrix bestehend aus reinen Agrarflächen, bebauten Flächen etc., reklassifiziert. Die vier Klassen, auf die sich die Berechnung von Indexen basiert, sind: 1) Seen, 2) Wald, 3) Natur- und Halbnaturflächen, die in die Landwirtschaftliche Rotation eingehen (feuchte Wiese, trockene Wiese) und 4) Natur- und Halbnaturflächen, die nicht in die Rotation eingehen (Moor, Heide). Alle Indexberechnungen wurden mit FRAGSTATS 3.3 durchgeführt.&#xD;
+10 Strukturindexe (8 auf Klasseniveau und 2 auf Landschaftsniveau) wurden für 10 Untersuchungsgebiete, die wiederum aus 95 Gemeinden bestehen, berechnet. Die Untersuchungsgebiete repräsentieren typische dänische Naturlandschaftstypen.&#xD;
+Die durchgeführte Analyse trägt dazu bei, die Geeignetheit der Indexe zur Landschaftsdifferenzierung auf sowohl dem Niveau der Untersuchungsgebiete sowie auf Gemeindeniveau zu untersuchen.&#xD;
+Eine multivariate Varianzanalyse wurde für die ersten 4 Principalcomponenten aus einer PC-Analyse über die 10 Strukturindexe durchgeführt.&#xD;
+Der nächste Schritt war eine Analyse auf Gemeindeniveau. Angewandte Variablen waren hier: Klassenindexe für jede der 4 Klassen (z.B.: pland_1, pland_2, .....pland_4) ergänzt durch die zwei Landschaftsindexe: Shannon’s Diversity Index (SIDI) und Aggregationindex (AI_LA)  . Dies ergab insgesamt 34 Variabeln für jede Gemeinde.&#xD;
+Nach einer weiteren PC-Analyse wurde eine Cluster Analyse (Wards Minimum Variance Distance) für die ersten 11 PCs mit 90% der totalen Varianz durchgeführt. Ein Histogram über Bedeutung der einzelnen Variablen für die PC’s (Factor Loadings) zeigte, dass der erste PC in erster Linie eine Dimension von „Überfluss und Aggregierung“ ziegt; der zweite PC eine Dimension von Wiese vs. Teiche/Seen; der dritte PC eine Dimension von Moor/Heide vs. Wald und Aggregierung und der vierte PC eine Dimension von Moor/Heide und Aggregierung vs. Wiese.&#xD;
+Die Analyse des Dendogrammes zeigte Möglichkeiten von 2, 4 oder 6 Klassen. Eine Karte mit den 6 Klassen, sowie Histogramme mit den Durchschnittswerten der ursprünglichen Variablen für die einzelnen Clusters, wurde generiert. Die Karte indiziert, dass die angewandten Indexe zur Beschreibung und Differenzierung von dänischen Landschaften auf Gemeindeniveau geeignet sind. Trotzdem bleiben viele Fragen offen und folgende Themen sollten in Zukunft näher behandelt werden:&#xD;
+- Der Einfluss von Kanteffekten (wie sollten durch Abgrenzung der Untersuchungsgebiete geteilte Flächen behandelt werden; welche Bedeutung hat es, dass man verwaltungsmäßige Größen zur Abgrenzung der Untersuchungsgebiete benutzt)&#xD;
+- Die Wahl von Flächenklassen und die Redundanz bei der Wahl von Indexen&#xD;
+- Die Sensitivität von Indexen, wenn sich der totale Flächenanteil aller Klassen Null nähert</dc:description>
+  <dc:date>2003</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/1357/1/poster_levin.pdf</dc:identifier>
+  <dc:identifier>Levin, M.Sc. Gregor and Frederiksen, Senior researcher Pia    (2003) Beschreibung und Differenzierung der dänischen Agrarlandschaft anhand von räumlichen Strukturindexen.  [Description and differentiation of the Danish rural landscape with the use of spatial indices.]      Poster at:   IALE Struktur Workshop Landschaftsstruktur Analysieren, Verstehen, Modellieren, Salzburg, Austria, 16-17 April 2003.</dc:identifier>
+  <dc:relation>http://orgprints.org/1357/</dc:relation>
+</oai_dc:dc>

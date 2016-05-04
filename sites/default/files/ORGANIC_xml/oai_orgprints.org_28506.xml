@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Comparison of eight degree-days estimation methods in four agroecological regions in Colombia.</dc:title>
+  <dc:creator>Caicedo, Daniel Rodríguez</dc:creator>
+  <dc:creator>Torres, Jose Miguel Cotes</dc:creator>
+  <dc:creator>Cure, José Ricardo</dc:creator>
+  <dc:subject>Production systems</dc:subject>
+  <dc:subject>Farm economics</dc:subject>
+  <dc:subject>Farming Systems</dc:subject>
+  <dc:description>Eight methods were used to estimate degree-days in four Colombian localities. Four methods have been previously proposed in literature: Simple Sine, Double Sine, Simple Triangle, and Double Triangle methods. The other four methods are proposed in this research: Simple Logistic, Double Logistic, Simple Normal, and Double Normal. The estimation of the degree-days through hourly temperature values was used as the reference standard method, and the four localities from where the temperature values were taken were the municipalities of Cajicá (Cundinamarca), Santa Elena (Antioquia), Carepa (Urabá Antioqueño), and Ciudad Bolivar (Zona cafetera Antioqueña). Degree-days obtained by all methods under study were compared through linear regression to those obtained by the reference standard method. There were differences in the correlation of each method to the reference when compared within each region and among regions.  The Simple Logistic and Double Logistic methods showed the best performance with acceptable R2 values and considerably lower bias than the other methods.  The poorest fit was found in Cajicá, where the average R2 was 0.571.  For the regions of Santa Elena and Carepa, the average R2 was 0.756 and 0.733.  The best fit was found in Ciudad Bolivar, with an average R2 of 0.826.</dc:description>
+  <dc:date>2012-03-08</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/28506/1/Caicedo_comparison.pdf</dc:identifier>
+  <dc:identifier>Caicedo, Daniel Rodríguez; Torres, Jose Miguel Cotes and Cure, José Ricardo   (2012) Comparison of eight degree-days estimation methods in four agroecological regions in Colombia.  [Comparação de oito métodos para calcular graus-dia em quatro regiões agroecológicas.]  Bragantia, 71 (2), pp. 299-307.</dc:identifier>
+  <dc:relation>http://orgprints.org/28506/</dc:relation>
+</oai_dc:dc>

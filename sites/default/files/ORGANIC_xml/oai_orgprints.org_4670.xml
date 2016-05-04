@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Do we pay proper attention to the subsoil C turnover?</dc:title>
+  <dc:creator>Olesen, J.E.</dc:creator>
+  <dc:creator>Petersen, B.M.</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:description>The Kyoto Protocol allows carbon sequestration from changes in agricultural land use to be a mechanism for reducing anthropogenic greenhouse gas emissions. There is a specific requirement in the protocol for verification of the sequestration estimates, which may often involve the use of soil carbon simulation models and thus puts a large requirement on the validity of these models. &#xD;
+&#xD;
+The commonly used soil organic matter models have been calibrated on the basis of measurements of topsoil C contents under the implicit assumption that there is negligible vertical transport of soil C. We demonstrate this assumption to be wrong, and that it may lead to large deviations when modelling long-term soil organic matter development. Therefore a model with a net downward flux of C was developed. This model utilises three soil organic pools. The model parameterisation was done in two steps: &#xD;
+1)	Topsoil turnover parameters were estimated using non-linear optimisation techniques. This optimisation was performed on the basis of C and 14C field trials from the UK, Sweden and Denmark.&#xD;
+2)	The total topsoil turnover for the pools was subsequently split between actual decomposition and postulated net downward fluxes. .&#xD;
+&#xD;
+The results from this approach gave an estimate of the flux from the “humic” pools in the order of 40%, so neglecting this flux will roughly lead to a modelled long-term decomposition that is 40% too high. A surprising result from the calibrations was that the soil C input from bare soil was rather high. Assuming near zero input from bare soil will thus lead to a considerable error in the estimated turnover rate of the humic pools.&#xD;
+&#xD;
+Simulations for a century were performed, demonstrating the large sensitivity of the results to the model assumptions and parameters. No previous studies on soil C have taken the impact of high bare soil input and vertical C movement on model parameters into account.</dc:description>
+  <dc:publisher>Geographical Institute, University of Copenhagen</dc:publisher>
+  <dc:contributor>Rasmussen, K.</dc:contributor>
+  <dc:contributor>Elberling, B.</dc:contributor>
+  <dc:contributor>Jepsen, M.R.</dc:contributor>
+  <dc:date>2004</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>source</dc:format>
+  <dc:identifier>http://orgprints.org/4670/1/4670.doc</dc:identifier>
+  <dc:identifier>Olesen, J.E. and Petersen, B.M.    (2004) Do we pay proper attention to the subsoil C turnover?   In: Rasmussen, K.; Elberling, B. and Jepsen, M.R. (Eds.)  Impacts of changes in land use and management on carbon stocks and turnover in the tropics, Geographical Institute, University of Copenhagen, p. 20.</dc:identifier>
+  <dc:relation>http://orgprints.org/4670/</dc:relation>
+</oai_dc:dc>

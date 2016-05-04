@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Collaborative weed modelling with Universal Simulator</dc:title>
+  <dc:creator>Holst, Niels</dc:creator>
+  <dc:subject>Systems research and participatory research</dc:subject>
+  <dc:description>Universal Simulator is&#xD;
+• open-source&#xD;
+• modular&#xD;
+• extendible&#xD;
+• re-usable&#xD;
+Universal Simulator includes&#xD;
+• the INTERCOM model of plant growh&#xD;
+• the Conductance model of plant growth&#xD;
+• an annual weed demographic model&#xD;
+• an insect demographic model&#xD;
+• options to extend with any model and combine with the above</dc:description>
+  <dc:date>2010-07-12</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/18813/2/18813.pdf</dc:identifier>
+  <dc:identifier>Holst, Niels    (2010) Collaborative weed modelling with Universal Simulator.       Poster at:   15th EWRS Symposium, Kaposvar, Hungary, 12-15 July 2010.</dc:identifier>
+  <dc:relation>http://orgprints.org/18813/</dc:relation>
+</oai_dc:dc>

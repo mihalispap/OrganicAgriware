@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Remote sensing based mapping of leaf nitrogen and leaf area index in European landscapes using the REGularized canopy reFLECtance (REGFLEC) model</dc:title>
+  <dc:creator>Boegh, E.</dc:creator>
+  <dc:creator>Houborg, R.</dc:creator>
+  <dc:creator>Bienkowski, J.</dc:creator>
+  <dc:creator>Braban, C.</dc:creator>
+  <dc:creator>Dalgaard, T.</dc:creator>
+  <dc:creator>van Dijk, N.</dc:creator>
+  <dc:creator>Dragosits, U.</dc:creator>
+  <dc:creator>Holmes, E.</dc:creator>
+  <dc:creator>Magliulo, V.</dc:creator>
+  <dc:creator>Schelde, K.</dc:creator>
+  <dc:creator>Di Tommasi, P.</dc:creator>
+  <dc:creator>Vitale, V.</dc:creator>
+  <dc:subject>Biodiversity and ecosystem services</dc:subject>
+  <dc:subject>Landscape and recreation</dc:subject>
+  <dc:subject>Farm nutrient management</dc:subject>
+  <dc:description>Mapping was conducted using the REGFLEC model which is an  automatic and image-based methodology developed for regional chlorophyll (Cab) and LAI estimation (i.e., Houborg et al., 2007; Houborg and Boegh, 2008; Houborg and  Andersen, JARS 3, 2009). REGFLEC combines models for atmospheric correction (6S), canopy reflectance (ACRM) and leaf optics (PROSPECT). The REGFLEC tool corrects for impacts of atmospheric scattering and absorption, soil background reflectance and species specific vegetation characteristics (ie. leaf angle distribution). In this study, the REGFLEC model tool is applied to high spatial (10-20 m) resolution SPOT satellite data for mapping LAI and leaf N of agricultural landscapes located in Denmark, Poland, Scotland, the Netherlands and Italy (Table 1). Non-destructive field measurements of LAI (LAI-2000, LiCor, USA), Cab and leaf N contents were made within 1-2 weeks of the date for satellite image acquisition and used to evaluate remote sensing predictions. A number of additional GPS registrations were made to support the image (land use) classification required by the REGFLEC methodology. Cab and leaf N contents were measured using a SPAD meter (SPAD 502-DL, Minolta, USA) which was calibrated for different leaf types to assess Cab (r2 = 0.73-0.93) and leaf N (r2 = 0.62-0.89) of the monitored crop types. In addition, the Cab and leaf N contents of leaf samples were analyzed in laboratory to establish empirical relationships for converting Cab predictions to leaf N contents.</dc:description>
+  <dc:contributor>Sutton, M.A.</dc:contributor>
+  <dc:contributor>Nemitz, E.</dc:contributor>
+  <dc:contributor>Skiba, U.</dc:contributor>
+  <dc:contributor>Beier, C.</dc:contributor>
+  <dc:contributor>Butterbach-Bahl, C.</dc:contributor>
+  <dc:contributor>Cellier, C.</dc:contributor>
+  <dc:contributor>de Vries, W.</dc:contributor>
+  <dc:contributor>Bleeker, A.</dc:contributor>
+  <dc:date>2011</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/19046/4/19046.pdf</dc:identifier>
+  <dc:identifier>Boegh, E.; Houborg, R.;  Bienkowski, J.; Braban, C.; Dalgaard, T.; van Dijk, N.; Dragosits, U.; Holmes, E.; Magliulo, V.; Schelde, K.; Di Tommasi, P. and Vitale, V.    (2011) Remote sensing based mapping of leaf nitrogen and leaf area index in European landscapes using the REGularized canopy reFLECtance (REGFLEC) model.           Nitrogen &amp; Global Change, Key findings - future challenges, Edinburgh, 11-15 April 2011.     [Unpublished]</dc:identifier>
+  <dc:relation>http://orgprints.org/19046/</dc:relation>
+</oai_dc:dc>

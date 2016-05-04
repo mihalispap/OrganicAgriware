@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Classification list for price data</dc:title>
+  <dc:creator>Rippin, Markus</dc:creator>
+  <dc:subject>Markets and trade</dc:subject>
+  <dc:subject>Surveys and statistics</dc:subject>
+  <dc:description>This classification list for price data was processed by EISfOM  in order to provide a structured classification systematic to obtain comparable data and enable the exchange of data between national  and Eurostat databases. A correspondence table for every national  database should be defined, to link national codecs to those of Eurostat.&#xD;
+&#xD;
+As Eurostat uses a highly aggregated level of crop details (due to the lack of availability of data), member states should be free to use as many disaggregations as needed for  their individual purposes, as case in the present list  of ZMP in Germany. As long as a correspondence table is defined and data are recorded in a consistent structure, there should not be no problem to exchange data with Eurostat.</dc:description>
+  <dc:date>2006</dc:date>
+  <dc:type>Other</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/9108/1/rippin-2006-eisfom-prices.pdf</dc:identifier>
+  <dc:format>other</dc:format>
+  <dc:identifier>http://orgprints.org/9108/2/rippin-2006-eisfom-prices.xls</dc:identifier>
+  <dc:identifier>Rippin, Markus    (2006) Classification list for price data.   Zentrale Markt- und Preisberichtstelle für Erzeugnisse der Land-, Forst- und Ernährungswirtschaft GmbH, DE-Bonn.   [Unpublished]</dc:identifier>
+  <dc:relation>http://orgprints.org/9108/</dc:relation>
+</oai_dc:dc>

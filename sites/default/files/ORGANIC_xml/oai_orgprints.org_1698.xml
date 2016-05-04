@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modelling dry matter production and resource use in intercrops of pea and barley</dc:title>
+  <dc:creator>Berntsen, Jørgen</dc:creator>
+  <dc:creator>Hauggard-Nielsen, Henrik</dc:creator>
+  <dc:creator>Olesen, Jørgen E.</dc:creator>
+  <dc:creator>Molt Petersen, Bjørn</dc:creator>
+  <dc:creator>Jensen, Erik Steen</dc:creator>
+  <dc:creator>Thomsen, Anton</dc:creator>
+  <dc:subject>Production systems</dc:subject>
+  <dc:description>The FASSET whole farm model was extended with a sub-model for competition between several plant species for light, water and nitrogen. The new model was tested on intercrops of pea (Pisum sativum L.) and spring barley (Hordeum vulgare L.). A three-year dataset on pea and barley sole crop growth was used for calibration. Two datasets that included detailed measurements of crop production, nitrogen uptake and leaf area indices from two sites were used for testing. An arable organic experiment from three sites including several treatments over four years was also used for testing. &#xD;
+	The model predicted the increase in resource utilisation of pea and barley and effects on pea symbiotic nitrogen fixation satisfactorily. The effects of pea interspecific competition on barley production agreed with observations, but the simulated effect of barley interspecifc competition on pea was underestimated. Sensitivity analyses showed that the vertical distribution of barley leaf area had a great influence on the outcome of the interspecific competition between the barley and pea crops.</dc:description>
+  <dc:publisher>Elsevier</dc:publisher>
+  <dc:date>2004</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/1698/1/1698.pdf</dc:identifier>
+  <dc:identifier>Berntsen, Jørgen; Hauggard-Nielsen, Henrik; Olesen, Jørgen E.; Molt Petersen, Bjørn; Jensen, Erik Steen and Thomsen, Anton   (2004) Modelling dry matter production and resource use in intercrops of pea and barley.   Field Crops Research, 88 (1), pp. 69-83.</dc:identifier>
+  <dc:relation>http://orgprints.org/1698/</dc:relation>
+</oai_dc:dc>

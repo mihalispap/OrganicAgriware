@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Einsatz der Nahinfrarotspektroskopie zur Qualitätskontrolle ökologischer Produkte am Beispiel von Möhren</dc:title>
+  <dc:creator>Terhoeven-Urselmans, Thomas</dc:creator>
+  <dc:creator>Fleck, Michael</dc:creator>
+  <dc:creator>Michel, Kerstin</dc:creator>
+  <dc:creator>Ludwig, Bernard</dc:creator>
+  <dc:subject>Food security, food quality and human health</dc:subject>
+  <dc:subject>Vegetables</dc:subject>
+  <dc:description>Near-infrared reflectance spectroscopy is known for its inexpensiveness, rapidity and accuracy and may become a useful tool for the quality assessment of products of the growing organic food market. The objective of this study was to evaluate the ability of visible and near-infrared reflectance spectroscopy (NIRS) to predict several quality parameters (total nitrogen content and the content of different sugars) of organically grown carrots. Spectra of the VIS-NIR region (400-2500 nm) from 120 dried and milled carrot samples were recorded and transformed in the form of (log[1/reflectance]) values. The samples were randomly separated into two groups for calibration (n=60) and validation (n=60). A modified partial least square method was used to develop an equation over the whole spectrum (1st to 3rd derivation) from the spectra and the laboratory results for total nitrogen and the contents of D-glucose, D-fructose, sucrose and the sum of these three sugars.&#xD;
+Calibrations were successful for all constituents. The validation, however, gave differing results: The total nitrogen content was predicted well by NIRS - the regression coefficient (a) of the linear regression (measured against predicted values) was 1.0, the correlation coefficient (r) was 0.9 and the ratio of standard deviation of the laboratory results to standard error of prediction (RDP) was 2.5. A satisfactory prediction was obtained for D-glucose (a=0.8, r=0.8, RDP=1.5) and D-fructose (a=0.8, r=0.8, RDP=1.5). In contrast, the contents of sucrose (a=0.8, r=0.7, RPD=1.4) and the sum of sugars (a=1.2, r=0.6, RPD=1.3) were predicted less satisfactorily. The good and satisfactory results for total nitrogen, glucose and fructose indicate that there is marked potential of NIRS for the quality assessment of organic food products. Studies are now required for a wider spectrum of food products and more constituents.</dc:description>
+  <dc:publisher>kassel university press GmbH, Kassel</dc:publisher>
+  <dc:contributor>Heß, J</dc:contributor>
+  <dc:contributor>Rahmann, G</dc:contributor>
+  <dc:date>2005</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/3519/1/3519.pdf</dc:identifier>
+  <dc:identifier>Terhoeven-Urselmans, Thomas; Fleck, Michael; Michel, Kerstin and Ludwig, Bernard    (2005) Einsatz der Nahinfrarotspektroskopie zur Qualitätskontrolle ökologischer Produkte am Beispiel von Möhren.  [Application of near-infrared spectroscopy for a quality assessment of organically grown products considering carrots as example.]  In: Heß, J and Rahmann, G (Eds.)  Ende der Nische, Beiträge zur 8. Wissenschaftstagung Ökologischer Landbau, kassel university press GmbH, Kassel.</dc:identifier>
+  <dc:relation>http://orgprints.org/3519/</dc:relation>
+</oai_dc:dc>

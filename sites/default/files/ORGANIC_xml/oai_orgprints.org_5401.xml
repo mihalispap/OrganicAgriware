@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Simulering af DOC og DON i indsatsområde "Søndersø" på Fyn: Endelig rapport for Arbejdspakke 6 i projektet "Regional Grundvandsbeskyttelse ved hjælp af optimerede Økologiske Dyrkningssystemer"</dc:title>
+  <dc:creator>Styczen, M.</dc:creator>
+  <dc:creator>Poulsen, R.N.</dc:creator>
+  <dc:creator>Gudbjerg, J.</dc:creator>
+  <dc:creator>Gjettermann, B.</dc:creator>
+  <dc:subject>Farming Systems</dc:subject>
+  <dc:description>Der er gennemført en beregning af udvaskning af nitrat, ammonium, DOC og DON for en konventionel og en økologisk situation i et indsatsområde ved “Søndersø” på Fyn. Beregningerne er udført med DAISY-modellen, indeholdende et nyudviklet DOC/DON-modul og MIKE SHE-modellen. &#xD;
+&#xD;
+Modelopsætningen, der dækker et noget større område end selve indsatsområdet,  baserer sig på den eksisterende arealanvendelse og landbrugssituation for en del af området, og ekstrapoleret i den nordvestlige del. Ekstrapolationen dækker kun en lille del af det faktiske indsatsområde. Modelopsætningerne bygger på tidligere modelleringsstudier i samme område.&#xD;
+&#xD;
+Koncentrationerne af DOC og DON er stort set ens i de to scenarier på grund af, at den styrende faktor er jordens organiske pulje. På grund af større forekomst af græsmarker i økologisk landbrug ville man forvente en opbygning af den organiske pulje, men DAISY-modellen synes at undervurdere denne faktor. Forskellen i DOC/DON-produktion mellem konventionelt og økologisk jordbrug forventes derfor også at være undervurderet. For at beskrive DOC/DON-dynamikken i grundvandet, er den udvaskede mængde opdelt i forskellige puljer, med forskellige C/N-forhold og nedbrydningstid.&#xD;
+&#xD;
+Mængden af uorganisk nitrat udvasket fra rodzonen er væsentligt lavere i indsatsområdet efter omlægning til økologisk brug, nemlig 29 kg N/ha i forhold til 70 kg N/ha i gennemsnit før omlægningen. &#xD;
+&#xD;
+Effekten af omlægningen er noget forsinket. Nitratkoncentrationen til dræn falder fra 13.2 kg nitrat-N/ha (2003-2012) i det konventionelle scenarie til 9.5 kg nitrat-N/ha i det økologiske scenarie, opgjort som gennemsnit for de første 10 år af omlægningen (samme klimaserie og periode). For koncentrationerne i det øverste grundvandsmagasin bliver koncentrationsændringerne først rigtigt synlige mod slutningen af simuleringsperioden, men ikke i alle beregningspunkter. I 2013 er forskellen mellem den gennemsnitlige nitratkoncentration i det konventionelle og økologiske scenarie 9 procent (af koncentrationen for det konventionelle scenarie med redoxzone og DOC-nedbrydning implementeret), men det skylles at kun en lille del af det øverste magasin har en alder på 0-10 år. Fortsættes beregningerne derfor i yderligere 30 år, vil den lavere udvaskning i det økologiske scenarie også slå væsentligt kraftigere igennem på grundvandskoncentrationerne. Men man kan altså ikke forvente en umiddelbar effekt af en dyrkningsomlægning på en nitrattruet grundvandsindvinding.&#xD;
+&#xD;
+Omkring 52 % af nitraten, der forlader rodzonen i indsatsområdet, reduceres i redoxzonen. Da dette gælder for begge scenarier, er der i de pågældende områder ingen effekt af omlægning. DOC-betinget denitrifikation har fjernet yderligere ca 6 % af nitraten i det konventionelle scenarie. Da den nedvaskede DOC-mængde er lille i beregningerne, kan dette tal være undervurderet, især i det økologiske scenarie. På den anden side er det antaget, at alt DOC-nedbrydning medvirker til denitrifikation, hvilket er en overvurdering. Forskellen mellem denne beregning og det økologiske scenarie er kun yderligere 4 procent i 2013 (konservativ transport og  konventionelt scenarie = 100 %).&#xD;
+&#xD;
+I denne rapport er gjort en række simple antagelser om nedbrydning, nitrifikation, denitrifikation og sorption i grundvandszonen. Antagelserne fører til en udvikling i DOC og DON, der nogenlunde svarer til generelle observationer vedrørende koncentrationer og C/N-forhold, men der foreligger ikke måledata eller detailundersøgelser, der kan anvendes til en mere detaljeret parameterisering og procesforståelse. For at opnå en bedre forståelse af betydningen af DOC-produktion på denitrifikation, ikke mindst i økologisk produktion, kræves derfor yderligere undersøgelser.</dc:description>
+  <dc:date>2005-08</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/5401/1/5401.pdf</dc:identifier>
+  <dc:identifier>Styczen, M.; Poulsen, R.N.; Gudbjerg, J. and Gjettermann, B.         (2005) Simulering af DOC og DON i indsatsområde "Søndersø" på Fyn: Endelig rapport for Arbejdspakke 6 i projektet "Regional Grundvandsbeskyttelse ved hjælp af optimerede Økologiske Dyrkningssystemer".  [Simulation of DOC and DON in groundwater protection area "Søndersø" on Funen: Final report for work package 6 of the project "Regional Groundwater Protection by optimised organic farming systems".]   DHI Water &amp; Environment, Hydrology, Soil and Waste.</dc:identifier>
+  <dc:relation>http://orgprints.org/5401/</dc:relation>
+</oai_dc:dc>

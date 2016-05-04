@@ -1,0 +1,8 @@
+name = ST Piccolo
+description = ST Piccolo install fullsize package.
+version = VERSION
+core = 7.x
+dependencies[] = block
+files[] = piccolo.profile
+
+

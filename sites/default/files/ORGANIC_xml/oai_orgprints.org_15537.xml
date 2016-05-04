@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Issues of scale for environmental indicators</dc:title>
+  <dc:creator>Stein, A.</dc:creator>
+  <dc:creator>Riley, J.</dc:creator>
+  <dc:creator>Halberg, N.</dc:creator>
+  <dc:subject>Environmental aspects</dc:subject>
+  <dc:description>The value of environmental indicators largely depends upon the spatial and temporal scale that they represent. Environmental indicators are dependent upon data availability and also upon the scale for which statements are required. As these may not match, changes in scales may be necessary. In this paper a geostatistical approach to analyse quantitative environmental indicators has been used. Scales, defined in terms of resolution and procedures, are presented to translate data from one scale to another: upscaling to change from high resolution data towards a low resolution, and downscaling for the inverse process. The study is illustrated with three environmental indicators. The first concerns heavy metals in the environment, where the zinc content is used as the indicator. Initially, data were present at a 1km2 resolution, and were downscaled to 1m2 resolution. High resolution data collected later showed a reasonable correspondence with the downscaled data. Available covariates were also used. The second example is from the Rothamsted’s long-term experiments. Changes in scale are illustrated by simulating reduced data sets from the full data set on grass cuts. A simple regression model related the yield from these condcut to that of the first cut in the cropping season. Reducing data availability (upscaling) resulted in poor estimates of the regression coefficients. The final example is on nitrate surpluses on Danish farms. Data at the field level are upscaled to the farm level, and the dispersion variance indicates differences between different farms. Geostatistical methods were useful to define, change and determine the most appropriate scales for environmental variables in space and in time.</dc:description>
+  <dc:publisher>Elsevier Science</dc:publisher>
+  <dc:date>2001</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/15537/1/15537.pdf</dc:identifier>
+  <dc:identifier>Stein, A.; Riley, J. and Halberg, N.   (2001) Issues of scale for environmental indicators.   Agriculture, Ecosystems &amp; Environment (87), pp. 215-232.</dc:identifier>
+  <dc:relation>http://orgprints.org/15537/</dc:relation>
+</oai_dc:dc>

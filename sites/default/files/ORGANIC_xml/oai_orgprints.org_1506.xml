@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Computer model for simulating the long-term dynamics of annual weeds under different cultivation practices</dc:title>
+  <dc:creator>Rasmussen, I.A.</dc:creator>
+  <dc:creator>Holst, N.</dc:creator>
+  <dc:creator>Pedersen, L.</dc:creator>
+  <dc:creator>Rasmussen, K.</dc:creator>
+  <dc:subject>Production systems</dc:subject>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>A model is being developed which describes the population dynamics of annual weeds and how it is affected by crop rotation, cultivation practices and weed control. The model aims to predict the development of a certain weed species in order to plan crop rotation and cultivation practices to minimize the risk of proliferation. The model does not predict the exact number of weeds expected to be found in a certain year or crop, but rather the general development over a number of years. The model includes documented knowledge, as well as informal expert knowledge, on seed survival in the soil, seed placement in soil after tillage, seed germination with respect to placement in soil, time of year and tillage, weed development in response to crop competitiveness and seed production of the weeds. The model is at present only accounting for the development of one weed species at a time, and only a few weed species are parameterised. However, the model can easily be extended with more weed species, crops and cultivation practices. Model predictions should match what knowledgeable weed scientists already know, perhaps with a little new insight.</dc:description>
+  <dc:contributor>Barberi, P.</dc:contributor>
+  <dc:contributor>Cloutier, D.</dc:contributor>
+  <dc:date>2002</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/1506/1/EWRS_pcwc02_Rasmussen_IA.pdf</dc:identifier>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/1506/2/Pisa1_ppt.pdf</dc:identifier>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/1506/3/Hands-on%21_Try_the_model%21.pdf</dc:identifier>
+  <dc:identifier>Rasmussen, I.A.; Holst, N.; Pedersen, L. and Rasmussen, K.    (2002) Computer model for simulating the long-term dynamics of annual weeds under different cultivation practices.   In: Barberi, P. and Cloutier, D. (Eds.)  Proceedings of the 5th EWRS Workshop on Physical and Cultural Weed Control, pp. 6-13.</dc:identifier>
+  <dc:relation>http://orgprints.org/1506/</dc:relation>
+</oai_dc:dc>

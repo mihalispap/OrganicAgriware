@@ -1,0 +1,312 @@
+<?php
+/**
+ * @file
+ * Provides a fiware HTTP client implemented in Guzzle.
+ *
+ * @copyright Copyright(c) 2012 Previous Next Pty Ltd
+ * @license GPL v2 http://www.fsf.org/licensing/licenses/gpl.html
+ * @author Chris Skene chris at previousnext dot com dot au
+ */
+
+ 
+function fiware_client_menu() {
+  $items = array();
+  
+
+$items['orion-start-service'] = array( //this creates a URL that will call this form at "examples/form-example"
+    'title' => 'Connect with Fiware Orion Cntext Broker', //page title
+    'description' => 'A form to mess around with.',
+    'page callback' => 'drupal_get_form', //this is the function that will be called when the page is accessed.  for a form, use drupal_get_form
+    'page arguments' => array('fiware_client_form'), //put the name of the form here
+    'access callback' => TRUE
+  );
+  return 
+
+$items;
+}
+
+function fiware_client_form($form, &$form_state) {
+  
+ $form['url'] = array(
+    '#type' => 'textfield', //you can find a list of available types in the form api
+    '#title' => 'Service url?',
+    '#size' => 50,
+    '#maxlength' => 150,
+    '#required' => TRUE, //make this field required 
+  );
+
+$form['start_tracking'] = array(
+    '#type' => 'checkbox',
+    '#title' => t('Enable tracking'),
+    '#default_value' => isset($settings['start_tracking']) ? $settings['start_tracking'] : FALSE,
+    '#description' => t('If checked, then the user tracking will start to send to orion context broker tracking data'),
+  );
+
+
+  
+
+$form['submit_button'] = array(
+    '#type' => 'submit',
+    '#value' => t('Submit!'),    
+  );
+  
+  return $form;
+}
+
+
+ 
+function fiware_client_form_submit($form, &$form_state) {
+
+  global $user;
+  if ($user->uid ) {
+    if(!empty($form_state['values']['url'])){
+      track_login_users($form_state['values']['url'],$user);
+     		// post_fiware($form_state['values']['url']);// get_fiware($form_state['values']['url']);
+    }else {
+     print "please set a service url";  
+     die("please set service url");
+    }
+    
+  }else {
+  // Not logged in
+  //  print "Please go to login page";
+   die("please login");
+  }
+
+}
+ 
+ 
+//post to specified url 
+
+function post_fiware(&$url,&$userid,&$userip){
+  $login_count="";  // number of times the user has logged-in;
+  $join_date="";   //ime stamp representing when the user joined;
+  $login_days="";  //login_days — number of days since the user was last logged-in to the site;
+  $reg_days="";   // — number of days since the user registered on the site;
+  $online="";     // — whether the user is online (basically whether they have done anything in the last 15 minutes);
+
+$query = db_select('field_data_field_terms', 't');//field_data_field_terms
+$query->condition('t.entity_id', '1', '=');
+
+$query->fields('t', array('field_terms_tid'));
+$r = $query->execute(); //$query->execute()->fetchAssoc();
+die("-----------------userid: " . $userid);
+/*
+$nm = "";
+//$i = 0;
+*/
+echo "jdkhqnehrefifboreufo3f";
+
+foreach($r as $result)
+{
+ $nm .= "," . get_term_exist_in_vocab($result->field_terms_tid);
+ //i++;
+}
+
+$userid= 94999;
+
+//  $ip = user_stats_get_stats('ip_address', $userid);
+  $online =  user_stats_get_stats('online', $userid);
+  $track_data =  array(
+   'contextElements' => 
+  array (
+    0 => 
+    array(
+       'type' => 'UserTrack',
+       'isPattern' => 'false',
+       'id' => $userid,
+       'attributes' => 
+                array (
+                       0 => 
+                            array(
+           			'name' => 'ip',
+           			'type' => 'string',
+           			'value' => $userip
+        			),
+        		1 => 
+        		    array(
+           			'name' => 'searchterm',
+           			'type' => 'string',
+           			'value' =>  $nm
+        			),
+        		2 => 
+        		    array(
+           			'name' => 'login_days',
+           			'type' => 'integer',
+           			'value' => '100'
+                		  ),
+      			),
+         ),
+       ),
+      'updateAction' => 'UPDATE',
+     );
+ 
+ //   $length =  strlen($track_data);
+  $track_data =  json_encode($track_data);
+ // $track_data = http_build_query($track_data);
+  // $track_data =  json_encode($track_data);
+// die($track_data);
+// $length = strlen($track_data);
+// die($length);
+  $url="http://192.168.111.132:1026/v1/updateContext";
+  $ch = curl_init($url);
+  curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+  curl_setopt($ch, CURLOPT_POST, 1);
+  curl_setopt($ch, CURLOPT_POSTFIELDS, $track_data); // Set POST data
+   //  curl_setopt($ch, CURLOPT_URL, $url); //url service to post
+
+   curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+       'Content-Type: application/json',
+       'Accept: application/json',
+       'X-Auth-Token: fzwBaqyoYuebvkp8tkzkSZ3gXhSuPu'
+    ));
+
+    $response = curl_exec($ch);
+    $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    // Check if login was successful
+        if ($http_code == 200) {
+  	     // Convert json response as array	//   = json_decode($response);
+	  $json_string = json_encode( $response, JSON_PRETTY_PRINT);
+    	curl_close($ch);
+          //die($json_string);
+        }elseif ($http_code == 404) {
+         //Append if not exists
+        $track_data =  get_user_track($userid,$userip,$nm,'APPEND');
+          $track_data =  json_encode($track_data);     
+          $response = curl_exec($ch);
+        }	
+	else {
+           // Get error msg
+          $http_message = curl_error($ch);
+          die($http_message);
+        }
+    // Close request to clear up some resources
+    curl_close($ch);
+}
+
+function get_fiware(&$url){
+	$curl = curl_init();
+	// Set some options - we are passing in a useragent too here
+	curl_setopt_array($curl, array(
+    	CURLOPT_RETURNTRANSFER => 1,
+    	CURLOPT_URL => $url,
+    	CURLOPT_USERAGENT => 'Codular Sample cURL Request'
+	));
+	// Send the request & save response to $resp
+	$resp = curl_exec($curl);
+	$json_string = json_encode( $resp, JSON_PRETTY_PRINT);
+	// Close request to clear up some resources
+	curl_close($curl);
+}
+ 
+ 
+
+//https://api.drupal.org/api/drupal/modules%21user%21user.module/7
+//http://www.apaddedcell.com/an-introduction-user-stats-module-drupal
+function track_login_users(&$url,&$user){
+    
+ 		// $users = entity_load('user');// $arrayuids = array_keys($users);
+     if($user->uid){
+      $uid=$user->uid;
+      //call tracking function   //get_user_track($user->uid);
+      // divide to time slices
+      $ip = user_stats_get_stats('ip_address', $user->uid);
+       post_fiware($url,$uid,$ip);  //call post fnc to orion context broker
+#echo $uid . "dejvhuehvevebriueryvbfbjdheqwbyfi " ;
+     }//end if
+
+   curl_close($ch);  // Close request to clear up some resources
+
+ return;
+ 
+} 
+ 
+function patternCEP($id) {
+ 
+ $id= $id + 1;
+ $id=$id . "akorion";
+
+ return $id;
+
+} 
+
+
+/*
+curl_setopt(
+    $request,
+    CURLOPT_POSTFIELDS,
+    array(
+      'file' => '@' . realpath('testModel.json')
+    ));
+*/
+
+function get_term_exist_in_vocab(&$f_tid) {
+  
+$query = db_select('taxonomy_term_data', 'term');//field_data_field_terms
+$query->condition('term.tid', $f_tid, '=');
+
+$query->fields('term', array('name'));
+
+$rslts = $query->execute(); 
+
+
+  foreach($rslts as $t_name) {
+    $name = $t_name->name;
+  }
+
+ return $name;
+}
+
+
+
+
+ 
+function get_user_track(&$userid,&$userip,&$sterm,$verb){
+ 
+ // $ip="";
+ // $login_count="";  // number of times the user has logged-in;
+ //  $join_date="";   //ime stamp representing when the user joined;
+ // $login_days="";  //login_days — number of days since the user was last logged-in to the site;
+ // $reg_days="";   // — number of days since the user registered on the site;
+ // $online="";     // — whether the user is online (basically whether they have done anything in the last 15 minutes);
+  $track[] = array();
+
+ // $ip= user_stats_get_stats('ip_address', $userid);
+ // $online =  user_stats_get_stats('online', $userid);
+
+ // array_push( $track,$ip,$online);
+  $track_data =  array(
+   'contextElements' =>
+  array (
+    0 =>
+    array(
+       'type' => 'UserTrack',
+       'isPattern' => 'false',
+       'id' => $userid,
+       'attributes' =>
+                array (
+                       0 =>
+                            array(
+                                'name' => 'ip',
+                                'type' => 'string',
+                                'value' => $userip
+                                ),
+                        1 =>
+                            array(
+                                'name' => 'searchterm',
+                                'type' => 'string',
+                                'value' => $sterm
+                                ),
+			 2 =>
+                            array(
+                                'name' => 'login_days',
+                                'type' => 'integer',
+                                'value' => '200'
+                                  ),
+                        ),
+         ),
+       ),
+      'updateAction' => 'APPEND',
+     );
+  return $track;
+} 

@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Fingerprint analysis of biological samples using ICP-MS and IR-MS</dc:title>
+  <dc:creator>Laursen, Kristian Holst</dc:creator>
+  <dc:creator>Husted, Søren</dc:creator>
+  <dc:subject>Education, extension and communication</dc:subject>
+  <dc:description>Atomic spectroscopy based analytical techniques can generate fingerprints encompassing the vast majority of elements found in the periodic table as well as ratios of their stable isotopes. &#xD;
+These highly multivariate fingerprints have laid the foundation of many recent studies within environmental, geological, agricultural and food science. Inductively coupled plasma-optical emission spectroscopy (ICP-OES) and ICP-mass spectrometry (ICP-MS) still dominate multi-elemental analyses of biological samples while stable isotopes of the light mass elements H, C, N, O and S are measured by isotope ratio-mass spectrometry (IR-MS). However, it has recently been shown that rather unexplored analytical methods such as semi-quantitative ICP-MS and compound-specific isotope analysis (CSIA) can generate novel information suitable for evaluating the authenticity of plant based food products (1-3). &#xD;
+Most plant based studies using atomic spectroscopy have focused on the essential nutrients: B, Mg, P, S, K, Ca, Mn, Fe, Ni, Cu, Zn, Mo and selected heavy metals such as Cd and Pb (4). However, plants contain traces of most of the periodic table, which can be measured by semi-quantitative ICP-MS (1-2). This represents a fast method for elemental fingerprinting in the mass range 7Li to 238U, but the accuracy suffers from the simplified calibration procedure that this technique is based on. The combination of semi-quantitative ICP-MS and multivariate statistics (chemometrics) efficiently minimize this problem and constitute a promising tool for authentication of plant products according to their geographical origin and production form (2). &#xD;
+Stable isotope analysis complements elemental fingerprinting by targeting specific biological processes and their impact on the isotopic plant composition. This has recently proven valuable for authenticating organically grown plant products – especially when focusing on selected isotope pairs in plant derived compounds such as 18O/16O in NO3- using CSIA (3). Cases of novel atomic spectroscopy based food authentications will be presented at the conference.</dc:description>
+  <dc:date>2012-06</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/23092/13/23092.pdf</dc:identifier>
+  <dc:identifier>Laursen, Kristian Holst and Husted, Søren    (2012) Fingerprint analysis of biological samples using ICP-MS and IR-MS.       Keynote presentation at:   6th Nordic Conference on Plasma Spectrochemistry, Loen, Norway, June 10-13, 2012.</dc:identifier>
+  <dc:relation>http://orgprints.org/23092/</dc:relation>
+</oai_dc:dc>

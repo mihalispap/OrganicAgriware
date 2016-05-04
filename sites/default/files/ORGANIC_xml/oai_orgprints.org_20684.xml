@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Simulation and control parameter estimation of a permanent&#xD;
+magnet tubular linear synchronous motor for tool guidance&#xD;
+around crop plants</dc:title>
+  <dc:creator>Nørremark, M.</dc:creator>
+  <dc:creator>Ponomarev, P.</dc:creator>
+  <dc:creator>Niemelä, M.</dc:creator>
+  <dc:subject>Buildings and machinery</dc:subject>
+  <dc:description>Accurate, fast and high precision tool guidance is an  important capability for certain field operations such as mechanical weed control close to crop plants. This paper presents mathematical modelling and instrumentation suggestions for actuator driven tine control for close to crop mechanical weed control. An electro side shifting actuator for tool attachment was designed in AutoCAD and validated by modelling in MatLab/Simulink. Variations to &#xD;
+load force, forward speed, plant spacing and voltage level similar to real conditions were used to verify the modelling of the side shifting system. The simulation verified that the selected permanent magnet tubular linear synchronous motor (PMTLSM) could side shift attached tools without interaction with the desired untreated zone around individual crop plants under field comparable conditions. This paper also presents a direct thrust force control (DTFC) approach for controlling the PMTLSM. The tool guidance design, selected PMTLSM and control strategy showed the potential for further construction into a novel implement for high accurate and fast intra-row mechanical and/or physical weed control.</dc:description>
+  <dc:date>2012</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20684/4/20684.pdf</dc:identifier>
+  <dc:identifier>Nørremark, M.; Ponomarev, P. and Niemelä, M.   (2012) Simulation and control parameter estimation of a permanent magnet tubular linear synchronous motor for tool guidance around crop plants.   International Journal of Control, Automation and Systems, x (x), x-xx.    [Submitted]</dc:identifier>
+  <dc:relation>http://orgprints.org/20684/</dc:relation>
+</oai_dc:dc>

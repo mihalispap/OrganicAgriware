@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Metabolomic fingerprinting employing DART-TOFMS for authentication of tomatoes and pebbers from organic and conventional farming</dc:title>
+  <dc:creator>Novotna, H.</dc:creator>
+  <dc:creator>Kmiecik, O.</dc:creator>
+  <dc:creator>Galazka, M.</dc:creator>
+  <dc:creator>Krtkova, V.</dc:creator>
+  <dc:creator>Hurajova, A.</dc:creator>
+  <dc:creator>Schulzova, V.</dc:creator>
+  <dc:creator>Hallman, E.</dc:creator>
+  <dc:creator>Rembialkowska, E.</dc:creator>
+  <dc:creator>Hajslova, J.</dc:creator>
+  <dc:subject>"Organics" in general</dc:subject>
+  <dc:subject>Technology assessment</dc:subject>
+  <dc:subject>Technology transfer</dc:subject>
+  <dc:description>The rapidly growing demand for organic food requires the availability of analytical tools enabling their authentication. Recently, metabolomic fingerprinting/profiling has been demonstrated as a challenging option for a comprehensive characterisation of small molecules occurring in plants, since their pattern may reflect the impact of various external factors. In a two-year pilot study, concerned with the classification of organic versus conventional crops, ambient mass spectrometry consisting of a direct analysis in real time (DART) ion source and a time-of-flight mass spectrometer (TOFMS) was employed. This novel methodology was tested on 40 tomato and 24 pepper samples grown under specified conditions. To calculate statistical models, the obtained data (mass spectra) were processed by the principal component analysis (PCA) followed by linear discriminant analysis (LDA). The results from the positive ionisation mode enabled better differentiation between organic and conventional samples than the results from the negative mode. In this case, the recognition ability obtained by LDA was 97.5% for tomato and 100% for pepper samples and the prediction abilities were above 80% for both sample sets. The results suggest that the year of production had stronger influence on the metabolomic fingerprints compared with the type of farming (organic versus conventional). In any case, DART-TOFMS is a promising tool for rapid screening of samples. Establishing comprehensive (multi-sample) long-term databases may further help to improve the quality of statistical classification models.</dc:description>
+  <dc:date>2012</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/22819/7/22819.pdf</dc:identifier>
+  <dc:identifier>Novotna, H.; Kmiecik, O.; Galazka, M.; Krtkova, V.; Hurajova, A.; Schulzova, V.; Hallman, E.; Rembialkowska, E. and Hajslova, J.   (2012) Metabolomic fingerprinting employing DART-TOFMS for authentication of tomatoes and pebbers from organic and conventional farming.   Food Additives &amp; Contaminants, 29 (9), pp. 1335-1346.</dc:identifier>
+  <dc:relation>http://orgprints.org/22819/</dc:relation>
+</oai_dc:dc>

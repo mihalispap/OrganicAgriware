@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Crop rotation planning tool for organic farms</dc:title>
+  <dc:creator>Bachinger, J.</dc:creator>
+  <dc:creator>Zander, P.</dc:creator>
+  <dc:subject>Indicators and other value-laden measures</dc:subject>
+  <dc:subject>Crop combinations and interactions</dc:subject>
+  <dc:description>To support the development and expansion of organic farming, more research is needed to optimise the function and practices of individual farms. Furthermore, it is important to assess the ecological effects of organic farming on a regional scale in order to show potential ad-vantages of organic farming compared to conventional farming. Both issues require model-ling of cropping methods and crop rotations. The authors present a rule-based model for the generation of site-specific and agronomically suitable crop rotations. Site-specific estimation modules for yields, nitrogen balance, risk of weed problems, phytosanitary restrictions for crop rotations,  and economic costs and benefits allow the generation and selection of eco-nomically optimal, site-specific organic crop rotations. A stand-alone version of the model is presented, but the algorithms are also used within a linear programming farm model.</dc:description>
+  <dc:contributor>Steffe, J.</dc:contributor>
+  <dc:date>2001</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/948/1/948-bachinger-zander-2001-crop-rotation-efita.pdf</dc:identifier>
+  <dc:identifier>Bachinger, J. and Zander, P.    (2001) Crop rotation planning tool for organic farms.   In: Steffe, J. (Ed.)  Proceeding of the third European Conference of the European Federation for Information Technology in Agriculture, Food and the Environment (EFITA 2001), 1, pp. 89-94.</dc:identifier>
+  <dc:relation>http://orgprints.org/948/</dc:relation>
+</oai_dc:dc>

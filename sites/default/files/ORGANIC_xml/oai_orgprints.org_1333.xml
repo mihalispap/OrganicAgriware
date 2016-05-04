@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Decomposition of white clover (Trifolium repens) and ryegrass (Lolium perenne) components: C and N dynamics simulated with the DAISY soil organic matter submodel</dc:title>
+  <dc:creator>de Neergaard, Andreas</dc:creator>
+  <dc:creator>Hauggaard-Nielsen, Henrik</dc:creator>
+  <dc:creator>Jensen, Lars Stoumann</dc:creator>
+  <dc:creator>Magid, Jakob</dc:creator>
+  <dc:subject>Crop husbandry</dc:subject>
+  <dc:description>Using data from a decomposition study, we aimed to test the parameterisation of the soil organic matter module of the DAISY model, and link measurable plant litter fractions (lignin, water-soluble) with the model defined plant litter pools. Shoot and root material from perennial ryegrass and white clover was incubated in a sandy loam soil at 9 °C for 94 days. Accumulated CO2 evolution, soil mineral nitrogen (N) and soil microbial biomass-N were measured during the incubation. Marked differences in decomposition rates between above- and below-ground material as well as between the two plant species were observed. The DAISY model was used to interpret the incubation results. Decomposition rates and utilisation efficiencies were modified, under the constraint that rates of specific pools were independent of the type of material, to obtain good agreement between observed and simulated values. Measurable quality parameters were evaluated against the sizes of pools in the model and measured fluxes. The size of the slowest decomposing fraction of the DAISY model was proportional to the lignin content of the plant material, but twice as large. The easily decomposable fraction in the model was well correlated with the water-soluble fraction of the plant material (r2=0.84). The size of this pool in the model was larger than the water-soluble fraction of the plant material in three of the five plant materials. The initial carbon mineralisation was correlated with water-solubility of the plant material and total mineralisation with the lignin:N ratio. Net N mineralisation was well correlated with the C:N ratio and the N content of the added material. At the end of the experiment, the mineral N content was overestimated by the DAISY model for all treatments, except one. A soil microbial residual pool, consisting of undecomposed microbial tissue is suggested as a possible N-sink during the incubation. The study demonstrated a correlation between the model-defined pools and chemical plant fractions, but also that the pools in the model were larger than their measured counterparts.</dc:description>
+  <dc:publisher>Elsevier Science B.V.</dc:publisher>
+  <dc:date>2002</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/1333/1/1333.pdf</dc:identifier>
+  <dc:identifier>de Neergaard, Andreas; Hauggaard-Nielsen, Henrik; Jensen, Lars Stoumann and Magid, Jakob   (2002) Decomposition of white clover (Trifolium repens) and ryegrass (Lolium perenne) components: C and N dynamics simulated with the DAISY soil organic matter submodel.   European Journal of Agronomy, 16 (1), pp. 43-55.</dc:identifier>
+  <dc:relation>http://orgprints.org/1333/</dc:relation>
+</oai_dc:dc>

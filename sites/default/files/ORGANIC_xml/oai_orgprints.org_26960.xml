@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Developing a Documentation System for Evaluating the Societal Impact of Science</dc:title>
+  <dc:creator>Wolf, Birge</dc:creator>
+  <dc:creator>Szerencsits, Manfred</dc:creator>
+  <dc:creator>Gaus, Hansjörg</dc:creator>
+  <dc:creator>Müller, Christoph E.</dc:creator>
+  <dc:creator>Heß, Jürgen</dc:creator>
+  <dc:subject>"Organics" in general</dc:subject>
+  <dc:subject>Systems research and participatory research</dc:subject>
+  <dc:subject>Research methodology and philosophy</dc:subject>
+  <dc:subject>Knowledge management</dc:subject>
+  <dc:description>The evaluation of research beyond scientific impact is increasingly required, but has not yet been widely applied. One reason is that data necessary for the evaluation of the societal impact of science are often not available in sufficient quantities or suitable form. This paper describes first results from a research project that develops improved documentation to serve evaluation beyond scientific impact. Firstly, we refer to the need to do this, and to the specific challenges for data assessment in this area. Secondly, we describe the concept for documenting achievements of research beyond scientific impact with a research information system that integrates the relevant parts of research proposals and reports. This enables data to be provided without causing additional effort for scientists, and makes them usable for scientists, research funding agencies and research institutions for different purposes, including evaluation. Compatibility of the system with interoperability standards (e.g. CERIF) is also taken into account. The concept is currently being developed and tested from the user perspectives of scientists, research funding agencies and evaluators.</dc:description>
+  <dc:contributor>Keith, Jeffery</dc:contributor>
+  <dc:contributor>Clements, Anna</dc:contributor>
+  <dc:contributor>De Castro, Pablo</dc:contributor>
+  <dc:contributor>Luzi, Daniela</dc:contributor>
+  <dc:date>2014-05</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/26960/1/Wolf_et_al_2014%20Developing_procedia_computer_science.pdf</dc:identifier>
+  <dc:identifier>Wolf, Birge; Szerencsits, Manfred; Gaus, Hansjörg; Müller, Christoph E. and Heß, Jürgen    (2014) Developing a Documentation System for Evaluating the Societal Impact of Science.   In: Keith, Jeffery; Clements, Anna; De Castro, Pablo and Luzi, Daniela (Eds.)  Procedia Computer Science, 33, pp. 289-296.</dc:identifier>
+  <dc:relation>http://orgprints.org/26960/</dc:relation>
+</oai_dc:dc>

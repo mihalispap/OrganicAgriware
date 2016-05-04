@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modell zur Quantifizierung des Energieverbrauchs und der Treibhausgasemissionen von Biobetrieben</dc:title>
+  <dc:creator>Schader, Christian</dc:creator>
+  <dc:creator>Meier, Matthias</dc:creator>
+  <dc:creator>Kuhn, Till</dc:creator>
+  <dc:creator>Jud, Katja</dc:creator>
+  <dc:creator>Oehen, Bernadette</dc:creator>
+  <dc:creator>Gattinger, Andreas</dc:creator>
+  <dc:creator>Stolze, Matthias</dc:creator>
+  <dc:subject>Air and water emissions</dc:subject>
+  <dc:description>Zusammenfassung &#xD;
+Während der Jahre 2009-2011 wurden am FiBL über verschiedene Projekte Grundlagen zur betrieblichen und produktbezogenen Energie- und Klimabilanzierung erarbeitet. Daraus wurde ein Modellansatz entwickelt, mit dem der Energieverbrauch und die Treibhausgasemissionen (THG-Emissionen) auf Betriebsebene abgeschätzt werden können. Aus diesen Vorarbeiten ist 2011 und 2012 das FiBL-Betriebsmodell entstanden, mit dem es möglich ist:&#xD;
+1.	detaillierte Klimabilanzen von Schweizer Biobetrieben durchzuführen, &#xD;
+2.	zwischenbetriebliche Vergleiche anzustellen und &#xD;
+3.	die Auswirkungen von betrieblichen Veränderungen oder Anpassungsstrategien auf die THG-Emissionen zu berechnen. &#xD;
+Die grosse Stärke des Betriebsmodells ist seine hohe Flexibilität in Bezug auf die Datenerfordernisse. So werden zur Analyse und Optimierung des Energieverbrauchs und der THG-Emissionen auf Schweizer Biobetrieben – wo vorhanden – betriebsindividuelle Daten berücksichtigt. Fehlen diese, werden Standarddaten verwendet. Im Modell werden alle erforderlichen Betriebsmittel und Prozesse zur Bewirtschaftung eines Betriebes, bzw. zur Produktion von Nahrungsmitteln berücksichtigt.&#xD;
+Hauptbestandteile des Betriebsmodells sind das sogenannte Pflanzenbau- und das Tierproduktionsmodell, welche untereinander über innerbetrieblicher Stoff- und Energieflüsse (organische Dünger, Futtermittel, Stroh) verknüpft sind.&#xD;
+Bei einer betrieblichen Bilanz werden die Emissionen der einzelnen Module aufsummiert und bezogen auf die funktionellen Einheiten Fläche*Jahr-1 und Produktion (Masse, Kalorien, Protein, Wertschöpfung) ausgedrückt. Der Energieverbrauch und die THG-Emissionen lassen sich für alle einzelnen Verfahren aus dem Tier- und Pflanzenbaumodell (z.B. Weizenproduktion, Milchproduktion) bilanzieren.&#xD;
+Durch seine Flexibilität was Datenerfordernisse, Systemgrenzen und funktionelle Einheiten betrifft, ist das Betriebsmodell sowohl für wissenschaftliche Analysen als auch Betriebsberatungen geeignet. Ein grosser Vorteil des Modells ist die Möglichkeit, verschiedene Klimaschutz und Energieeinsparmassnahmen zu modellieren und so betriebsspezifisch die Auswirkungen der Massnahmen zu untersuchen. Derzeit sind 11 Massnahmen implementiert (z.B. reduzierte Bodenbearbeitung oder Weideanteil vergrössern bzw. standortangepasste Umstellung auf Vollweide), weitere Massnahmen können problemlos integriert werden. &#xD;
+Weiterhin ist geplant, das Modell auf andere Nachhaltigkeitskategorien (Luft- und Gewässerbelastung, Humusaufbau, Biodiversität, Ökonomie und Soziales) zu erweitern. Bisher wurde das Betriebsmodell nur auf Bio-Milchvieh und Bio-Gemischtbetrieben angewendet. Für die Abbildung weiterer Betriebstypen (z.B. Obst- und Gemüsebau) sind teilweise Anpassungen am Modell erforderlich.&#xD;
+Ziel dieses Papieres ist es, die Funktionsweise und Annahme des Modells transparent zu machen und zur Diskussion zu stellen. Dabei gehen wir zunächst auf das grundlegende Konzept ein und stellen danach die unterschiedlichen Module vor. Für Fragen, Anregungen und konstruktive Kritik sind wir dankbar, da dies für uns ein Mittel ist das Modell stetig weiterzuentwickeln und zu verbessern.</dc:description>
+  <dc:date>2012-03-28</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20692/1/schader-et-al-betriebsmodell.pdf</dc:identifier>
+  <dc:identifier>Schader, Christian; Meier, Matthias; Kuhn, Till; Jud, Katja; Oehen, Bernadette; Gattinger, Andreas and Stolze, Matthias         (2012) Modell zur Quantifizierung des Energieverbrauchs und der Treibhausgasemissionen von Biobetrieben.   FiBL-Diskussionspapier. Forschungsinstitut für biologischen Landbau (FiBL), Frick.</dc:identifier>
+  <dc:relation>http://orgprints.org/20692/</dc:relation>
+</oai_dc:dc>

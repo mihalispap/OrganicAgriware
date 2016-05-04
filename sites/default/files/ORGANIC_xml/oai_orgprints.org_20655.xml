@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Automated generation of guidance lines for operational&#xD;
+field planning</dc:title>
+  <dc:creator>Hameed, I.A.</dc:creator>
+  <dc:creator>Bochtis, D.D.</dc:creator>
+  <dc:creator>Sørensen, C.G</dc:creator>
+  <dc:creator>Nørremark, M.</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>A number of advanced satellite positioning based systems  for agricultural machines have been developed and are commercial available for aiding and supporting navigation  efforts up to full auto-steering. Furthermore, in terms of  the route planning for agricultural field operations, advanced methods based on combinatorial optimisation of fieldwork patterns have recently been introduced. In order to apply and implement these methods in the high-level control system of agricultural machines, an appropriate  representation of the field as a geometrical entity made up of discrete geometric primitives, such as points, lines, and polygons is needed. Preferably, such a representation must be generated in real-time providing the input to the whole accuracy range of navigation systems as well as the range of operation types, equipment characteristics, and machinery kinematics. Here, a method for real-time generation of field geometrical representation for operational planning is presented. The representation regards simple or complex fields for both convex and non-convex field boundaries, where generated tracks can be straight or curved. As demonstration cases for the method,  15 different field types were evaluated. According to the experimental results, the computational time of the method  was in the range of 0.11e239.73 s for the case of single-block fields and in the range of 2.24e402.59 s for multiple-blocks fields. The tested fields were of different shapes and the area ranged from 0.21 ha to 44.93 ha.</dc:description>
+  <dc:date>2010</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20655/4/20655.pdf</dc:identifier>
+  <dc:identifier>Hameed, I.A. ; Bochtis, D.D.; Sørensen, C.G and Nørremark, M.   (2010) Automated generation of guidance lines for operational field planning.   Biosystems Engineering, 107, pp. 294-306.</dc:identifier>
+  <dc:relation>http://orgprints.org/20655/</dc:relation>
+</oai_dc:dc>

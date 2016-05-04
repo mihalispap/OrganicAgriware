@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>SimDen – A simple empirical model for quantification of N2O emission and denitrification</dc:title>
+  <dc:creator>Vinther, F.P.</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:subject>Air and water emissions</dc:subject>
+  <dc:description>The denitrification process, including emission of nitrous oxide (N2O), is an important process both from an agricultural and environmental point of view. However, the process is, due to its high spatial and temporal variability, very difficult and resource demanding to quantify, and the only alternative is often to use simulation models. However, simulation models often need more input information than what is available. Therefore, a simple empirical model - SimDen - for quantifying the denitrification is presented, where only information about soil type and fertilisation are needed as input variables.&#xD;
+Basically, the denitrification in SimDen is calculated as (N2O-emission) x (N2/N2O-ratio): &#xD;
+-	The N2O-emission is derived from input of N and emission factors, as used in the IPCC-methodology. SimDen use emission factors of 0.8% of applied N for inorganic fertiliser and 2.5% for animal manure/slurry and N2 fixation. Only N2 fixation below harvest or grazing height, i.e., fixation in stubble and roots, is considered as N-input. &#xD;
+-	N2/N2O-ratios are based on literature values. &#xD;
+Soil moisture and content of organic matter affect both the N2O-emission and the N2/N2O-ratio, which made it possible to relate the denitrification to the Danish soil types, which differs in hydraulic properties and soil texture.&#xD;
+SimDen is verified against a number of field measurements from Danish soils and has been compared to simulations with the soil-plant-atmosphere model Daisy. &#xD;
+SimDen can be downloaded from: www.agrsci.dk/simden</dc:description>
+  <dc:contributor>Steensberg, M.</dc:contributor>
+  <dc:contributor>Nilsson, H.</dc:contributor>
+  <dc:contributor>Brynjolfsson, H.</dc:contributor>
+  <dc:contributor>Kapuinen, P.</dc:contributor>
+  <dc:contributor>Morken, J.</dc:contributor>
+  <dc:contributor>Birkmose, T.S.</dc:contributor>
+  <dc:date>2005</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/5759/1/5759.pdf</dc:identifier>
+  <dc:identifier>Vinther, F.P.    (2005) SimDen – A simple empirical model for quantification of N2O emission and denitrification.       Paper at:   Manure - an agronomic and environmental challenge. NJF-seminar no. 372, Nils Holgerssongymnasiet, Skurup, Sweden. Abstract of oral presentation, 5-6 September 2005.</dc:identifier>
+  <dc:relation>http://orgprints.org/5759/</dc:relation>
+</oai_dc:dc>

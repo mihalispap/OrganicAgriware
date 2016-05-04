@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Vaccine use in organic cattle and sheep systems: Development of a decision support tool based on risk assessment</dc:title>
+  <dc:creator>Hovi, Malla</dc:creator>
+  <dc:subject>Technology transfer</dc:subject>
+  <dc:subject>Health and welfare</dc:subject>
+  <dc:description>This project’s aim was to support a consistent approach to decision making on vaccine use among organic dairy, beef and sheep farmers and their advisers, including their veterinarians, by developing a decision support tool on vaccine use in order:&#xD;
+a)	to help organic livestock producers and their veterinarians to assess an individual farm situation in relation to a specific disease risk, to implement specific risk management measures and to communicate the decision with adequate precision to the certification bodies; and &#xD;
+b)	to provide certification bodies with baseline information on risk factors and risk management measures and their significance, so that the could judge veterinary/farmer decisions on vaccine use adequately.&#xD;
+&#xD;
+The project focused on 10 cattle and 14 sheep diseases that are routinely vaccinated against in the UK. &#xD;
+&#xD;
+A web-based, interactive decision support tool (DestVAC, www.destvac.reading.ac.uk) was created using ASP.NET and SQL Server Database. The tool allows farm specific exploration of risk factors and risk management measures, access to additional information on vaccines, exposure and financial impact of disease at farm level. The tool also allows the user to produce reports on individual farm assessments or exploratory scenario building for submission to certification bodies as part of a health plan.</dc:description>
+  <dc:date>2003</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/6776/1/OF0310_2169_FRP.pdf</dc:identifier>
+  <dc:identifier>Hovi, Malla         (2003) Vaccine use in organic cattle and sheep systems: Development of a decision support tool based on risk assessment.    University of Reading, Veterinary Epidemiology and Economics Research Unit.</dc:identifier>
+  <dc:relation>http://orgprints.org/6776/</dc:relation>
+</oai_dc:dc>

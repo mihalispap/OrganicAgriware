@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Panel performance: Modelling variation in sensory profiling data by multiway analysis</dc:title>
+  <dc:creator>Romano, Rosaria</dc:creator>
+  <dc:creator>Vestergaard, Jannie S.</dc:creator>
+  <dc:creator>Bredie, Wender L. P.</dc:creator>
+  <dc:subject>Surveys and statistics</dc:subject>
+  <dc:description>Sensory profiling data is essentially three-way data where samples, attributes and assessors are the three dimensions of information. It is common practice to average over the assessors and focus the analysis on the relations between samples and sensory descriptors. However, since assessor reliability can not be controlled in advance, posthoc analysis on assessors is needed to assess performance of the individual and at the panel level. For this purpose, multiway analysis is a very efficient data method as it provides information on samples, attributes and assessors, simultaneously [1]. PARAllel FACtor (PARAFAC) analysis is one of the most used multiway methods in sensory analysis [2][3]. It is based on two basic assumptions: 1) there exist latent variables behind the identified sensory descriptors describing the variation among the products; 2) assessors have different sensitivities to these common latent variables. However, assessors may perceive the factors differently, so the assumption of “common latent variables” becomes questionable. This may happen when the panel is not well trained and/or the samples present subtle differences difficult to detect. &#xD;
+In this work a more flexible approach to the analysis of sensory data is presented. Specifically, the work proposes to use PARAFAC2 modelling [4] as it allows each assessor to have an individual idiosyncratic perceptive model. The data was obtained from a descriptive sensory analysis of organic milk samples. Results show that PARAFAC2 is very useful to highlight disagreement in the panel on specific attributes and to detect outlying assessors. In addition, by using PARAFAC2 an improvement in the description of samples is also achieved. On the other hand, PARAFAC has to be preferred to PARAFAC2 when a good panel agreement is observed, since it provides more stable solutions and no further gain in information is obtained from PARAFAC2. Finally, the work proposes an index to measure the performance of each assessor based on individual sensitivity and reproducibility.</dc:description>
+  <dc:date>2009-07-26</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/16356/1/16356.pdf</dc:identifier>
+  <dc:identifier>Romano, Rosaria; Vestergaard, Jannie S. and Bredie, Wender L. P.    (2009) Panel performance: Modelling variation in sensory profiling data by multiway analysis.   In:     Delegate Manual.</dc:identifier>
+  <dc:relation>http://orgprints.org/16356/</dc:relation>
+</oai_dc:dc>

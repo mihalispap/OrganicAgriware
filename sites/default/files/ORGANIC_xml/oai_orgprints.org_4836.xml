@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Individual plant care in cropping systems</dc:title>
+  <dc:creator>Griepentrog, Hans W.</dc:creator>
+  <dc:creator>Nørremark, Michael</dc:creator>
+  <dc:creator>Nielsen, Henning</dc:creator>
+  <dc:creator>Blackmore, Simon</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>Individual plant care cropping systems, embodied in precision farming, may lead to new opportunities in agricultural crop management. The objective of the project was to provide high accuracy seed position mapping of a field of sugar beet. An RTK GPS was retrofitted on to a precision seeder to map the seeds as they were planted. The average error between the seed map and the actual plant map was about 32 mm to 59 mm. The results showed that the overall accuracy of the estimated plant positions is acceptable for the guidance of vehicles and implements. For subsequent individual plant care, the deviations were not, in all cases, small enough to ensure accurate individual plant targeting.</dc:description>
+  <dc:publisher>Wageningen Academic Publishers</dc:publisher>
+  <dc:contributor>Stafford, John</dc:contributor>
+  <dc:contributor>Werner, Armin</dc:contributor>
+  <dc:date>2003</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/4836/1/4836.pdf</dc:identifier>
+  <dc:identifier>Griepentrog, Hans W.; Nørremark, Michael; Nielsen, Henning and Blackmore, Simon    (2003) Individual plant care in cropping systems.       Paper at:   4th European Conference on Precision Agriculture, Berlin, Germany, July 2003.</dc:identifier>
+  <dc:relation>http://orgprints.org/4836/</dc:relation>
+</oai_dc:dc>

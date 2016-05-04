@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Computer model for simulating the long-term dynamics of annual weeds</dc:title>
+  <dc:creator>Rasmussen, Ilse A.</dc:creator>
+  <dc:creator>Holst, Niels</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>A simulation model of the population dynamics of annual weeds and how it is affected by crop rotation, cultivation practices and weed control was presented by Rasmussen et al. (2002). The model aims to predict the development of a certain weed species in order to plan crop rotation and cultivation practices to minimise the risk of proliferation. The model does not predict the exact number of weeds expected to be found in a certain year or crop, but rather the general development over a number of years. It included the most important processes of the weed life cycle: seed survival in the soil, seed placement in soil after tillage, seed germination depending on soil depth, time of year and tillage and weed physiological development. The component describing the number of weed seeds resulting from a certain density of emerging seedlings was however rudimentary.&#xD;
+&#xD;
+In Rasmussen &amp; Holst (2003) a simple model to predict seed production from seedling density was presented, and its six parameters for Chenopodium album and Papaver rhoeas estimated from literature data, supplemented with field data on P. rhoeas seed production in Denmark. Parameter values were specified by their expected ranges rather than just point estimates, which enabled us to determine the expected ranges of seed production at given seedling densities. The model has been incorporated into the model framework presented earlier for a more complete description of annual weed seedbank dynamics in a crop rotation. &#xD;
+&#xD;
+While the model needs to be validated, parameters for the two selected species were readily estimated from available literature and more species can be easily added.&#xD;
+&#xD;
+In Rasmussen et al. (2003), the model was extended to include volunteer oilseed rape. The model was compared with an alternative model, and the pros and cons of both models was discussed.&#xD;
+&#xD;
+The model can be freely downloaded from the Internet at http://www.agrsci.dk/plb/nho/Fieldweeds.htm.</dc:description>
+  <dc:publisher>CD-ROM, Europeon Weed Reserach Society</dc:publisher>
+  <dc:contributor>Cloutier, Daniel C.</dc:contributor>
+  <dc:contributor>Ascard, Johan</dc:contributor>
+  <dc:date>2004</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>source</dc:format>
+  <dc:identifier>http://orgprints.org/3933/1/3933.doc</dc:identifier>
+  <dc:identifier>Rasmussen, Ilse A. and Holst, Niels    (2004) Computer model for simulating the long-term dynamics of annual weeds.   In: Cloutier, Daniel C. and Ascard, Johan (Eds.)  Proceedings of the 6th EWRS Workshop on Physical and Cultural Weed Control, CD-ROM, Europeon Weed Reserach Society, p. 69.</dc:identifier>
+  <dc:relation>http://orgprints.org/3933/</dc:relation>
+</oai_dc:dc>

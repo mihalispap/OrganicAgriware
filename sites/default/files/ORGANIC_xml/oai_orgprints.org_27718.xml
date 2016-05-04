@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A user-friendly database for Participatory Plant Breeding programs</dc:title>
+  <dc:creator>Rosenfeld, Simon</dc:creator>
+  <dc:creator>Parzies, Heiko</dc:creator>
+  <dc:creator>Grando, Stefania</dc:creator>
+  <dc:creator>Ceccarelli, Salvatore</dc:creator>
+  <dc:subject>Systems research and participatory research</dc:subject>
+  <dc:subject>Breeding, genetics and propagation</dc:subject>
+  <dc:description>In a decentralized and participatory plant breeding (PPB) program, in contrast to conventional plant breeding, farmers select from a large number of genotypes over a number of cycles in several locations. As selection is for location-specific adaptation a PPB program based on, for example, four stages of selection, generates large, unbalanced data sets. With common spreadsheet software it is not possible, or it is at least very cumbersome to extract all the information, particularly the one that is related to genotype x environment (GE) interactions. Therefore, there is a need for an information system that makes it as easy as possible to retrieve and compare data over all given factors in the PPB-program. Due to a lack of education and financial resources in developing countries, the use of existing databases was not an option because of their complexity and/or price. We have built a simple, free and user-friendly database that allows to store, retrieve and analyze the plant breeding data. The database is implemented using the Java based HyperSQL Database Engine (HSQLDB) in the package of Open Office with links to the input formats of Genstat and GGEbiPlot. The proposed database is capable of managing the following data in a PPBprogram for barley: (I) trial data for any trial or field design (II) field data for any given trait (III) results from statistical analyses (IV) farmers selection individually or in groups.</dc:description>
+  <dc:publisher>INRA, ITAB, France</dc:publisher>
+  <dc:contributor>Goldringer, Isabelle</dc:contributor>
+  <dc:contributor>Dawson, Julie</dc:contributor>
+  <dc:contributor>Rey, Frédéric</dc:contributor>
+  <dc:contributor>Vettoretti, Alice</dc:contributor>
+  <dc:date>2010-12</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/27718/1/Poster%20revised%20Aug%202011.pdf</dc:identifier>
+  <dc:identifier>Rosenfeld, Simon; Parzies, Heiko; Grando, Stefania and Ceccarelli, Salvatore    (2010) A user-friendly database for Participatory Plant Breeding programs.   In: Goldringer, Isabelle; Dawson, Julie; Rey, Frédéric and Vettoretti, Alice (Eds.)  Breeding for resilience: a strategy for organic and low-input farming systems?, INRA, ITAB, France, p. 146.</dc:identifier>
+  <dc:relation>http://orgprints.org/27718/</dc:relation>
+</oai_dc:dc>

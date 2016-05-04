@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Robotic weed monitoring</dc:title>
+  <dc:creator>Bochtis, D.D.</dc:creator>
+  <dc:creator>Sørensen, C.G.</dc:creator>
+  <dc:creator>Jørgensen, R.N.</dc:creator>
+  <dc:creator>Nørremark, M.</dc:creator>
+  <dc:creator>Hameed, I.A.</dc:creator>
+  <dc:creator>Swain, K.C.</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>In this paper, an integrated management system for the  planning and activation of a field monitoring task is presented. The architecture of the system is built around a mobile robotic unit. The internet-based architecture of the system includes a station unit that works as a mobile on-farm operating console, the mobile robotic unit and a field server for generating and storing maps. The hypothesis is that it is possible to automate the planning and execution  of the operation of monitoring the in-field weed density and species distribution. The developed planning system includes the automatic field geometrical representation and the route planning for the mobile unit. For the field representation two algorithmic approaches for automated track generation were used. For the route planning, a graph-based field coverage algorithm and a discrete gridbased path planning method were used.The low computational requirements of the implemented algorithms make it feasible to adopt a real-time re-planning strategy in which a set of new planning problems are solved based on the latest &#xD;
+information. The central part of such a planning, concerns the dynamic re-evaluation of the initial plan for sampling and routing based on the on-line analysis of the samples. This provides the basis for a fully sequential adaptive adjustment of the sampling procedure after each individual sampling. It is expected that such a dynamic targeted sampling and routing system will reduce the overall cost and time consumption of the weed monitoring operation.</dc:description>
+  <dc:date>2011</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20659/4/20659.pdf</dc:identifier>
+  <dc:identifier>Bochtis, D.D.; Sørensen, C.G.; Jørgensen, R.N. ; Nørremark, M.; Hameed, I.A. and Swain, K.C.   (2011) Robotic weed monitoring.   Acta Agriculturae Scandinavica Section B. Soil and Plant Science, 61, pp. 202-208.</dc:identifier>
+  <dc:relation>http://orgprints.org/20659/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,13 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Incomplete split-plots in variety trials - based on a-designs</dc:title>
+  <dc:creator>Kristensen, Dr. K.</dc:creator>
+  <dc:subject>Research methodology and philosophy</dc:subject>
+  <dc:description>Incomplete split-plots based on a-designs are proposed as alternative to traditional split-plot designs. The purpose of the incomplete split-plot designs is to increase the efficiency of the treatment (whole plot factor) comparisons especially for specific varieties. The designs are constructed in 4 different methods, but in all methods the unit for the treatments are the incomplete blocks (in stead of whole plots with all varieties in traditional split-plots). The designs are compared with each other and with traditional split-plot and randomised complete block designs using generated data with known covariance structure and using data from 5 uniformity trials. The comparisons showed that these designs in almost all cases were more efficient than the traditional designs and that they were never considerably less efficient that these. Designs where the incomplete blocks are grouped so that each group contain all treatments (one incomplete block with each treatment) were more efficient that when the incomplete blocks were randomised independently (in one step).</dc:description>
+  <dc:date>2003</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/1498/1/Alternatives_to_SplitPlot-Orgprints.pdf</dc:identifier>
+  <dc:identifier>Kristensen, Dr. K.    (2003) Incomplete split-plots in variety trials - based on a-designs.   In:     Biuletyn Oceny Odmian, 31, pp. 7-17.</dc:identifier>
+  <dc:relation>http://orgprints.org/1498/</dc:relation>
+</oai_dc:dc>

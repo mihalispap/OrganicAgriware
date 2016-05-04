@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Growth and competition model for organic weed control</dc:title>
+  <dc:creator>Anon,</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:subject>Vegetables</dc:subject>
+  <dc:subject>Technology transfer</dc:subject>
+  <dc:description>There is a more detailed Executive Summary at the top of the attached document, which is the final report for Defra Project OF0177.&#xD;
+The project aimed to examine the organic extension of a simple mechanistically-based growth and competition model, calibrated to data originally gained from conventional vegetable production. Essentially the model simulation follows the growth of each crop and weed plant as they compete for space and light during and after canopy closure. The growth and competition model has been modified to simulate crop and weed growth of multiple cohorts so that the onset of crop weed competition can be predicted. This onset of competition marks the point when it is essential to remove weeds (i.e. critical weeding time); otherwise, there will be a penalty to crop yield.&#xD;
+&#xD;
+The model can be applied to determine the onset of competition between competing species (i.e. crop and weed).  In organic crops this would be the time when physical removal of the weeds (either by means of mechanical or hand weeding methods) was essential to prevent yield loss. To test the ability of the model to identify critical weeding times, model predictions were compared with historical experimental data.  The inputs to the model are starting plant weights and the numbers of individuals per unit area of the crop and weed species for each cohort at each day of the simulation. Solar radiation was used to drive the model. All the growth parameters were species specific and where a number of weed species are competing with the crop in a mixed population, then a general set of parameters representing the mean of a range of parameterised weed species were used.  Repeatedly running the simulation with different starting inputs from a range of historical data sets indicated that the observed critical weeding time was described well by the model.&#xD;
+&#xD;
+To examine the applicability of the principle of the growth model to an organic cropping situation, the predicted optimum timing of weed removal simulated by the model was incorporated as a treatment into an existing organic carrot trial. The aim was to see whether the weeding time simulated by the model achieved comparable or better results than the weeding by the unaided judgement of the grower.The results demonstrated that there was certainly no disadvantage to using the model in that year to aid in the decision making process.&#xD;
+&#xD;
+A small-scale trial was made in year 3, incluing cabbage plus three previously unparameterised crops; broccoli, cauliflower and leeks.  The crop parameters for cabbage were used to drive the cauliflower and broccoli simulations and onion parameters for leeks.  Three treatments were; weeding once as recommended by advisors at HDRA, weeding once as predicted by the model and left weedy throughout to test the competitive level of the weed flora.  Inputs into the model were solar radiation, crop transplant weights and numbers, and weed weights and numbers during the early weeks of crop growth. Adjustment of the model using the final crop weights was related to the different relative growth rates of the crops in organic soils, compared with the higher N levels in conventional soils from where the parameters had been originally derived. After recalibration, the model re-confirmed the mid-August onset of competition, but tended to over predict the degree of weed competition.  The notable exception was the leek crop which was more sensitive to competition than its brassica counterparts and gave a good illustration of the potential power of the model.&#xD;
+&#xD;
+As part of the project several presentations have been made to growers during the final year, which have allowed a dialogue and awareness to develop highlighting the practical and scientific implications of the model.</dc:description>
+  <dc:date>2002</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/7998/1/OF0177_2155_FRP.pdf</dc:identifier>
+  <dc:identifier>Anon,          (2002) Growth and competition model for organic weed control.    Horticulture Research International, Wellesbourne.</dc:identifier>
+  <dc:relation>http://orgprints.org/7998/</dc:relation>
+</oai_dc:dc>

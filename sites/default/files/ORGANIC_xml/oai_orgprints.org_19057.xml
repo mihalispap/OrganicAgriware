@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Whole genome de novo sequencing of quail and grey partridge</dc:title>
+  <dc:creator>Holm, Lars-Erik</dc:creator>
+  <dc:creator>Panitz, Frank</dc:creator>
+  <dc:creator>Burt, D.</dc:creator>
+  <dc:creator>Talbot , R.</dc:creator>
+  <dc:creator>Smith, S.</dc:creator>
+  <dc:creator>Andersen, Liselotte Wesley</dc:creator>
+  <dc:creator>Bendixen, Christian</dc:creator>
+  <dc:subject>"Organics" in general</dc:subject>
+  <dc:description>Sufficient sequence data to initiate genome sequencing of quail and grey partridge has been obtained. &#xD;
+The difference in assembly quality between species is a consequence of the difference in length of the sequence reads (54 cycles versus 101 cycles).&#xD;
+Additional data will be required before sequence assembly are being performed.&#xD;
+Specifically longer sequence reads (especially in quail) will be necessary to generate assemblies of a reasonable quality.</dc:description>
+  <dc:date>2011-01-15</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/19057/4/19057.pdf</dc:identifier>
+  <dc:identifier>Holm, Lars-Erik; Panitz, Frank; Burt, D.; Talbot , R.; Smith, S.; Andersen, Liselotte Wesley and Bendixen, Christian    (2011) Whole genome de novo sequencing of quail and grey partridge.       Poster at:</dc:identifier>
+  <dc:relation>http://orgprints.org/19057/</dc:relation>
+</oai_dc:dc>

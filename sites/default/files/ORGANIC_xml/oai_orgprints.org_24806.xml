@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Is the intestinal microbiota in rainbow trout influenced by diet type and challenge by Yersinia ruckeri?</dc:title>
+  <dc:creator>Ingerslev, Hans-Christian</dc:creator>
+  <dc:creator>Dalsgaard, Inger</dc:creator>
+  <dc:creator>Jørgensen, Louise von Gersdorff</dc:creator>
+  <dc:creator>Madsen, Lone</dc:creator>
+  <dc:subject>Feeding and growth</dc:subject>
+  <dc:subject>Health and welfare</dc:subject>
+  <dc:description>In recent years it has become more and more evident that the bacterial flora in the gut of warm-blooded animals modulates physiological processes and the immunological status of the host. Besides effects on growth parameters, commensal intestinal bacteria balance the immune system and prevent colonization of pathogenic bacteria. The question is if the gut microbiota is also important in lower vertebrates such as fish? And does it play a role in connection to pathogenic challenge? To examine these questions rainbow trout fry were fed two different diets of either a marine or vegetable origin directly after first feeding. At a size of about four gram the fish were bath challenged by Yersinia ruckeri and intestines were then sampled 5 and 18 days post challenge for subsequent metagenomic and immunological examinations. Next-generation sequencing was applied for the metagenomic studies using the Illumina HiSeq platform. The results clearly showed two different microbial patterns in the intestines dependent on the diet type. Control fish fed a marine based diet overall had a higher amount of proteobacteria, while high amount of reads belonging to phylum Firmicutes dominated in the intestines of vegetable fed fish. Several genera within the order Lactobacillales belonged to the many reads from Firmicutes. In challenged fish with a high load of reads from genus Yersinia there was a significantly lower amount of reads from the order Burkholderiales. Further, these fish further clustered separately when analyzing the bacterial community on a PCA plot. The immunological examinations using RT-qPCR showed no different expression patterns between the diet groups in control fish, but the response was very different in connection to challenge. Here, the general pattern was a pro-inflammatory response in the intestine of marine fed fish challenged with Yersinia ruckeri, while several immune genes were down-regulated in vegetable fed fish. Overall, the results indicate that the gut microbiota in rainbow trout is highly plastic according to the type of diet and does further seem to be involved in the immunological response in connection to pathogenic challenge.</dc:description>
+  <dc:date>2013-04-10</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/24806/3/24806.pdf</dc:identifier>
+  <dc:identifier>Ingerslev, Hans-Christian; Dalsgaard, Inger; Jørgensen, Louise von Gersdorff and Madsen, Lone    (2013) Is the intestinal microbiota in rainbow trout influenced by diet type and challenge by Yersinia ruckeri?   In:     DAFINET WORKSHOP Diagnosis and control of fish diseases. Abstracts.</dc:identifier>
+  <dc:relation>http://orgprints.org/24806/</dc:relation>
+</oai_dc:dc>

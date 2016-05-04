@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Vision-based weed identification with farm robots</dc:title>
+  <dc:creator>Swain, Kishore C.</dc:creator>
+  <dc:creator>Nørremark, Michael</dc:creator>
+  <dc:creator>Bochtis, Dionysis</dc:creator>
+  <dc:creator>Sørensen, Claus Grøn</dc:creator>
+  <dc:creator>Green, Ole</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>Robots in agriculture offer new opportunities for real  time weed identification and quick removal operations. Weed identification and control remains one of the most challenging task in agriculture, particularly in organic agriculture practices. Considering environmental impacts and food quality, the excess use of chemicals in agriculture for controlling weeds and diseases is decreasing. The cost of herbercides and their field applications must be optimized. As an alternative, a smart weed identification technique followed by the mechanical and thermal weed control can fulfill the organic farmers’ expectations. The smart identification technique works on the concept of ‘shape matching’ and ‘active shape modeling’ of plant and weed leafs. The automated weed detection and control system consists of three major tools. Such as: i) eXcite multispectral camera, ii) LTI image processing library and iii) Hortibot robotic vehicle. The components are combined in Linux interface environment in the eXcite camera associate PC. The laboratory experiments for active shape matching have shown interesting results which will be further enhanced to develop the automated weed detection system. The Hortibot robot will be mounted with the camera unit in the front-end and the mechanical weed remover in the rear-end. The system will be upgraded for intense commercial applications in maize and other row crops.</dc:description>
+  <dc:publisher>CIGR XVIIth World Congress</dc:publisher>
+  <dc:date>2010-06</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20653/4/20653.pdf</dc:identifier>
+  <dc:identifier>Swain, Kishore C.; Nørremark, Michael; Bochtis, Dionysis; Sørensen, Claus Grøn and Green, Ole     (2010) Vision-based weed identification with farm robots.   In:     XVIIth World Congress of the International Commission of Agricultural and Biosystems Engineering, Book of Abstracts, CIGR XVIIth World Congress, p. 11.</dc:identifier>
+  <dc:relation>http://orgprints.org/20653/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Classification List for Land Use and Livestock Data</dc:title>
+  <dc:creator>Rippin, Markus</dc:creator>
+  <dc:subject>Surveys and statistics</dc:subject>
+  <dc:description>This classification list for land use and livestock data was processed by the EISfOM project in order to provide a structured classification systematic to obtain comparable data and enable the exchange of data between national and Eurostat databases. A correspondence table - similiar to this - for every nation database should be defined, to link national codecs to those of Eurostat.&#xD;
+&#xD;
+The Cropitem/Livestock classification is used for land use/livestock data according to EU regulation 2092/91. &#xD;
+The FFS codecs is used for Farm Structure Survey (conventional data) in the different countries.</dc:description>
+  <dc:date>2006</dc:date>
+  <dc:type>Other</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/9109/1/rippin-2006-classification.pdf</dc:identifier>
+  <dc:identifier>Rippin, Markus    (2006) Classification List for Land Use and Livestock Data.   Zentrale Markt- und Preisberichtstelle für Erzeugnisse der Land-, Forst- und Ernährungswirtschaft GmbH, DE-Bonn.   [Unpublished]</dc:identifier>
+  <dc:relation>http://orgprints.org/9109/</dc:relation>
+</oai_dc:dc>

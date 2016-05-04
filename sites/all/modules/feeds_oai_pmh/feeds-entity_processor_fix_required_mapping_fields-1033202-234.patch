@@ -1,0 +1,486 @@
+diff --git a/feeds.info b/feeds.info
+index 8041cbf..fbb66b1 100644
+--- a/feeds.info
++++ b/feeds.info
+@@ -14,6 +14,7 @@ files[] = libraries/PuSHSubscriber.inc
+ 
+ ; Plugins
+ files[] = plugins/FeedsCSVParser.inc
++files[] = plugins/FeedsEntityProcessor.inc
+ files[] = plugins/FeedsFetcher.inc
+ files[] = plugins/FeedsFileFetcher.inc
+ files[] = plugins/FeedsHTTPFetcher.inc
+diff --git a/feeds.module b/feeds.module
+index f581d3f..903aaaa 100644
+--- a/feeds.module
++++ b/feeds.module
+@@ -1165,20 +1165,8 @@ function feeds_get_subscription_jobs() {
+  * Implements hook_entity_property_info_alter().
+  */
+ function feeds_entity_property_info_alter(&$info) {
+-  // Gather entities supported by Feeds processors.
+-  $processors = FeedsPlugin::byType('processor');
+-  $supported_entities = array();
+-  foreach ($processors as $processor) {
+-    $instance = feeds_plugin($processor['handler']['class'], '__none__');
+-    if (method_exists($instance, 'entityType')) {
+-      $supported_entities[] = $instance->entityType();
+-    }
+-  }
+-  // Feeds processors can fake the entity info. Only set the property for
+-  // defined entities.
+-  $supported_entities = array_intersect(array_keys($info), $supported_entities);
+ 
+-  foreach ($supported_entities as $entity_type) {
++  foreach ($info as $entity_type => $entity_info) {
+     $info[$entity_type]['properties']['feed_nid'] = array(
+       'label' => 'Feed NID',
+       'type' => 'integer',
+@@ -1249,3 +1237,67 @@ function feeds_api_version() {
+   $version = feeds_ctools_plugin_api('feeds', 'plugins');
+   return $version['version'];
+ }
++
++function node_form_feedsentityprocessor_feeds_form_alter(&$form, &$form_state) {
++  if ($form['#configurable']->entityType() == 'node') {
++    unset($form['values']['title']);
++    $form['values']['author']['#required'] = FALSE;
++    $form['values']['author']['#autocomplete_path'] = 'user/autocomplete';
++    array_unshift($form['#validate'], 'node_form_feedsentityprocessor_feeds_form_validate');
++    if (is_numeric($form['values']['author']['#default_value']) &&
++      $account = user_load($form['values']['author']['#default_value'])) {
++      $form['values']['author']['#default_value'] = $account->name;
++    }
++  }
++}
++
++function node_form_feedsentityprocessor_feeds_form_validate(&$form, &$form_state) {
++  if (empty($form_state['values']['values']['author'])) {
++    form_set_value($form['values']['author'], 0, $form_state);
++  }
++  else {
++    $account = user_load_by_name($form_state['values']['values']['author']);
++    if ($account) {
++      form_set_value($form['values']['author'], $account->uid, $form_state);
++    }
++  }
++}
++
++function node_feeds_processor_targets_alter(&$targets, $entity_type, $bundle) {
++  if ($entity_type == 'node') {
++    $targets['nid']['name'] = t('Node id');
++    $targets['nid']['description'] = t('The nid of the node. NOTE: use this feature with care, node ids are usually assigned by Drupal.');
++  }
++}
++
++function user_form_feedsentityprocessor_feeds_form_alter(&$form, &$form_state) {
++  if ($form['#configurable']->entityType() == 'user') {
++    unset($form['values']['name']);
++    $form['values']['mail']['#required'] = FALSE;
++  }
++}
++
++function taxonomy_form_feedsentityprocessor_feeds_form_alter(&$form, &$form_state) {
++  if ($form['#configurable']->entityType() == 'taxonomy_term') {
++    unset($form['values']['name']);
++    if (empty($form['values']['weight']['#default_value'])) {
++      $form['values']['weight']['#default_value']= '';
++    }
++    array_unshift($form['#validate'], 'taxonomy_form_feedsentityprocessor_feeds_form_validate');
++    unset($form['values']['parent']);
++    $form['values']['machine_name'] = $form['values']['vocabulary'];
++    $form['values']['vocabulary']['#access'] = FALSE;
++  }
++  elseif ($form['#configurable']->entityType() == 'taxonomy_vocabulary') {
++    unset($form['values']['name']);
++    unset($form['values']['machine_name']);
++    unset($form['values']['vid']);
++  }
++}
++
++function taxonomy_form_feedsentityprocessor_feeds_form_validate(&$form, &$form_state) {
++  if (empty($form_state['values']['values']['weight'])) {
++    form_set_value($form['values']['weight'], 0, $form_state);
++  }
++  form_set_value($form['values']['vocabulary'], $form_state['values']['values']['machine_name'], $form_state);
++}
+diff --git a/feeds.plugins.inc b/feeds.plugins.inc
+index c7d5d81..f799028 100644
+--- a/feeds.plugins.inc
++++ b/feeds.plugins.inc
+@@ -166,5 +166,28 @@ function _feeds_feeds_plugins() {
+       ),
+     );
+   }
++  if (module_exists('entity')) {
++    foreach (entity_get_info() as $type => $entity_info) {
++      // @todo: Test for saving and whatever else necessary?
++      if (entity_type_supports($type, 'create')) {
++        $info['FeedsEntityProcessor' . drupal_ucfirst($type)] = array(
++          'name' => 'Entity processor ' . $entity_info['label'],
++          // @todo: Use plural label if there.
++          'description' => 'Create and update ' . $entity_info['label'] . 's.',
++          'help' => 'Create and update ' . $entity_info['label'] . 's from parsed content.',
++          'plugin_key' => 'FeedsEntityProcessor',
++          'handler' => array(
++            'parent' => 'FeedsProcessor',
++            'class' => 'FeedsEntityProcessor',
++            'file' => 'FeedsEntityProcessor.inc',
++            'path' => $path,
++          ),
++          // Add in the entity type used.
++          // @see FeedsEntityProcessor::entityType()
++         'type' => $type,
++        );
++      }
++    }
++  }
+   return $info;
+ }
+diff --git a/mappers/taxonomy.inc b/mappers/taxonomy.inc
+index 02ac54e..a8e4c48 100644
+--- a/mappers/taxonomy.inc
++++ b/mappers/taxonomy.inc
+@@ -70,6 +70,11 @@ function taxonomy_feeds_processor_targets_alter(&$targets, $entity_type, $bundle
+       );
+     }
+   }
++  if ($entity_type == 'taxonomy_term') {
++    $targets['tid']['name'] = t('Term id');
++    $targets['tid']['description'] = t('The tid of the taxonomy term. NOTE: use this feature with care, node ids are usually assigned by Drupal.');
++    unset($targets['vocabulary']);
++  }
+ }
+ 
+ /**
+diff --git a/plugins/FeedsEntityProcessor.inc b/plugins/FeedsEntityProcessor.inc
+new file mode 100644
+index 0000000..503241d
+--- /dev/null
++++ b/plugins/FeedsEntityProcessor.inc
+@@ -0,0 +1,265 @@
++<?php
++/**
++ * @file
++ * Class definition of FeedsEntityProcessor.
++ */
++
++/**
++ * Creates entities from feed items.
++ */
++class FeedsEntityProcessor extends FeedsProcessor {
++
++  /**
++   * Returns the entity type.
++   *
++   * @return string
++   *   The type of entity this processor will create.
++   */
++  public function entityType() {
++    $plugin_info = $this->pluginDefinition();
++    return $plugin_info['type'];
++  }
++
++  /**
++   * Returns the bundle.
++   *
++   * @return string
++   *   The bundle of the entities this processor will create.
++   */
++  public function bundle() {
++    $bundle = NULL;
++    $entity_info = $this->entityInfo();
++    if(!empty($this->config['bundle']) && isset($entity_info['bundles'][$this->config['bundle']])) {
++      $bundle = $this->config['bundle'];
++    }
++
++    return $bundle;
++  }
++
++  /**
++   * Overrides parent::entityInfo().
++   */
++  protected function entityInfo() {
++    $info = parent::entityInfo();
++    if (isset($info['label plural'])) {
++      $plural = $info['label plural'];
++    }
++    else {
++      $plural = $info['label'];
++    }
++
++    $info += array('label plural' => $plural);
++    return $info;
++  }
++
++  /**
++   * Creates a new entity in memory and returns it.
++   */
++  protected function newEntity(FeedsSource $source) {
++    $entity_type = $this->entityType();
++    $info = entity_get_info($entity_type);
++    $config = $this->config;
++    $values = array();
++    if (isset($info['entity keys']['bundle']) && isset($config['bundle'])) {
++      // we have to set the bundle in values when calling
++      // entity_property_values_create_entity() if the entity has an bundle
++      // in entity keys, or the bundle will not be set on creation
++      $values[$info['entity keys']['bundle']] = $config['bundle'];
++    }
++    $values = array_merge($config['values'], $values);
++    $entity = entity_property_values_create_entity($this->entityType(), $values)->value();
++    return $entity;
++  }
++
++  /**
++   * Check that the user has permission to save an entity.
++   *
++   * @todo Is checking the uid safe? A quick glance through core and some
++   *   contrib seems to say yes.
++   */
++  protected function entitySaveAccess($entity) {
++
++    // The check will be skipped for anonymous users.
++    if (!empty($this->config['authorize']) && !empty($entity->uid)) {
++
++      $author = user_load($entity->uid);
++
++      // If the uid was mapped directly, rather than by email or username, it
++      // could be invalid.
++      if (!$author) {
++        $message = 'User %uid is not a valid user.';
++        throw new FeedsAccessException(t($message, array('%uid' => $entity->uid)));
++      }
++
++      if (!empty($entity->is_new)) {
++        $op = 'create';
++        $access = entity_access($op, $this->entityType(), $author);
++      }
++      else {
++        $op = 'update';
++        $access = entity_access($op, $this->entityType(), $author);
++      }
++
++      if (!$access) {
++        $message = 'User %name is not authorized to %op entity %entity.';
++        $args = array(
++          '%name' => $author->name,
++          '%op' => $op,
++          '%entity' => $this->entityType(),
++        );
++        throw new FeedsAccessException(t($message, $args));
++      }
++    }
++  }
++
++  /**
++   * Save a entity.
++   */
++  public function entitysave($entity) {
++    entity_save($this->entityType(), $entity);
++  }
++
++  /**
++   * Delete a series of entities.
++   */
++  protected function entityDeleteMultiple($ids) {
++    entity_delete_multiple($this->entityType(), $ids);
++  }
++
++  /**
++   * Override parent::configDefaults().
++   */
++  public function configDefaults() {
++    return array(
++      'mappings' => array(),
++      'update_existing' => FEEDS_SKIP_EXISTING,
++      'input_format' => NULL,
++      'skip_hash_check' => FALSE,
++      'bundle' => NULL,
++      'values' => array(),
++    );
++  }
++
++  /**
++   * Override parent::configForm().
++   */
++  public function configForm(&$form_state) {
++    $form = parent::configForm($form_state);
++
++    $form['values'] = array(
++      '#type' => 'fieldset',
++      '#title' => t('Default values'),
++      '#tree' => TRUE,
++      '#description' => t('Most of the values below can be overriden by mapping a value.'),
++    );
++
++    $entity_info = $this->entityInfo();
++    $label_plural = $entity_info['label plural'];
++
++    $form['input_format']['#description'] = t('Select the default input format for the %entity to be created.', array('%entity' => $label_plural));
++
++    $wrapper = entity_metadata_wrapper($this->entityType());
++
++    foreach ($wrapper->getPropertyInfo() as $name => $property) {
++      if (empty($property['field'])) {
++        $form['values'][$name] = array(
++          '#type' => 'textfield',
++          '#title' => $property['label'],
++          '#description' => isset($property['description']) ? $property['description'] : '',
++          '#default_value' => isset($this->config['values'][$name]) ? $this->config['values'][$name] : NULL,
++          '#required' => !empty($property['required']),
++        );
++
++        if (!empty($property['options list'])) {
++          $form['values'][$name]['#type'] = 'select';
++          if (isset($property['type']) && entity_property_list_extract_type($property['type'])) {
++            $form['values'][$name]['#type'] = 'checkboxes';
++            if (!is_array($form['values'][$name]['#default_value'])) {
++              $form['values'][$name]['#default_value'] = array($form['values'][$name]['#default_value']);
++            }
++          }
++          $form['values'][$name]['#options'] = $wrapper->$name->optionsList();
++        }
++
++        elseif (!empty($property['type']) && $property['type'] == 'boolean') {
++          $form['values'][$name]['#type'] = 'checkbox';
++        }
++        // elseif (!empty($property['type']) && $property['type'] == 'date') {
++        //   $form['values'][$name]['#type'] = 'date';
++        // }
++      }
++    }
++    return $form;
++  }
++
++  /**
++   * Override parent::configFormValidate().
++   */
++  public function configFormValidate(&$values) {
++    $form = parent::configFormValidate($values);
++
++    $wrapper = entity_metadata_wrapper($this->entityType());
++
++    foreach ($wrapper->getPropertyInfo() as $name => $property) {
++      if (empty($property['field'])) {
++
++        // Entity api won't accept empty date values.
++        if (!empty($property['type']) && $property['type'] == 'date') {
++          if (empty($values['values'][$name])) {
++            unset($values['values'][$name]);
++            continue;
++          }
++        }
++
++        if (isset($property['type']) && array_key_exists($name, $values['values'])) {
++          if (entity_property_list_extract_type($property['type']) && !is_array($values['values'][$name])) {
++            $values['values'][$name] = array($values['values'][$name]);
++          }
++          // check if values empty first as all default values are optional
++          if (!empty($values['values'][$name])) {
++            $valid = entity_property_verify_data_type($values['values'][$name], $property['type']);
++            if (!$valid) {
++              form_set_error("values][$name", t('Invalid data value given. Be sure it matches the required data type and format.'));
++            }
++          }
++        }
++      }
++    }
++  }
++
++  /**
++   * Returns available mapping targets.
++   */
++  public function getMappingTargets() {
++    // Get a wrapper with the right bundle info.
++
++    $targets = parent::getMappingTargets();
++    $info = array('bundle' => $this->bundle());
++
++    $wrapper = entity_metadata_wrapper($this->entityType(), NULL, $info);
++    // @todo: maybe restrict to data types feeds can deal with.
++    foreach ($wrapper->getPropertyInfo() as $name => $property) {
++      if (empty($property['field'])) {
++        $targets[$name] = array(
++          'name' => $property['label'],
++          'description' => isset($property['description']) ? $property['description'] : NULL,
++        );
++      }
++    }
++
++    $entity_info = $this->entityInfo();
++    $targets[$entity_info['entity keys']['id']]['optional_unique'] = TRUE;
++
++    // Remove the bundle target.
++    if (isset($entity_info['bundle keys']['bundle'])) {
++      unset($targets[$entity_info['bundle keys']['bundle']]);
++    }
++
++    // Let other modules expose mapping targets.
++    self::loadMappers();
++    $type = $this->entityType();
++    drupal_alter('feeds_processor_targets', $targets, $type, $info['bundle']);
++
++    return $targets;
++  }
++}
+diff --git a/plugins/FeedsParser.inc b/plugins/FeedsParser.inc
+index 13fcaa0..5f58224 100644
+--- a/plugins/FeedsParser.inc
++++ b/plugins/FeedsParser.inc
+@@ -63,7 +63,7 @@ abstract class FeedsParser extends FeedsPlugin {
+   /**
+    * Parse content fetched by fetcher.
+    *
+-   * Extending classes must implement this method.
++   * `Extending classes must implement this method.
+    *
+    * @param FeedsSource $source
+    *   Source information.
+diff --git a/plugins/FeedsPlugin.inc b/plugins/FeedsPlugin.inc
+index 259eedb..fbce296 100644
+--- a/plugins/FeedsPlugin.inc
++++ b/plugins/FeedsPlugin.inc
+@@ -38,6 +38,20 @@ abstract class FeedsPlugin extends FeedsConfigurable implements FeedsSourceInter
+   abstract public function pluginType();
+ 
+   /**
++   * Returns the plugin definition.
++   *
++   * @return array
++   *   The plugin definition array.
++   *
++   * @see ctools_get_plugins()
++   */
++  public function pluginDefinition() {
++    $importer = feeds_importer($this->id);
++    $plugin_key = $importer->config[$this->pluginType()]['plugin_key'];
++    return ctools_get_plugins('feeds', 'plugins', $plugin_key);
++  }
++
++  /**
+    * Save changes to the configuration of this object.
+    * Delegate saving to parent (= Feed) which will collect
+    * information from this object by way of getConfig() and store it.
+diff --git a/views/feeds.views.inc b/views/feeds.views.inc
+index 01ba7d4..0836f0e 100644
+--- a/views/feeds.views.inc
++++ b/views/feeds.views.inc
+@@ -166,7 +166,7 @@ function feeds_views_data() {
+ 
+   // Add a relationship for each entity type relating the entity's base table
+   // to the feeds_item table whre feeds_item.entity_type = 'entity_type'.
+-  foreach (array('node', 'taxonomy_term', 'user') as $entity_type) {
++  foreach (array('node', 'taxonomy_term', 'user', 'file') as $entity_type) {
+     $info = entity_get_info($entity_type);
+     $data['feeds_item']['table']['join'][$info['base table']] = array(
+       'left_field' => $info['entity keys']['id'],
+@@ -319,6 +319,7 @@ function feeds_views_data() {
+       'type' => 'LEFT',
+     ),
+   );
+-
++  
++  
+   return $data;
+ }

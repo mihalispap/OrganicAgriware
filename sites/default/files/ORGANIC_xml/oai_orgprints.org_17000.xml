@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Prediction of cereal feed value using spectroscopy and chemometrics</dc:title>
+  <dc:creator>Jørgensen, Johannes Ravn</dc:creator>
+  <dc:creator>Gislum, René</dc:creator>
+  <dc:subject>Animal husbandry</dc:subject>
+  <dc:subject>Crop husbandry</dc:subject>
+  <dc:description>Feed value in form of FEsv (Feed unit / kg dry matter, for piglets) and FEso (Feed unit / kg dry matter, for sows), EDOM (Enzyme Degradable Organic Matter) and EDOMi (Enzyme Degradable Organic Matter, Ileum) is used in the feed evaluation system for pigs. Analysis of feed value have highlighted that there is a significant variation between varieties as well as due to an environmental variation between regions and the harvest year. The chemical analysis is, however, time-consuming and costly, and it is therefore desirable to have a rapid and less expensive method, which makes it possible to carry out more analyses in-situ.&#xD;
+&#xD;
+Near infra-red reflection spectroscopy (NIRS) is appropriate as a standard analysis of dry matter, total N and starch in grains, since it is rapid (approximately 1 minute per measurement of a ground test) and cheap. NIRS is therefore appropriate as a quick method for the determination of EDOM, EDOMi, FEso and FEsv. The outcome of a successful NIRS calibration will be a relatively cheap tool to monitor, diversify and evaluate the quality of cereals for animal feed, a possible tool to assess the feed value of new varieties in the variety testing and a useful, cheap and rapid tool for cereal breeders. &#xD;
+&#xD;
+A collection of 1213 grain samples of wheat, triticale, barley and rye, and related chemical reference analyses to describe the feed value have been established. The samples originate from available field trials over a three-year period. The chemical reference analyses are dry matter, crude protein, crude ash, crude oils and fats, EDOM, EDOMi, FEso and FEsv. All samples were ground on a laboratory mill and scans were obtained using a QFA-Flex 400 FT-NIR instrument (Q-interline, Roskilde, Denmark). The samples were packed in glass vials with a height of 6 cm and a diameter of 2.6 cm and measured using a rotating sample device. The sample was rotated with a speed of three rounds per minute, with a measuring sample window at the rotating sample device has a diameter of 6 mm and the analysis surface is ~ 510 mm2. NIR measurements in the range from 800 to 2500 nm with data collection at every 2 nm were performed on grounded and dried aliquots. &#xD;
+&#xD;
+The development of the NIRS method to determine feed value has been struggled by the fact that the chemical reference analysis has been subject to considerable error. Despite this, it has been possible to develop a wide-ranging calibration model predicting the feed value FEsv and FEso for wheat, barley and triticale. Status of the developed model is a SEP (standard error of performance) of 1.7% for EDOM, 1.7% for EDOMi, 2.2% for FEsv and of 1.8% for FEso. For the assessment of method repeatability in relation to the chemical uncertainty of feed value, the prediction error has to be compared with the error in the chemical analysis. Prediction error by NIRS prediction of feed value is above the error of the chemical measurement.&#xD;
+&#xD;
+The conclusion is that it is possible to predict the feed value in cereals with NIRS quickly and cheaply, but prediction error with this method is relatively high in relation to a chemical determination of the feed value. A further improvement of the NIRS method will probably be possible with the addition of further references (several years, varieties and sites), which is therefore recommended. Likewise a classification of the feed value into 4 or more groups may be a solution. The current model for prediction of grain feed value with NIRS is yet only suitable as a guiding rule.</dc:description>
+  <dc:publisher>University of Copenhagen. Faculty of Life Sciences</dc:publisher>
+  <dc:date>2009</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/17000/1/17000.pdf</dc:identifier>
+  <dc:identifier>Jørgensen, Johannes Ravn and Gislum, René    (2009) Prediction of cereal feed value using spectroscopy and chemometrics.   In:     30th Nordic Cereal Congress 15-17th of June 2009 Programme and Book of Abstracts, University of Copenhagen. Faculty of Life Sciences.</dc:identifier>
+  <dc:relation>http://orgprints.org/17000/</dc:relation>
+</oai_dc:dc>

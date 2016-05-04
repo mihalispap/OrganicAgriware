@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Stochastic utility-efficient programming of organic dairy farms</dc:title>
+  <dc:creator>Flaten, Ola</dc:creator>
+  <dc:creator>Lien, Gudbrand</dc:creator>
+  <dc:subject>Dairy cattle</dc:subject>
+  <dc:subject>Pasture and forage crops</dc:subject>
+  <dc:subject>Farm economics</dc:subject>
+  <dc:subject>Policy environments and social economy</dc:subject>
+  <dc:subject>Research methodology and philosophy</dc:subject>
+  <dc:description>Opportunities to make sequential decisions and adjust activities as a season progresses and more information becomes available characterise the farm management process. In this paper, we present a discrete stochastic two-stage utility efficient programming model of organic dairy farms, which includes risk aversion in the decision maker’s objective function as well as both embedded risk (stochastic programming with recourse) and non-embedded risk (stochastic programming without recourse). Historical farm accountancy data and subjective judgements were combined to assess the nature of the uncertainty that affects the possible consequences of the decisions. The programming model was used within a stochastic dominance framework to examine optimal strategies in organic dairy systems in Norway.</dc:description>
+  <dc:publisher>Elsevier</dc:publisher>
+  <dc:date>2007</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/17785/1/EJOR_2007_Flaten_Lien_final.pdf</dc:identifier>
+  <dc:identifier>Flaten, Ola and Lien, Gudbrand   (2007) Stochastic utility-efficient programming of organic dairy farms.   European Journal of Operational Research, 181 (3), pp. 1574-1583.</dc:identifier>
+  <dc:relation>http://orgprints.org/17785/</dc:relation>
+</oai_dc:dc>

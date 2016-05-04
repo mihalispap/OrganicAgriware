@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modellierung der Kohlenstoffdynamik mit dem Modell CCB</dc:title>
+  <dc:creator>Franko, Uwe</dc:creator>
+  <dc:creator>Thiel, Enrico</dc:creator>
+  <dc:creator>Kolbe, Hartmut</dc:creator>
+  <dc:subject>Soil</dc:subject>
+  <dc:description>Es wird ein vereinfachtes Modell zur Berechnung von Kohlenstoff-Bilanzen präsentiert, das vom CANDY-Modell abgeleitet wurde. Es arbeitet in Jahresschritten und erfordert als Minimaleingabe die Bodenart, den Tongehalt, Mittelwerte für Lufttemperatur und Niederschlag als Standortcharakteristik sowie einen Anfangswert für den Corg-Gehalt. Weiterhin werden Eingaben zum Ertrag und den zugeführten organischen Düngern verarbeitet. Candy Carbon Balance (CCB) wurde mit einem Datensatz von 40 Dauerversuchen mit 391 verschiedenen Varianten und einer Gesamtzahl von 4794 Corg messwerten validiert. Die gefundenen statistischen Maßzahlen zum Nachweis der Validität des Modells sind der mittlere Fehler (ME=-0.001) und der mittlere quadratische Fehler (RMSE=0.119). Daneben wurde eine Anzahl von test durchgeführt um abzusichern, dass keine systematischen Fehler für spezielle Standortbedingungen oder Bewirtschaftungsmaßnahmen vorliegen. Nach dieser erfolgreichen Validierung kann das Modell für einen weiten Bereich von Standortbedingungen im Rahmen des Beratungsdienstes für Ackerbau benutzt werden.</dc:description>
+  <dc:date>2011</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/17429/3/Franko_17429.pdf</dc:identifier>
+  <dc:identifier>Franko, Uwe; Thiel, Enrico and Kolbe, Hartmut    (2011) Modellierung der Kohlenstoffdynamik mit dem Modell CCB.  [Modelling of soil organic matter reproduction with CCB - a software for practical use.]      Paper at:   11. Wissenschaftstagung Ökologischer Landbau, Gießen, 16.-18. März 2011.</dc:identifier>
+  <dc:relation>http://orgprints.org/17429/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Cost-Effectiveness Evaluation of Swiss Agri-Environmental Measures on Sector Level</dc:title>
+  <dc:creator>Schader, C.</dc:creator>
+  <dc:creator>Sanders, J.</dc:creator>
+  <dc:creator>Offermann, F.</dc:creator>
+  <dc:creator>Lampkin, N.H.</dc:creator>
+  <dc:creator>Stolze, M.</dc:creator>
+  <dc:subject>Policy environments and social economy</dc:subject>
+  <dc:description>Abstract&#xD;
+This paper focuses on non-linear programming models and their suitability for ex-ante evaluations of agri-environmental policies on sector level. An approach is presented to compare organic farming payments as a multi-objective policy, with other, more targeted agri-environmental policies in Switzerland. The Swiss version of the comparative static sector-consistent farm group model FARMIS is able to group the sector’s farms into organic and non-organic farms and optimise them separately.&#xD;
+CH-FARMIS is expanded with three modules particularly for this study: a) allowing for the simulation of uptake; b) integrating life cycle assessment data for energy use, eutrophication and biodiversity; and c) estimating the policy and farm-group-specific public expenditure, including transaction costs.&#xD;
+This paper illustrates the functions of the model, shows preliminary energy use calculations for the German Agricultural Sector and discusses the advantages and limitations of the approach.</dc:description>
+  <dc:date>2008</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20332/1/cp08sc18.pdf</dc:identifier>
+  <dc:identifier>Schader, C.; Sanders, J.; Offermann, F.; Lampkin, N.H. and Stolze, M.         (2008) Cost-Effectiveness Evaluation of Swiss Agri-Environmental Measures on Sector Level.    Research Institute of Organic Agriculture (FiBL), von-Thünen-Institut, Aberystwyth University, Frick, Braunschweig, Aberystwyth.</dc:identifier>
+  <dc:relation>http://orgprints.org/20332/</dc:relation>
+</oai_dc:dc>

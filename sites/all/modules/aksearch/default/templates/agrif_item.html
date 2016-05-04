@@ -1,0 +1,31 @@
+<a href="#/" class="btn btn-default btn-sm"><span class="glyphicon glyphicon-home"></span> Home</a> <a class="btn btn-default btn-sm" href="javascript:history.back();" ><span class="glyphicon glyphicon-arrow-left"></span> Back to search </a>
+
+<!-- VIEW ITEM -->
+<hr>
+<div id="view_item" ng-controller="agris-viewItemController" ng-init="getItem()">
+	
+	<article id="main_content" class="col-sm-12 col-xs-12 col-md-12"><a style="float:right;" href="{{item_resource_url}}" class="item-btn btn btn-default" target=_blank ><span class="glyphicon glyphicon-eye-open"></span> Access the resource</a>
+	<h3 id="itemTitle">{{item_title}}</h3>
+	<div class="row"><div class="col-md-9">
+        <ul class="item_details">
+			 <li><span class="labels">Abstract: </span> <br><p style="text-align:justify">{{item_abstract}}</p></li>
+			 <li><span class="labels">Source: </span> <br> {{item_citation}} </li>
+			 <li><span class="labels">Type: </span> <br> {{item_type}} </li>
+			 <li><span class="labels">Keywords: </span> <br>
+			 	<span ng-repeat="keys in item_keywords"><a href="#/publications/search/?q={{keys}}">{{keys}}</a><span ng-show="!$last">, </span></span>
+			 </li>
+				 <li><span class="labels">Creator: </span> <br> <ul class="creator-list"><li ng-repeat="creator in item_creators">{{creator.name}} </li></li>
+			 <li><span class="labels">Language: </span> <br> {{item_language}}</li>
+				 <li><span class="labels">Subject: </span><br/> {{item_classification}}</li>
+				 <li><span class="labels">Pages: </span> <br> {{item_pages}} </li>
+			 </ul>
+	
+        
+	</div></div>
+	<center></center>
+	</article>
+
+</div>
+</div>
+
+

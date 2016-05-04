@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Øget udsædsmængde til kompensation af skadevirkning af udsædsbåren Fusarium culmorum og Microdochium nivale på fremspiring i vinterhvede</dc:title>
+  <dc:creator>Pinnschmidt, H.O.</dc:creator>
+  <dc:subject>Crop health, quality, protection</dc:subject>
+  <dc:description>En markforsøg i 2003 havde vist at fremspiring af Fusarium- eller Microdochium-inficeret vinterhvede blever mindre jo senere såtidspunktet. Markforsøg blev gennemført med 3 sorter (Bill, Boston, Ritmo) i 2004 og Ritmo i 2005 med udsædspartier smittet med F. culmorum og M. nivale. I 2004: 4 smitteniveauer, 3 udsædsmængder; i 2005: 3 smitteniveauer, 9 udsædsmængder; 3 blocs i begge forsøg og sådato 1. October.  Det viste sig at den gns. antal planter/frø var højt positiv korreleret med spireevne (fraktion spirende kerne = % spirende kerne/100) såvel som med sundhedsstatusen af frøpartierne spireevne (fraktion sunde kerne = [100 - % smittede kerne]/100). Fraktion spirende kerne og fraktion sunde kerne var også højt positivt korreleret med hinanden. Desuden var den gns. antal planter/frø til en vist grad negativt korreleret med udsædstæthed (antal frø/m2). Til at estimer antal planter/m2 efter fremspriring /ca. vækststadie 13), efterfølgende ligninger blev fundet ved GLM analyser: &#xD;
+&#xD;
+1) antal planter/m2 = 219.3 × ln(antal frø/m2) - 1061.6; adjusted R2 = 0.45;&#xD;
+&#xD;
+2) antal planter/m2 = 248.9 × ln(antal frø/m2× fraktion spirende kerne) - 1218.6; adjusted R2 = 0.61;&#xD;
+&#xD;
+3) antal planter/m2 = 228.3 × ln(antal frø/m2 × fraktion sunde kerne) - 1074.5; adjusted R2 = 0.64;&#xD;
+&#xD;
+4) antal planter/m2 = 202.2 × ln(antal frø/m2 × fraktion spirende kerne × fraktion sunde kerne) - 895.8; adjusted R2 = 0.67. &#xD;
+&#xD;
+Det viste sig såmed at jo mer information vedr. frøkvalitetet (spireevne, smitteniveau) puttes ind I analysen, jo højere forklaringsgraden af antal planter efter fremspiring. Der skal dog bemærkes at disse sammenhæng er ti en vist grad påvirked af miljø- (år) såvel som sorts- og frøpartieffekter (Fusarium vs Microdochium).</dc:description>
+  <dc:date>2006-02</dc:date>
+  <dc:type>Working paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>source</dc:format>
+  <dc:identifier>http://orgprints.org/7937/1/7937.doc</dc:identifier>
+  <dc:identifier>Pinnschmidt, H.O.    (2006) Øget udsædsmængde til kompensation af skadevirkning af udsædsbåren Fusarium culmorum og Microdochium nivale på fremspiring i vinterhvede.    Working paper, Plant Protection, Danish Institute of Agricultural Sciences.   [Unpublished]</dc:identifier>
+  <dc:relation>http://orgprints.org/7937/</dc:relation>
+</oai_dc:dc>

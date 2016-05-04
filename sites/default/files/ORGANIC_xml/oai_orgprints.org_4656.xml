@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modelling Long Term Soil Carbon and Radiocarbon Dynamics with CN-SIM</dc:title>
+  <dc:creator>Petersen, B.M.</dc:creator>
+  <dc:creator>Berntsen, J.</dc:creator>
+  <dc:subject>Soil biology</dc:subject>
+  <dc:description>In order to achieve predictive abilities for both short- and long-term simulations, soil organic matter (SOM) models should be developed on the basis of as large and diverse a data-set as possible.&#xD;
+&#xD;
+Many SOM models have parameters, where the criteria for estimating their values are not transparent, and few models have been subject to a formal sensitivity analysis regarding the influence of parameter settings. One of the major problems in most SOM models is to estimate the soil content of very slowly decomposing or perhaps even inert organic matter ("refractory" SOM). &#xD;
+&#xD;
+There is presently a lack of experimental methods to verify the partitioning of SOM into conceptual compartments or pools, and to determine the turnover rate and other characteristics for each. These pool characteristics can thus only be determined indirectly by model calibration. If the model has several SOM pools, then several parameters may be confounded and thereby difficult to estimate. This makes the choice of both model structure and calibration data of outmost importance.  &#xD;
+&#xD;
+The novel model CN-SIM (Petersen et al., 2003) describes the flow of C and N in the soil. Organic matter is represented by seven different pools: two for added matter, two for soil microbial biomass, one for microbial residues, one for native (“humified”) organic matter, and one for inert organic matter. The latter pool may represent both truly inert matter, and matter with a very slow turnover. &#xD;
+&#xD;
+The parameters relating to long-term turnover are estimated based on a large number of selected carbon and radiocarbon field data from United Kingdom, Sweden and Denmark. Statistical methods were employed to estimate parameters, and obtain proximate confidence intervals for these parameters. Cross-validation was used to assess how the model performed on data not used for parameterisation. The parameters for water, temperature and clay responses were all taken from literature. In addition to these, 10 parameters were estimated by optimisation based on both laboratory- and field-data. &#xD;
+ &#xD;
+Simulations in good agreement with measured values were achieved, using the same set of parameters for all sites. The utilised error function only rises slightly when data from a given country is either in- or excluded in the cross-validation, which indicates that data from any two out of the three countries provide sufficient data for parameter estimates, that have predictive value for data from the third country. The model thus appears to be robust and to have a broad generality. &#xD;
+&#xD;
+Results from bare fallow experiments have served to parameterise SOM models, utilising their assumed “pure” decay. The present study questions the validity of the common assumption of literally no C input to bare fallow, as the radiocarbon series indicate input levels in the order of 1 t C ha y-1. These findings may affect future parameterisation of SOM models.</dc:description>
+  <dc:date>2004</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>source</dc:format>
+  <dc:identifier>http://orgprints.org/4656/1/Poster_florida.doc</dc:identifier>
+  <dc:identifier>Petersen, B.M. and Berntsen, J.    (2004) Modelling Long Term Soil Carbon and Radiocarbon Dynamics with CN-SIM.   In:     Biological Systems simulation conference, Gainesville, Florida, 8-10 March 2004. Book of abstracts, pp. 61-62.</dc:identifier>
+  <dc:relation>http://orgprints.org/4656/</dc:relation>
+</oai_dc:dc>

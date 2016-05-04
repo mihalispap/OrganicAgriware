@@ -1,0 +1,14 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>The turnover of soil organic matter on different farm types</dc:title>
+  <dc:creator>Petersen, B.M.</dc:creator>
+  <dc:creator>Berntsen, J.</dc:creator>
+  <dc:subject>Soil biology</dc:subject>
+  <dc:description>One of the prime factors determining soil fertility is the content of soil organic matter. A huge amount of nitrogen (N) is bound in organic matter, and the yearly mineralisation of N in the field is only a small fraction of the total organic nitrogen.The release and incorporation of organic N is of special relevance for organic farms, where the crop supply mainly depends on N mineralised from organic matter.In order to study the long-term balance between build-up and degradation of organic matter, a simple simulation model was made, calibrated on the basis of long-term data from Sweden, U.K. and Denmark. Briefly, it is a 3-pool model (Figure 1) employing first-order kinetics, which is implemented in C-TOOL. The long-term build up or breakdown of organic N is assumed to follow carbon in the ratio 1:10.</dc:description>
+  <dc:date>2003-09</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/4665/1/4665.PDF</dc:identifier>
+  <dc:identifier>Petersen, B.M. and Berntsen, J.   (2003) The turnover of soil organic matter on different farm types.   DARCOFenews (3).</dc:identifier>
+  <dc:relation>http://orgprints.org/4665/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Evaluation of the NDICEA model</dc:title>
+  <dc:creator>Burgt, Geert-Jan H.M.</dc:creator>
+  <dc:creator>Rietberg, P.I.</dc:creator>
+  <dc:subject>Composting and manuring</dc:subject>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:description>Within the N-Toolbox project the NDICEA nitrogen model, one of the key tools in the virtual Toolbox, has been improved and tested in England, Denmark and Spain. The model performance was evaluated on datasets from these three countries by means of visual observation, RMSE and RSR from the soil nitrogen dynamics. In England the scenarios with organic fertilizer performed better than those with artificial fertilizer, leading to the suggestion that the calculated nitrogen release out of fertilizer could be improved. Timing of the soil sampling on soil inorganic nitrogen is important to realize a good model evaluation; two samples only, before sowing and after harvest, is not enough. When soil mineral nitrogen samples were taken during crop growth, model calculation and measured values showed sometimes big differences. It is suggested to improve the plant nitrogen uptake sub-model. In the Danish dataset the soil mineral N of the topsoil was well described, but that of the subsoil was not. This might be caused by the depth of the subsoil, which was up to 2.5 meters. The model performance could be improved by introducing a multi-layer soil sub-model instead of the actual two-layer soil sub-model. Spain, with its different climatic and soil conditions, needed an adaptation of the evapotranspiration calculation and a calibration of the scenarios to reach an acceptable model performance. If more Spanish datasets were studied, the NDICEA model could be enriched with standard Spanish soils and evapotranspiration data. For the improvement of the model, equations from the EU-ROTATE_N model are used to describe root growth and nitrogen uptake in more detail.</dc:description>
+  <dc:publisher>Louis Bolk Instituut</dc:publisher>
+  <dc:date>2012</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/22232/1/2694.pdf</dc:identifier>
+  <dc:identifier>Burgt, Geert-Jan H.M. and Rietberg, P.I.         (2012)  Evaluation of the NDICEA model.  [Evaluatie van het NDICEA model.]  Louis Bolk Instituut publications, no. 2012-036 LbP. Louis Bolk Instituut, Driebergen.</dc:identifier>
+  <dc:relation>http://orgprints.org/22232/</dc:relation>
+</oai_dc:dc>

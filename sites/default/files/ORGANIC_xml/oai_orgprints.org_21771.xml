@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Biodegradability screening of soil amendments through coupling of wavelength-scanned cavity ring-down spectroscopy to multiple dynamic chambers</dc:title>
+  <dc:creator>Bai, Mo</dc:creator>
+  <dc:creator>Köstler, Martin</dc:creator>
+  <dc:creator>Kunstmann, Jürgen</dc:creator>
+  <dc:creator>Wilske, Burkhard</dc:creator>
+  <dc:creator>Gattinger, Andreas</dc:creator>
+  <dc:creator>Frede, Hans-Georg</dc:creator>
+  <dc:creator>Breuer, Lutz</dc:creator>
+  <dc:subject>Air and water emissions</dc:subject>
+  <dc:subject>Soil</dc:subject>
+  <dc:description>A system was developed for the automatic measurements of 13CO2 efflux to determine biodegradation of extra carbon amendments to soils. The system combines wavelength-scanned cavity ring down laser spectroscopy (WS-CRDS) with the open-dynamic chamber (ODC) method. The WS-CRDS instrument and a batch of 24 ODC are coupled via microprocessor-controlled valves. Determination of the biodegradation requires a known d13C value and the applied mass of the carbon compounds, and the biodegradation is calculated based on the 13CO2 mixing ratio (ppm) sampled from the headspace of the chambers. The WS-CRDS system provided accurate detection based on parallel samples of three standard gases (13CO2 of 2, 11 and 22 ppm) that were measured simultaneously by isotope ratio mass spectrometry (linear regression R2 = 0.99). Repeated checking with the same standards showed that the WS-CRDS system showed no drift over seven months.&#xD;
+The applicability of the ODC was checked against the closed static chamber (CSC) method using the rapid biodegradation of cane sugar – d13C-labeled through C4 photosynthesis. There was no significant difference between the results from 7-min ODC and 120-min CSC measurements. Further, a test using samples of either cane sugar (C4) or beetroot sugar (C3)mixed into standard soil proved the target functionality of the system, which is to identify the biodegradation of carbon sources with significantly different isotopic signatures.&#xD;
+Copyright © 2011 John Wiley &amp; Sons, Ltd.</dc:description>
+  <dc:date>2011</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/21771/1/Bai-etal-2011-RapidCommunMassSpectrom-25-p3683-3689.pdf</dc:identifier>
+  <dc:identifier>Bai, Mo; Köstler, Martin; Kunstmann, Jürgen; Wilske, Burkhard; Gattinger, Andreas; Frede, Hans-Georg and Breuer, Lutz   (2011) Biodegradability screening of soil amendments through coupling of wavelength-scanned cavity ring-down spectroscopy to multiple dynamic chambers.   Rapid Communications in Mass Spectrometry, 25, pp. 3683-3689.</dc:identifier>
+  <dc:relation>http://orgprints.org/21771/</dc:relation>
+</oai_dc:dc>

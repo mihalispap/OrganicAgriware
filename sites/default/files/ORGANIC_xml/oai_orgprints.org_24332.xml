@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>From Single Constituents to Metabolomics in Food Quality Analysis</dc:title>
+  <dc:creator>Hajslova, Jana</dc:creator>
+  <dc:creator>Schulzova, Vera</dc:creator>
+  <dc:subject>Food security, food quality and human health</dc:subject>
+  <dc:description>Until now, a wide range of laboratory approaches has been employed for control of organic food quality and authenticity. In addition to widely used light isotope measurement based methods, various spectroscopic and/or chromatographic have been traditionally used for quantification of nutritionally important and biologically active single constituents typical for particular food crop. Recently, fingerprinting / profiling strategies have become promising tools for a more comprehensive characterisation of metabolome, a set of low molecular weight (≤ 1500 Da) primary and secondary metabolites occurring in food commodities. It is assumed that not only phenotype of particular living organism but also external factors, including way of farming, may influence characteristic metabolome compositions. High resolution mass spectrometry either coupled with ultra performance liquid chromatography (UPLC) and/or gas chromatography (GC) represent challenging analytical options. To avoid discrimination of some matrix components, minimal or no sample preparation is required prior to instrumental measurement. These requirements are met for instance by solid phase micro extraction (SPME) sampling technique coupled to GC/MS: volatile metabolites fingerprint is collected in sample headspace. Similarly, in last decade introduced, ambient mass spectrometry (AMS) offers a very relevant solution in metabolomics studies. It should be noted, that instead of target analysis of individual ´quality markers´, metabolomics is based on non-target analysis; identification of all compounds occurring in sample metabolome is not necessarily needed in the first phase, the entire data set consisting of instrumental sample ´signals´ is classified by advanced chemometric techniques. &#xD;
+In our most recent research projects, we have implemented a novel approaches based both on SPME-GC/MS and AMS. In the latter case, a unique ionization source Direct Analysis in Real Time (DART) coupled with a high resolution time of flight mass spectrometer (HR-TOFMS) is employed for fast metabolomic fingerprinting / profiling. Several case studies will illustrate the potential of these novel approaches to examine food origin.</dc:description>
+  <dc:contributor>Kahl, J.</dc:contributor>
+  <dc:contributor>Rembialkowska, E.</dc:contributor>
+  <dc:contributor>Zalecka, A.</dc:contributor>
+  <dc:contributor>Lesinski, G</dc:contributor>
+  <dc:date>2013-06</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/24332/2/fqh2013_Hajslova_abstract.pdf</dc:identifier>
+  <dc:identifier>Hajslova, Jana and Schulzova, Vera    (2013) From Single Constituents to Metabolomics in Food Quality Analysis.   In: Kahl, J.; Rembialkowska, E.; Zalecka, A. and Lesinski, G (Eds.)  Book of Abstracts, p. 33.</dc:identifier>
+  <dc:relation>http://orgprints.org/24332/</dc:relation>
+</oai_dc:dc>

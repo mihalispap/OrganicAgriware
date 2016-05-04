@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Testing of OrgPlan Conversion Planning software (OF0331)</dc:title>
+  <dc:creator>Padel, Dr Susanne</dc:creator>
+  <dc:subject>Farm nutrient management</dc:subject>
+  <dc:subject>Technology transfer</dc:subject>
+  <dc:subject>Farm economics</dc:subject>
+  <dc:description>OrgPlan is a computer package designed to support farmers and consultants in planning a conversion to organic farming. It consists of two main elements: the basic planning module and a database with data for organic, in-conversion and conventional data. It was developed with DEFRA funding (OF 0159) by a partnership between the University of Wales, Aberystwyth, the University of Hertfordshire, Elm Farm Research Centre and SAC. &#xD;
+The objective of this work was to obtain feedback before its general release on the suitability of OrgPlan in supporting the process of planning a conversion to organic farming. Given the risks of the organic conversion process and the sensitive nature of the financial reports that OrgPlan can generate, further testing with consultants experienced in organic conversion planning was carried out. The work was broken down in four objectives. Independent of this, OrgPlan has been used by the contractor in the context of research work, in particular the Modelling of Strategies of Organic Milk Production (OF 0146). &#xD;
+Objective 1: Update of standard data &#xD;
+The contractor updated the OrgPlan database with data from the 2002/03 Organic Farm Management Handbook and other sources. &#xD;
+Objective 2: Workshops and Field testing of the software &#xD;
+Three workshops with a total 22 consultants were held during which they were given a basic introduction to the use of OrgPlan and had a first opportunity to use the software on their own computer or appropriate workstations. &#xD;
+OrgPlan can effectively support several aspects of a first broad brush planning of an organic conversion (rotation planning, cropping and livestock enterprises, feasibility of a proposed organic scenario in terms of financial output, nutrient and forage budgets) and can assist with more detailed financial planning of investments, leading to Profit and Loss and Cash-Flow forecasts. OrgPlan could have a wider application in whole farm planning, but this would require extending the database to cover a wider range of enterprises common on conventional farms. &#xD;
+Key strengths identified by the consultants (not in order of importance) &#xD;
+• Financial planning &#xD;
+• Availability of basic enterprise data set &#xD;
+• Rotation planning and nutrient budgets &#xD;
+• Combination of financial and nutrient data in one package &#xD;
+• Create different scenarios giving instant access for reassessment of options &#xD;
+• Possibility to ‘tweak' a scenario &#xD;
+• Library, navigation around the collection is excellent &#xD;
+• Help topics clear and straightforward &#xD;
+• Broad brush planning, particularly for farms planning new enterprises &#xD;
+Key weaknesses (not in order of importance) &#xD;
+• Limited range of enterprises in the database, particularly for horticultural crops &#xD;
+• Problems with set-up, use of database and understanding all functions &#xD;
+• Need for regular updates of the dataset &#xD;
+• P and K Fertilisers routinely included in organic enterprises &#xD;
+• Data entry in some sections is long-winded &#xD;
+Objective 3: Essential corrections to the software and update of advisory section &#xD;
+• A list of problems and suggestions was compiled. All essential changes will be implemented before a release of the software. Other suggestions, which entail more complicated programming work, are included in a as ideas for future development of OrgPlan. &#xD;
+Objective 4: Final report &#xD;
+This is the final report submitted to DEFRA. The contractor will also submit to DEFRA a concept outlining the steps to be taken for the release of the software, which is planned for autumn 2003.</dc:description>
+  <dc:date>2003</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/6664/1/OF0331_2172_FRP.pdf</dc:identifier>
+  <dc:identifier>Padel, Dr Susanne         (2003) Testing of OrgPlan Conversion Planning software (OF0331).    University of Wales, Aberystwyth, Institute of Rural Sciences.</dc:identifier>
+  <dc:relation>http://orgprints.org/6664/</dc:relation>
+</oai_dc:dc>

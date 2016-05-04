@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Simulation of nitrate leaching from an organic dairy crop rotation with different manure types and loads</dc:title>
+  <dc:creator>Berntsen, Jørgen</dc:creator>
+  <dc:creator>Olesen, Jørgen</dc:creator>
+  <dc:creator>Petersen, Bjørn Molt</dc:creator>
+  <dc:creator>Eriksen, Jørgen</dc:creator>
+  <dc:subject>Production systems</dc:subject>
+  <dc:description>Introduction&#xD;
+Management of nitrogen in dairy systems is especially difficult due to the use of organic manures and the residual effects of the pasture. During grazing a considerable build-up of soil N is often observed. Ploughing of the grassland is therefore followed by a large mineralization that might exceed the demand of the subsequent crop. This might lead to large amount of nitrate being leached. In addition, rotations dependent on organic manures rather than mineral fertilizers are believed to have a higher risk of nitrate leaching. &#xD;
+&#xD;
+The study present results from simulations with the FASSET model (Berntsen et al., 2003) of nitrate leaching and crop growth in organic dairy systems with two types of manures at two different stocking levels. &#xD;
+&#xD;
+Method&#xD;
+The experiment was established at Foulum, Denmark in 1994 (Eriksen et al. 1999) and had a six-year crop rotation (barley- grass/clover – grass/clover – barley/pea – winter wheat – fodder beet). The grass/clover was grazed by cattle. The four treatments were: two types of manures (slurry and a mixture a deep litter and slurry) at two different levels. These levels correspond to livestock densities of 0.9 and 1.4 livestock units ha-1. &#xD;
+&#xD;
+The FASSET model was used to simulate the above experiment. The model is a whole farm that contains a crop-soil-atmosphere model, which simulates daily changes in crop growth, soil organic matter and transport of several solutes. The soil organic matter model is based on Petersen et al. (2003). The model simulated all the different treatments in the years 1993 to 2002 using observed management, measured manure application and composition, measured climate data and soil characteristics. Table 1 shows the simulated and observed N input, N harvested and N leached. Both simulations and measurements indicate that the effects of the different types of organic input are small and the effect of the level of input are between 3-7 kg-N/ha. &#xD;
+&#xD;
+The crops had different leaching potential. Winter wheat had the highest simulated nitrate leaching followed by barley/pea mixture, oat, spring barley, beets and grass-clover. A similar crop ranking was observed in the measurements. &#xD;
+&#xD;
+&#xD;
+Table 1.  Observed and simulated nitrogen balance.&#xD;
+System	N applied(g-N m-2)	N harvested(g-N m-2)	N leached(g-N m-2)&#xD;
+		Measured	Simulated	Measured	Simulated&#xD;
+Slurry 0.9 LU ha-1	6.8	12.2	12.5	3.3	3.4&#xD;
+Slurry 1.4 LU ha-1	11.7	13.3	13.8	3.7	4.0&#xD;
+FYM+slurry 0.9 LU ha-1	7.1	12.3	11.4	3.3	3.3&#xD;
+FYM+slurry 1.4 LU ha-1	11.6	12.9	12.0	3.6	4.0</dc:description>
+  <dc:publisher>IGER</dc:publisher>
+  <dc:date>2003</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>source</dc:format>
+  <dc:identifier>http://orgprints.org/1700/1/12N_workshop-I%5B1%5D.ppt</dc:identifier>
+  <dc:identifier>Berntsen, Jørgen; Olesen, Jørgen; Petersen, Bjørn Molt and Eriksen, Jørgen    (2003) Simulation of nitrate leaching from an organic dairy crop rotation with different manure types and loads.   In:     Abstracts for the 12th N workshop, IGER.     [Unpublished]</dc:identifier>
+  <dc:relation>http://orgprints.org/1700/</dc:relation>
+</oai_dc:dc>

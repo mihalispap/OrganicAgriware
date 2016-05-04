@@ -1,0 +1,14 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>COLIWAVE: a simulation model for survival of E. coli O157:H7 in dairy manure and manure-amended soil</dc:title>
+  <dc:creator>Semenov, A.V.</dc:creator>
+  <dc:creator>Franz, E.</dc:creator>
+  <dc:creator>van Bruggen, A.H.C.</dc:creator>
+  <dc:subject>Food security, food quality and human health</dc:subject>
+  <dc:subject>Environmental aspects</dc:subject>
+  <dc:description>•	A simulation model was developed to investigate the relative effects of temperature, oxygen concentration, substrate content and competition by autochthonous microbial community on the oscillatory behaviour and survival of Escherichia coli O157:H7 in manure and manure-amended soil. The overall decline in E. coli O157:H7 was primarily determined by competition with autochthonous copiotrophic bacteria simulated by an inter-specific competition term according to Lotka-Volterra. Oscillations of bacterial populations were attained by the relationships between relative growth and death rates with readily available substrate content. The model contains a logistic and exponential relation of relative growth and death rates, respectively, of E. coli O157:H7 and copiotrophic bacteria with temperature, resulting in optimum curves for net growth rates similar to the curves reported in the literature. The model has been both calibrated and validated on experimental data. The model was used to perform sensitivity analysis and to evaluate different manure and soil management scenarios in terms of survival of E. coli O157:H7. The relative effects of changes in temperature on simulated survival time of E. coli O157:H7 were more pronounced than changes in oxygen condition. Testing manure storage scenarios with realistic data revealed that manure stored in a heap that was turned every week resulted in almost 70% reduction of E. coli O157:H7 survival compared to unturned manure. At the surface of a heap with unturned manure, simulated survival time was the longest (2.4 times longer than inside the same heap). The simulation model provides a new approach to investigating dynamic changes of invasive microorganisms in natural substrates such as manure or manure-amended soil.</dc:description>
+  <dc:date>2010</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:identifier>Semenov, A.V.; Franz, E. and van Bruggen, A.H.C.   (2010) COLIWAVE: a simulation model for survival of E. coli O157:H7 in dairy manure and manure-amended soil.   Ecological Modelling, 221, pp. 599-609.</dc:identifier>
+  <dc:relation>http://orgprints.org/20424/</dc:relation>
+</oai_dc:dc>

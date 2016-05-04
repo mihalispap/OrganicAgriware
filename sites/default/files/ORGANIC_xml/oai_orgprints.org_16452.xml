@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>(In)Efficient management of interacting environmental bads</dc:title>
+  <dc:creator>Kuosmanen, Timo</dc:creator>
+  <dc:creator>Laukkanen, Marita</dc:creator>
+  <dc:subject>Environmental aspects</dc:subject>
+  <dc:description>Many environmental problems involve the transformation of multiple harmful substances into one or more damage agents much in the same way as a firm transforms inputs into outputs. Yet environmental management differs  from a firm's production in one important respect: while a firm seeks efficient input allocation to maximize profit, an environmental planner allocates abatement efforts to render the production of damage agents as inefficient as possible. We characterize a solution to the hmultiple pollutants problem and show that the optimal policy is often a corner solution, in which abatement is focused on a single pollutant. Corner solutions may arise even in well-behaved problems with concave production functions and convex damage and cost functions. Furthermore, even concentrating on a wrong pollutant may yield greater net benefits than setting uniform abatement targets for a harmful substances. Our general theoretical results on the management of flow and stock pollutants are complemented by two numerical examples illustrating the abatement of eutrophying nutrients and greenhouse gases.</dc:description>
+  <dc:publisher>MTT Agrifood Research Finland</dc:publisher>
+  <dc:date>2009</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/16452/1/discuss5.pdf</dc:identifier>
+  <dc:identifier>Kuosmanen, Timo and Laukkanen, Marita         (2009) (In)Efficient management of interacting environmental bads.    MTT Agrifood Research Finland.</dc:identifier>
+  <dc:relation>http://orgprints.org/16452/</dc:relation>
+</oai_dc:dc>

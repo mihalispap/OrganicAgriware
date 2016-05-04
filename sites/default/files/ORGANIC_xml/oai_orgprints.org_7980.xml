@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Conversion to Organic Production Software (OrgPlan, OF0159)</dc:title>
+  <dc:creator>Padel, Susanne</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:subject>Crop combinations and interactions</dc:subject>
+  <dc:subject>Farm nutrient management</dc:subject>
+  <dc:subject>Technology transfer</dc:subject>
+  <dc:subject>Animal husbandry</dc:subject>
+  <dc:subject>Farm economics</dc:subject>
+  <dc:description>This is the final report for Defra Project OF0159. The Organic Conversion Planner (OrgPlan) is a computer program for farmers and advisors reducing the time input necessary for planning a conversion to organic farming. &#xD;
+Conversion planning can help to identify whether organic management is suited to the farm and potential problems during the conversion period itself. This involves an assessment of the current situation of the farm, based on which proposals for an organic 'target (endpoint)' can be developed. This includes proposed rotation(s), cropping and stocking plan for the specific farm situation and the proposals need to be tested for their technical and financial feasibility, including impact on forage supply, nutrient requirements and financial budgets. In a final step a more detailed strategy for getting from the current situation to the target situation needs to be worked out. On the basis of such a plan a farmers can make an informed choice about the feasibility of a conversion and planning can help to reduce the risk of conversion. &#xD;
+General whole farm planning methods can be broadly split into budgeting and optimisation methods. The former uses input and output data from existing enterprises or standard data, whereas the latter uses mathematical models to determine the optimal choice of enterprises for a maximisation of a key indicator, e.g. profit. OrgPlan uses the budgeting approach, building on experience with mainly German speaking budgeting software for organic conversion. It overcomes a number of key limitations of spreadsheet based budgeting approaches in relation to access to standard enterprise data, additional support tools (e.g. rotation planner) and ease of use. &#xD;
+The software is structured into three major sections: &#xD;
+In Central Resources basic standard data and farm profiles are entered, viewed and adjusted, and rotations can be planned. Access is also provided to the advisory section, containing documents about organic production standards, organic managmenet notes and a software help file. It is also possible to access these from other sections of the software. &#xD;
+In the Scenario Planning section new files for a scenario are created, where a scenario refers to a period of several years of a farm during conversion and/or under organic management. Cropping and livestock plans are generated and a first assessment of the scenario of key farm mangement indicators, nutrients and forage budgets is provided.  &#xD;
+After adding whole farm financial data the results are transferred into the Report Builder where profit and loss and cash-flow forecasts for the scenario can be generated. Reports can be viewed on screen, printed (HTML format) or exported for further analysis in other packages (spreadsheets). &#xD;
+A key aim in developing the software was to reduce the time input needed for conversion planning. &#xD;
+The software is windows based and follows the layout of the EMA software (developed by UH). It was programmed in Microsoft (MS) Visual Basic, using MS Access databases for the storage of data. It used results of several DEFRA funded research projects and has relevance to the Organic Conversion Information Service (OCIS). &#xD;
+&#xD;
+A series of nine basic steps are needed to use the software to plan conversion. These are: viewing and modifying standard enterprise data, viewing and modifying rotations, creating a farm profile, creating and planning a conversion scenario, getting first feedback on the scenario, adding whole farm financial data, planning new investment during the scenario period and viewing and printing reports and/or export data for further analysis in other packages.&#xD;
+&#xD;
+The basic planning tool has been released as part of the EMA 2002 software (EMA Plan). Because of the sensitive nature of the financial calculations that are the main feature of OrgPlan, further field testing of the programme in conjunction with the Organic Standard Data Collection is envisaged in the autumn of 2002 for with experienced Organic Farming Consultants.</dc:description>
+  <dc:date>2001</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/7980/1/OF0159_2147_FRP.pdf</dc:identifier>
+  <dc:identifier>Padel, Susanne         (2001) Conversion to Organic Production Software (OrgPlan, OF0159).    University of Wales Aberystwyth, Institute of Rural Sciences.</dc:identifier>
+  <dc:relation>http://orgprints.org/7980/</dc:relation>
+</oai_dc:dc>

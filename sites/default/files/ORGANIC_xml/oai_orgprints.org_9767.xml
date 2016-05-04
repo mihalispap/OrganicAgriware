@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Informations- und Datenmanagement am Beispiel einer Langzeitstudie zum Ökologischen Landbau (“Hof Ritzerau”, Norddeutschland)</dc:title>
+  <dc:creator>Hoernes, Ursula</dc:creator>
+  <dc:creator>Roweck, Hartmut</dc:creator>
+  <dc:subject>Environmental aspects</dc:subject>
+  <dc:subject>Education, extension and communication</dc:subject>
+  <dc:description>Scientists from various disciplines and different research institutes form the interdisciplinary project “Hof Ritzerau” (Ritzerau, Northern Germany) focussing on the effects of organic farming on animals, plants, crop production, crop diseases, soils and economics. Due to the longterm runtime and to the multidisciplinarity a consequent and consistent management of data and information is developed on the basis of Open Source software. Two core elements of this web-based scientific information system are presented here - a metadata server (GeoNetwork) and a map server (UMN Map-server). Conclusions: The importance of professional management of data, information and knowledge can hardly be underestimated. For developing the infrastructure and specific profiles, knowledge from other disciplines (e.g. business sciences, library sciences, environmental informatics) was used.</dc:description>
+  <dc:date>2007</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/9767/1/9767_Hoernes_Poster.pdf</dc:identifier>
+  <dc:identifier>Hoernes, Ursula and Roweck, Hartmut    (2007) Informations- und Datenmanagement am Beispiel einer Langzeitstudie zum Ökologischen Landbau (“Hof Ritzerau”, Norddeutschland).  [Management of information and data in a long-term study on organic farming (“Hof Ritzerau”, Northern Germany).]      Poster at:   Zwischen Tradition und Globalisierung - 9. Wissenschaftstagung Ökologischer Landbau, Universität Hohenheim, Stuttgart, Deutschland, 20.-23.03.2007.</dc:identifier>
+  <dc:relation>http://orgprints.org/9767/</dc:relation>
+</oai_dc:dc>

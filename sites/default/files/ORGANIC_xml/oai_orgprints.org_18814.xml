@@ -1,0 +1,14 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>WeedML: a Tool for Collaborative Weed Demographic Modeling</dc:title>
+  <dc:creator>Holst, Niels</dc:creator>
+  <dc:subject>Systems research and participatory research</dc:subject>
+  <dc:subject>Education, extension and communication</dc:subject>
+  <dc:description>WeedML is a proposed standard to formulate models of weed  demography, or maybe even complex models in general, that are both transparent and straightforward to re-use as building blocks for new models. The paper describes the design and thoughts behind WeedML which relies on XML and object-oriented systems development. Proof-of-concept software is provided as open-source C++ code and executables that can be downloaded freely.</dc:description>
+  <dc:date>2010</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/18814/4/18814.pdf</dc:identifier>
+  <dc:identifier>Holst, Niels   (2010) WeedML: a Tool for Collaborative Weed Demographic Modeling.  [.]  Weed Science, 58, pp. 497-502.</dc:identifier>
+  <dc:relation>http://orgprints.org/18814/</dc:relation>
+</oai_dc:dc>

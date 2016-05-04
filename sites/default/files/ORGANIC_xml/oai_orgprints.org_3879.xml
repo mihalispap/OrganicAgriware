@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Simulating root growth</dc:title>
+  <dc:creator>Pedersen, Anders</dc:creator>
+  <dc:creator>Thorup-Kristensen, Kristian</dc:creator>
+  <dc:creator>Kristensen, Hanne Lakkenborg</dc:creator>
+  <dc:creator>Berntsen, Jørgen</dc:creator>
+  <dc:subject>Soil biology</dc:subject>
+  <dc:description>Dynamic plant/soil models are used to predict crop production, N dynamics and nitrate leaching loss of different cropping systems. To do this, the models simulate various aspects of plant biology, soil biology and soil physics. Correct simulation of root growth is critical for the simulation of nitrate leaching losses. Measurements have been made on crop root growth on two soil types, and the data used to improve the simulation of root growth within the FASSET model. The paper presents the results from root measurements on winter wheat, spring barley and sugar beets, and the root modelling approach we have developed.</dc:description>
+  <dc:date>2004</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>rtf</dc:format>
+  <dc:identifier>http://orgprints.org/3879/1/3879.rtf</dc:identifier>
+  <dc:identifier>Pedersen, Anders; Thorup-Kristensen, Kristian; Kristensen, Hanne Lakkenborg and Berntsen, Jørgen   (2004) Simulating root growth.   DARCOFenews.</dc:identifier>
+  <dc:relation>http://orgprints.org/3879/</dc:relation>
+</oai_dc:dc>

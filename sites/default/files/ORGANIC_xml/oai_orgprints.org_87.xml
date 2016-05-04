@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>CN-SIM - a model for the turnover of soil organic matter. I: Long term carbon development</dc:title>
+  <dc:creator>Petersen, B.M.</dc:creator>
+  <dc:creator>Berntsen, J.</dc:creator>
+  <dc:creator>Hansen, S.</dc:creator>
+  <dc:creator>Jensen, L.S.</dc:creator>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:description>A computer model is presented that describes the flow of C and N in the soil. It employs a structure with conceptual compartments. Organic matter is represented by seven different compartments, two for added matter, two for soil microbial biomass, one for microbial residues, one for native organic matter, and one for inert organic matter. The latter pool probably represents both truly inert matter, and matter with a very slow turnover. This paper describes the parameterisation and performance of this model on selected long-term field data from United Kingdom, Sweden and Denmark. Statistical methods were employed to optimise parameters, and obtain proximate confidence intervals for these parameters. Very satisfactory simulations could be acquired, using the same set of parameters on all sites. It was demonstrated that the inert (refractory) pool may constitute any amount between approx. 10% and 50% of total SOC, so that modelling can not be used as a tool to give narrow estimates for this pool.</dc:description>
+  <dc:date>2005</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/87/1/87.pdf</dc:identifier>
+  <dc:identifier>Petersen, B.M.; Berntsen, J.; Hansen, S. and Jensen, L.S.   (2005) CN-SIM - a model for the turnover of soil organic matter. I: Long term carbon development.   Soil Biology and Biochemistry, 37, pp. 359-374.</dc:identifier>
+  <dc:relation>http://orgprints.org/87/</dc:relation>
+</oai_dc:dc>

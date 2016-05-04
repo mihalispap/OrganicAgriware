@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Dynamically optimal phosphorus management and agricultural water protection</dc:title>
+  <dc:creator>Iho, Antti</dc:creator>
+  <dc:creator>Laukkanen, Marita</dc:creator>
+  <dc:subject>Air and water emissions</dc:subject>
+  <dc:description>This paper puts forward a model of the role of phosphorus in crop production, soil phosphorus dynamics and phosphorus loading that integrates the salient economic and ecological features of agricultural phosphorus management. The model accounts for the links between phosphorus fertilization, crop yield, accumulation of soil phosphorus reserves, and phosphorus loading. It can be used to guide precision phosphorus management and erosion control as means to mitigate agricultural loading. Using a parameterization for cereal production in southern Finland, the model is solved numerically to analyze the intertemporally optimal combination of fertilization and erosion and the associated soil phosphorus development. The optimal fertilizer application rate changes markedly over time in response to changes in the soil phosphorus level. When, for instance, soil phosphorus is initially above the socially optimal steady state level, annually matching phosphorus application to the prevailing soil phosphorus stock produces significantly higher social welfare than using a fixed fertilizer application rate. Erosion control was found to increase welfare only on land that is highly susceptible to erosion.</dc:description>
+  <dc:publisher>MTT Agrifood Research Finland</dc:publisher>
+  <dc:date>2009</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/16449/1/Discussion.pdf</dc:identifier>
+  <dc:identifier>Iho, Antti and Laukkanen, Marita         (2009) Dynamically optimal phosphorus management and agricultural water protection.    MTT Agrifood Research Finland.</dc:identifier>
+  <dc:relation>http://orgprints.org/16449/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Datenbanktechnische Voraussetzungen zur Schaffung eines Rückverfolgbarkeitssystems - Modul III: Entwicklung eines XML-Schemas</dc:title>
+  <dc:creator>Mäder, Rolf</dc:creator>
+  <dc:subject>Values, standards and certification</dc:subject>
+  <dc:description>Aufgabenstellung:&#xD;
+Ziel von Modul III ist es - aufbauend auf dem erarbeiten Datenstandard - ein XML-Schema zu entwickeln. Das XML-Schema ist Basis für die Softwarefirmen, XML-Schnittstellen für den automatisierten Datenaustausch zu entwickeln. Durch eine intensive Abstimmung mit dem in der Entwicklung befindlichen Datenstandard agro-XML soll die Kompatibilität zu diesem gewährleistet werden.&#xD;
+In einem zweiten Bereich soll im Rahmen des Projektes ein Konzept zur Verwendung der Rückverfolgbarkeitsdaten in der Verbraucheransprache erarbeitet werden. Das Konzept soll mit zwei Partnern aus LEH und NEH getestet werden. Als Partner konnten hierfür der LEH-Filialist tegut in Fulda sowie der Naturkostgroßhändler Terra Naturkosthandels GmbH in Berlin gewonnen werden. Begleitet wird der Pretest durch eine Evaluierung.&#xD;
+.&#xD;
+Folgende Ergebnisse wurden im Rahmen des Projektes ezielt:&#xD;
+- Verabschiedung Datenstandard&#xD;
+- Entwicklung XML-Schema&#xD;
+- Informationen über das Projekt, den Datenstandard und das XMLSchema auf www.organicXML.com&#xD;
+- Datenstandard ist in der Branche bekannt&#xD;
+- Schnittstelle zwischen Warenwirtschaftssystem der Naturland Marktgesellschaft „Navision“, dem technischen Rückverfolgbarkeitssystem der Naturland Marktgesellschaft „Flow Web“ und www.bio-mit-Gesicht.de&#xD;
+- organicXML-Schnittstelle auf www.bioC.info in Vorbereitung&#xD;
+- Abstimmung mit anderen relevanten Standards wie EAN/UCC XML und agroXML erfolgt&#xD;
+- EU-Antrag ist gestellt, um den Datenstandard EU-weit abzustimmen</dc:description>
+  <dc:date>2006-02</dc:date>
+  <dc:type>Project description</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:identifier>{Project}    Datenbanktechnische Voraussetzungen zur Schaffung eines Rückverfolgbarkeitssystems - Modul III: Entwicklung eines XML-Schemas.  [Data base related technical preconditions for the development of a traceability system - module No. 3: development of a scheme for XML.]     , Forschungsinstitut für biologischen Landbau e.V., Frankfurt, Deutschland.</dc:identifier>
+  <dc:relation>http://orgprints.org/13761/</dc:relation>
+</oai_dc:dc>

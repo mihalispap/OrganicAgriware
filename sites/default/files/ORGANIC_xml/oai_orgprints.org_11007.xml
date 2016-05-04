@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Assessment of leaf cover and crop soil cover in weed harrowing research using digital images</dc:title>
+  <dc:creator>Rasmussen, Jesper</dc:creator>
+  <dc:creator>Nørremark, Michael</dc:creator>
+  <dc:creator>Bibby, Bo Martin</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>Objective assessment of crop soil cover, defined as the percentage of leaf cover that has been buried in soil due to weed harrowing, is crucial to further progress in post-emergence weed harrowing research. Up to now, crop soil cover has been assessed by visual scores, which are biased and context dependent.  The aim of this study was to investigate whether digital image analysis is a feasible method to estimate crop soil cover in the early growth stages of cereals. Two main questions were examined: (1) how to capture suitable digital images under field conditions with a standard high-resolution digital camera and (2) how to analyse the images with an automated digital image analysis procedure. The importance of light conditions, camera angle, size of recorded area, growth stage and direction of harrowing were investigated in order to establish a standard for image capture and an automated image analysis procedure based on the excess green colour index was developed. The study shows that the automated digital image analysis procedure provided reliable estimations of leaf cover, defined as the as the proportion of pixels in digital images determined to be green, which were used to estimate crop soil cover. A standard for image capture is suggested and it is recommended to use digital image analysis to estimated crop soil cover in future research. The prospects of using digital image analysis in future weed harrowing research are discussed.</dc:description>
+  <dc:date>2007</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/11007/1/11007.pdf</dc:identifier>
+  <dc:identifier>Rasmussen, Jesper; Nørremark, Michael and Bibby, Bo Martin   (2007) Assessment of leaf cover and crop soil cover in weed harrowing research using digital images.   Weed Research, 47, pp. 299-310.</dc:identifier>
+  <dc:relation>http://orgprints.org/11007/</dc:relation>
+</oai_dc:dc>

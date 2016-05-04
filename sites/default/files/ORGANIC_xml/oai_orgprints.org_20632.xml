@@ -1,0 +1,13 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A universal simulator for ecological models</dc:title>
+  <dc:creator>Holst, Niels</dc:creator>
+  <dc:subject>Systems research and participatory research</dc:subject>
+  <dc:description>To most modellers, ecological models are primarily about ecology. A model is a condensed summary of an ecosystem written in the language of mathematics and logic. While modellers with a mathematical inclination may prefer stringent model formulations, that allow formal mathematical analysis, most modellers in ecology prefer heterogeneus, composite models permitting only numerical analysis; they are computational modellers who implement their models in software, which then itself becomes both tool and object in the ensuing analysis. The design and implementation details of this software is largely neglected. But this paper is only about this: the proper design and implementaion of ecological models.</dc:description>
+  <dc:date>2012-05-01</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20632/7/20632.pdf</dc:identifier>
+  <dc:identifier>Holst, Niels   (2012) A universal simulator for ecological models.   Ecological Modelling,  13,  70- 76.   [Unpublished]</dc:identifier>
+  <dc:relation>http://orgprints.org/20632/</dc:relation>
+</oai_dc:dc>

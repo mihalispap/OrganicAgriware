@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Challenges in modelling dissolved organic matter dynamics in agricultural soil using DAISY</dc:title>
+  <dc:creator>Gjettermann, B.</dc:creator>
+  <dc:creator>Styczen, M.</dc:creator>
+  <dc:creator>Hansen, H.C.B.</dc:creator>
+  <dc:creator>Vinther, F.P.</dc:creator>
+  <dc:creator>Hansen, S.</dc:creator>
+  <dc:subject>Soil</dc:subject>
+  <dc:description>Because dissolved organic matter (DOM) plays an important role is terrestrial C-,N-and P-balances and transport of these three components to aquatic environments, there is a need to include it in models. This paper presents the concept of the newly developed DOM modules implemented in the DAISY model with focus on the quantiﬁcation of DOM sorption/desorption and microbial-driven DOM turnover. The kinetics of DOM sorption/desorption is described by the deviation of the actual DOM concentration in solution from the equilibrium concentration, Ceq. The Ceq is soil speciﬁc and estimated from pedotransfer functions taking into account the soil content of organic matter, Al and Fe oxides. The turnover of several organic matter pools including one DOM pool are described by ﬁrst-order kinetics. &#xD;
+The DOM module was tested at ﬁeld scale for three soil treatments applied after cultivating grass–clover swards. Suction cups were installed at depths 30, 60 and 90 cm and soil solution was sampled for quantiﬁcation of dissolved organic C (DOC) and dissolved organic N (DON). In the topsoil, the observed ﬂuctuations in DOC were successfully simulated when the sorption/desorption rate coefﬁcient k was low. In the subsoil, the observed concentrations of DOC were steadier and the best simulations were obtained using a high k. The model shows that DOC and DON concentrations are levelled out in the subsoils due to soil buffering. The steady concentration levels were based on the Ceq for each horizon and the kinetic concept for sorption/desorption of DOC appeared aviable approach. If Ceq was successfully estimated by the pedotransfer function it was possible to simulate the DOC concentration in the subsoil. In spite of difﬁculties in describing the DOC dynamics of the topsoil, the DOM module simulates the subsoil concentration level of DOC well, and also — but with more uncertainty — the DON concentration level.</dc:description>
+  <dc:date>2008</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/21148/1/21148.pdf</dc:identifier>
+  <dc:identifier>Gjettermann, B.; Styczen, M.; Hansen, H.C.B.; Vinther, F.P. and Hansen, S.   (2008) Challenges in modelling dissolved organic matter dynamics in agricultural soil using DAISY.   Soil Biology &amp; Biochemistry, 40, pp. 1506-1518.</dc:identifier>
+  <dc:relation>http://orgprints.org/21148/</dc:relation>
+</oai_dc:dc>

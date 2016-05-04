@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Datenbanktechnische Voraussetzungen zur Schaffung eines Rückverfolgbarkeitssystems - Analyse des Status quo und Etablierung einer gemeinsamen Plattform (Zwischenbericht)</dc:title>
+  <dc:creator>Mäder, Rolf</dc:creator>
+  <dc:subject>Values, standards and certification</dc:subject>
+  <dc:description>Im Rahmen der Status-Quo-Analyse wurden Informationen über vorhandene Datenbanksysteme zur Rückverfolgbarkeit von Bio-Produkten gesammelt. Daneben wurde recherchiert, an welchen Stellen Daten über zertifizierte Öko-Betriebe und deren Produkte in welchem Umfang gesammelt und verwaltet werden, um abschätzen zu können, welchen Beitrag diese Daten für ein übergreifendes Rückverfolgbarkeits- und Herkunftssicherungssystem leisten könnten. Für die Befragung der Unternehmen wurden zwei Fragebögen entwickelt. &#xD;
+In einem zweiten Schritt wurde ein Entwurf für einen Datenstandard für die Rückverfolgbarkeit und Herkunftssicherung von Bio-Produkten entwickelt. Dieser soll weiterentwickelt und durch spezifische Standards für die wichtigsten Produktgruppen ergänzt werden. &#xD;
+&#xD;
+Wichtigste Ergebnisse der Status quo-Analyse sowie der durchgeführten Workshops sind: &#xD;
+-  In anderen europäischen Ländern existieren für einzelne Produktgruppen und Vermarktungsketten stufenübergreifende Rückverfolgbarkeitssysteme für Bio-Produkte, die aber nicht einfach auf Deutschland übertragbar sind. &#xD;
+-  Es wird nicht das Rückverfolgbarkeitssystem für alle Produktgruppen und über alle Stufen der Wertschöpfungskette geben, sondern es werden sich in den verschiedenen Produktbereichen und Vermarktungsketten spezifisch angepasste Systeme entwickeln. &#xD;
+-  Die Festlegung auf ein bestimmtes technisches System ist nicht unbedingt notwendig, da die verschiedenen Systeme über definierte Schnittstellen miteinander verknüpft werden können. &#xD;
+-  Wichtig ist die Festlegung eines einheitlichen Grundstandards hinsichtlich der Art, des Umfangs und der Form der Daten, die in den verschiedenen Systemen erfasst, verwaltet und für den Datenaustausch zur Verfügung gestellt werden. &#xD;
+-  Der Standard sollte mit bestehenden Datenstandards wie EAN 128 oder UN/EDIFACT11 (Electronic Data Interchange For Administration, Commerce and Transport) bzw. des Subsets EANCOM12 kompatibel sein. &#xD;
+-  Bezüglich der auf landwirtschaftlichen Betrieben erfassten Daten ist eine Abstimmung mit den in der Agro-XML-Arbeitsgruppe des KTBL entwickelten Standards sinnvoll. &#xD;
+-  Der Grundstandard sollte in Form eines koordinierten Netzwerkes unter Einbeziehung aller interessierten Akteure, die Datenbanken zur Rückverfolgbarkeit und Herkunftssicherung entwickeln, bereitstellen und / oder nutzen, gestaltet werden. &#xD;
+-  Der Standard sollte bei der Entwicklung von Datenbanksystemen in laufenden Projekten berücksichtigt werden. &#xD;
+-  Der Standard sollte breit kommuniziert werden, um schnell eine möglichst große Bedeutung zu bekommen. &#xD;
+-  In einem weiteren Schritt sollte versucht werden, den entwickelten Standard über Vereinbarungen / Kooperationen mit Softwareherstellern in für die Marktbeteiligten bedeutenden Standardsoftwareprogrammen zu implementieren. &#xD;
+-  Zur Kostensenkung sollten die jetzigen Akteure bei der Herkunftssicherung der Produkte weitgehend zusammenarbeiten</dc:description>
+  <dc:date>2005-01</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/4533/1/4533-03OE457-fibl-2005-rueckverfolg-zwischenbericht.pdf</dc:identifier>
+  <dc:identifier>Mäder, Rolf         (2005) Datenbanktechnische Voraussetzungen zur Schaffung eines Rückverfolgbarkeitssystems - Analyse des Status quo und Etablierung einer gemeinsamen Plattform (Zwischenbericht).  [Data base related technical preconditions for the development of a traceability system - status quo analyisis and the establishment of a common platform.]   Forschungsinstitut für Biologischen Landbau e.V., Frankfurt, Deutschland.</dc:identifier>
+  <dc:relation>http://orgprints.org/4533/</dc:relation>
+</oai_dc:dc>

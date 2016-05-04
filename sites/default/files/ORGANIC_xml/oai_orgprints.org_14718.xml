@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Monitoring panel performance within and between sensory experiments by multi-way analysis</dc:title>
+  <dc:creator>Romano, Rosaria</dc:creator>
+  <dc:creator>Vestergaard, Jannie S.</dc:creator>
+  <dc:creator>Kompany-Zareh, Mohsen</dc:creator>
+  <dc:creator>Bredie, Wender L. P.</dc:creator>
+  <dc:subject>Food security, food quality and human health</dc:subject>
+  <dc:description>In sensory analysis a panel of trained assessors evaluates a set of samples&#xD;
+according to specific sensory descriptors. The training improves objectivity and&#xD;
+reliability of assessments. However, there can be individual differences between&#xD;
+assessors left after the training that should be taken into account in the analysis.&#xD;
+Monitoring panel performance is then crucial for optimal sensory evaluations. The&#xD;
+quality of the results is strongly dependent on the performance of each assessor and&#xD;
+of the panel as a whole. The present work proposes to analyze the panel performance&#xD;
+within single sensory evaluations and between consecutive evaluations. The&#xD;
+basic idea is to use multi-way models to handle the three-way nature of the sensory&#xD;
+data. Specifically, a PARAFAC model is used to investigate the panel performance&#xD;
+in the single experiment. N-PLS model is used to test the predictive ability of the&#xD;
+panel on each experiment. A PARAFAC model is also used for monitoring panel&#xD;
+performance over different experiments.</dc:description>
+  <dc:date>2008</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/14718/1/RoVeZaBre.pdf</dc:identifier>
+  <dc:identifier>Romano, Rosaria; Vestergaard, Jannie S.; Kompany-Zareh, Mohsen and Bredie, Wender L. P.    (2008) Monitoring panel performance within and between sensory experiments by multi-way analysis.   In:     Book of short papers.</dc:identifier>
+  <dc:relation>http://orgprints.org/14718/</dc:relation>
+</oai_dc:dc>

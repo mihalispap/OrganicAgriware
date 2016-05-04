@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Computer model for simulating the long-term dynamics of annual weeds: from seedlings to seeds</dc:title>
+  <dc:creator>Rasmussen, Ilse A.</dc:creator>
+  <dc:creator>Holst, Niels</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>We developed a simple model to predict seed production from seedling density and estimated its six parameters for Chenopodium album and Papaver rhoeas from literature data, supplemented with field data on P. rhoeas seed production in Denmark. Parameter values were specified by their expected ranges rather than just point estimates, which enabled us to determine the expected ranges of seed production at given seedling densities. The model will be incorporated into a larger model framework presented earlier for a more complete description of annual weed seedbank dynamics in a crop rotation. We found the seed production (y) of P. rhoeas to be larger than reported earlier from UK; the relation to weed biomass (x) per m2 was curvilinear, y=6015∙x0.8153 seeds per m2. While the model needs to be validated, parameters for the two selected species were readily estimated from available literature and more species can be easily added.</dc:description>
+  <dc:publisher>The Association of Applied Biologists</dc:publisher>
+  <dc:contributor>Bekker, R.M.</dc:contributor>
+  <dc:contributor>Forcella, F.</dc:contributor>
+  <dc:contributor>Grundy, A.C.</dc:contributor>
+  <dc:contributor>Jones, N.E.</dc:contributor>
+  <dc:contributor>Marshall, E.J.P.</dc:contributor>
+  <dc:contributor>Murdoch, A.J.</dc:contributor>
+  <dc:date>2003-09</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>source</dc:format>
+  <dc:identifier>http://orgprints.org/3434/1/3434.doc</dc:identifier>
+  <dc:identifier>Rasmussen, Ilse A. and Holst, Niels   (2003) Computer model for simulating the long-term dynamics of annual weeds: from seedlings to seeds.   Aspects of Applied Biology (69), pp. 277-284.</dc:identifier>
+  <dc:relation>http://orgprints.org/3434/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Simulation of effect of climate, soils and management on N2O emission from grassland</dc:title>
+  <dc:creator>Chatskikh, D.</dc:creator>
+  <dc:creator>Olesen, J.E.</dc:creator>
+  <dc:creator>Berntsen, J.</dc:creator>
+  <dc:creator>Regina, K.</dc:creator>
+  <dc:creator>Yamulki, S.</dc:creator>
+  <dc:subject>Pasture and forage crops</dc:subject>
+  <dc:subject>Air and water emissions</dc:subject>
+  <dc:description>Nitrous oxide (N2O) is a potent greenhouse gas with a high contribution from agricultural soils and emissions that depend on soil type, climate, crops and management practices. The N2O emissions therefore need to be included as an integral part of environmental assessment of agricultural production systems. A dynamical algorithm for N2O production and emission from agricultural soils was developed and included in the FASSET whole-farm model. The model simulated carbon and nitrogen (N) turnover on a daily basis. Both nitrification and denitrification was included in the model as sources for N2O production, and the N2O emissions were simulated to depend on soil microbial and physical conditions. The model was tested on experimental data of N2O emissions from grasslands in UK, Finland and Denmark, differing in climatic conditions, soil properties and management. The model simulated the general time course of N2O emissions and captured the observed effects of fertiliser and manure management on emissions. However, emissions from a soil with high clay content were overestimated with the model. Scenario analyses for grazed and cut grasslands were conducted to evaluate the effects of soil type, climatic conditions, grassland management and N fertilisation on N2O emissions. The soils varied from sandy to sandy loam and the climatic variation was taken to represent the climatic variation within Denmark. N fertiliser rates were varied from 0 to 500 kg N ha-1. The simulated N2O emissions showed a non-linear response to increasing N rates with increasing emission factors at higher N rates. The simulated emissions increased with increasing soil clay contents. There was no effect of climatic conditions. Emissions were slightly higher from grazed grasslands compared with cut grasslands at similar rates of total N input (fertiliser and animal excreta). The results indicate higher emission factors and thus higher potentials for reducing N2O emissions for intensively grazed grasslands on fine textured soils than for extensive cut based grasslands on sandy soils.</dc:description>
+  <dc:date>2005</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/1808/2/1808.pdf</dc:identifier>
+  <dc:identifier>Chatskikh, D.; Olesen, J.E.; Berntsen, J.; Regina, K. and Yamulki, S.   (2005) Simulation of effect of climate, soils and management on N2O emission from grassland.   Biogeochemistry, 76, pp. 395-419.</dc:identifier>
+  <dc:relation>http://orgprints.org/1808/</dc:relation>
+</oai_dc:dc>

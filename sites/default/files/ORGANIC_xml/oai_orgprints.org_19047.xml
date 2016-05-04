@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Mapping leaf nitrogen and leaf area index in European landscapes using high spatial resolution satellite data and the REGularized canopy reFLECtance (REGFLEC) model</dc:title>
+  <dc:creator>Boegh, E.</dc:creator>
+  <dc:creator>Houborg, R.</dc:creator>
+  <dc:creator>Bienkowski, J.</dc:creator>
+  <dc:creator>Dalgaard, Tommy</dc:creator>
+  <dc:creator>Dragisits, U.</dc:creator>
+  <dc:creator>Magliulo, E.</dc:creator>
+  <dc:subject>Air and water emissions</dc:subject>
+  <dc:subject>Biodiversity and ecosystem services</dc:subject>
+  <dc:subject>Landscape and recreation</dc:subject>
+  <dc:description>Leaf biochemistry and biophysical parameters are important for simulating soil‐vegetation‐atmosphere exchanges of energy, water, CO2 and ammonia. The accumulation of leaf nitrogen (N) in vegetation canopies is a major component of the ecosystem N balance, and leaf N concentration and leaf area index  (LAI) are important determinants of the maximum CO2 uptake by plants and trees. In NEU, high spatial resolution remote sensing data from the SPOT satellite were acquired to prepare maps of leaf N and LAI for 5 European landscapes. Mapping was conducted using the REGFLEC model which is an automatic and image‐based methodology developed for regional chlorophyll (Cab) and LAI estimation (ie. Houborg and Andersen, JARS 3, 2009). REGFLEC combines models for atmospheric correction (6S), canopy reflectance &#xD;
+(ACRM) and leaf optics (PROSPECT). Model performance previously proved promising in Denmark and in Maryland, USA. In this study, REGFLEC performance is evaluated and  discussed using field measurements of leaf N, SPADmeter data and LAI in Denmark, Poland, Scotland, the Netherlands and Italy. The inverse model estimations of soil reflectance parameters and canopy parameters are discussed in relation to the prevailing soil types and vegetation characteristics of land cover classes across the 5 European landscapes.</dc:description>
+  <dc:publisher>European Geosciences Union</dc:publisher>
+  <dc:date>2011</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/19047/4/19047.pdf</dc:identifier>
+  <dc:identifier>Boegh, E.; Houborg, R.; Bienkowski, J.; Dalgaard, Tommy; Dragisits, U. and Magliulo, E.    (2011) Mapping leaf nitrogen and leaf area index in European landscapes using high spatial resolution satellite data and the REGularized canopy reFLECtance (REGFLEC) model.       Paper at:   Geophysical Research Abstracts EGU2011-11534. European Geosciences Union General Assembly 2011., Vienna, 2011. 3-8 April.</dc:identifier>
+  <dc:relation>http://orgprints.org/19047/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,10 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Automatisering av mekanisk ogräsbekämpning</dc:title>
+  <dc:subject>Weed management</dc:subject>
+  <dc:subject>Buildings and machinery</dc:subject>
+  <dc:description>Idag rensas ogräs oftast för hand i KRAV-odlingen. Detta är relativt dyrt och det är svårt att hitta personer som vill utföra detta jobb. För att öka volymen av de ekologiskt odlade grödorna behövs det en automatisering av ogräsbekämpningen. Målet med detta forskningsprojekt är att utveckla metoder för att kunna styra en maskin så att den kan rensa ogräs mekaniskt på egen hand. Maskinen kommer att vara utrustad med två bildbehandlingssystem: en framåtriktad kamera för att kunna känna igen raderna som gör det möjligt för maskinen att exakt kunna följa raderna på egen hand. Den andra, nedåtriktade, kameran har som uppgift att kunna skilja mellan plantan och ogräs och att styra ett mekaniskt ogräsrensningsverktyg monterat på maskinen. Den centrala forskningsfrågan är att hitta tillräckligt robusta generella metoder, baserade på bildbehandling kombinerat med information från andra sensorer, som kan känna igen grödorna bland ogräset.</dc:description>
+  <dc:type>Project description</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:identifier>{Project}    Automatisering av mekanisk ogräsbekämpning.  [Automation of mechanical weed control.]   Runs 2002 - 2003.      Project Leader(s): Baerveldt, Albert-Jan, Halmstad University.</dc:identifier>
+  <dc:relation>http://orgprints.org/7270/</dc:relation>
+</oai_dc:dc>

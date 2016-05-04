@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Datenbanktechnische Voraussetzungen zur Schaffung eines Rückverfolgbarkeitssystems - Analyse des Status quo und Etablierung einer gemeinsamen Plattform</dc:title>
+  <dc:creator>Mäder, Rolf</dc:creator>
+  <dc:creator>Wörner, Frank</dc:creator>
+  <dc:subject>Food security, food quality and human health</dc:subject>
+  <dc:subject>Regulation</dc:subject>
+  <dc:description>Ausgangslage&#xD;
+Mit der Verordnung EU-VO 178/2002 werden die allgemeinen Grundsätze für die Lebensmittel- und Futtermittelsicherheit festgelegt. Zentraler Bestandteil ist die Regelung, dass Lebens- und Futtermittelhersteller zu jeder Zeit in der Lage sein müssen, die verantwortliche Person festzustellen, von der ein Produkt (Vorprodukt, Rohstoff, Zusatzstoff) bezogen wurde. Um diese Vorgabe zu erfüllen, müssen entsprechende Verfahren und Systeme eingerichtet werden, die sowohl Informationen über den Bezug eines Produkts als auch über seinen Verkauf enthalten. Diese Regelung gilt auch für Bio-Produkte.&#xD;
+Bisher bestehende bzw. im Aufbau begriffene technische Rückverfolgbarkeitssysteme dienen je nach Hersteller sehr unterschiedlichen Zwecken. Bei allen Systemen handelt es sich derzeit jedoch um Insellösungen: Die Betreiber lösen zwar die für sie relevanten Fragestellungen, Schnittstellen zur Verknüpfung der bestehenden Systeme existieren jedoch in der Regel nicht.&#xD;
+Ziele und Ergebnisse im Projekt&#xD;
+Ziel des Projekts war die Entwicklung eines einheitlichen Datenstandards als Basis für eine Verknüpfung der verschiedenen Datenbanksysteme um eine stufenübergreifende Rückverfolgbarkeit und Herkunftssicherung von Bio-Produkten zu gewährleisten. Bei der Entwicklung wurden bestehende relevante Standards wie EAN 128 und EANCOM sowie der agroXML-Standard soweit möglich berücksichtigt.&#xD;
+Der Datenstandard und das darauf aufbauende XML-Schema sind unter www.organicXML.com verfügbar und stehen somit für Softwarefirmen zur Verfügung, um darauf aufbauend XML Schnittstellen für den automatisierten Datenaustausch zu entwickeln.&#xD;
+Ein weiterer Schwerpunkt des Projekts war die Erarbeitung eines Konzepts zur Verwendung von Rückverfolgbarkeitsdaten in der Verbraucheransprache. Mit www.bio-mit-gesicht.de wurde das erstellte Konzept in Form einer Informationsplattform für Verbraucher umgesetzt.&#xD;
+Abschließend wurden im Modul „Wissenstransfer“ drei ausgewählte Unternehmen bei der Erstellung eines Konzepts für die technische Rückverfolgbarkeit unterstützt. Die wichtigsten Erkenntnisse wurden in Form eines Leitfadens anderen Unternehmen zur Verfügung gestellt und damit nutzbar gemacht.</dc:description>
+  <dc:date>2009-06</dc:date>
+  <dc:type>Report</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/16035/1/16035-03OE457-fibl-maeder-2009-rueckverfolgbarkeitssystem.pdf</dc:identifier>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/16035/4/16035-03OE457-fibl-maeder-2009-rueckverfolgbarkeit_leitfaden.pdf</dc:identifier>
+  <dc:identifier>Mäder, Rolf and  Wörner, Frank         (2009) Datenbanktechnische Voraussetzungen zur Schaffung eines Rückverfolgbarkeitssystems - Analyse des Status quo und Etablierung einer gemeinsamen Plattform.  [Data base related technical preconditions for the development of a traceability system - status quo analyisis and the establishment of a common platform.]   Forschungsinstitut für biologischen Landbau (FiBL) Deutschland e.V., D-Frankfurt.</dc:identifier>
+  <dc:relation>http://orgprints.org/16035/</dc:relation>
+</oai_dc:dc>

@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Report from an EWRS workshop on modelling weed population dynamics</dc:title>
+  <dc:creator>Rasmussen, I.A.</dc:creator>
+  <dc:creator>Bastiaans, L.</dc:creator>
+  <dc:creator>Holst, N.</dc:creator>
+  <dc:creator>Grundy, A.</dc:creator>
+  <dc:creator>Melander, B.</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>A three-day workshop on modelling weed population dynamics partially sponsored by the European Weed Research Society (EWRS) was held in October 2006 at Research Centre Flakkebjerg. 24 participants attended the workshop from 8 countries, mainly Europe and USA. The aim of the workshop was to gather some of those active and interested in the field, i.e. most of the participants had either published papers on weed population dynamic models or had a model under development. By gathering these people, it was our hope to learn from each other and possibly benefit by increasing the knowledge and use of each other's work. The EWRS saw the workshop as an opportunity to interconnect some of the work going on in (at least) three working groups: Weed Seed Germination and Early Growth, Crop-Weed Interactions and Physical and Cultural Weed Control.&#xD;
+&#xD;
+The preparations of the workshop were initiated by the keynote paper on modelling weed population dynamics presented by N. Holst at the EWRS Symposium in Bari, Italy, 2005, which has recently been published in Weed Research. In connection with this, a database with a bibliography of publications on weed population dynamic models was created, and is public online at http://www.blackwell-synergy.com/doi/abs/10.1111/j.1365-3180.2007.00534.x. At the workshop, ten weed population dynamics models were presented, and all of these were available on computers for the participants to try. Many of the models are freely available on the Internet, although some must be paid for, and some are still under development. &#xD;
+&#xD;
+The themes discussed at the workshop were presented under five headings: 1. Using models for understanding weed biology, 2. Modelling tools for understanding the dynamics of weed populations, 3. Using models for prediction purposes and decision support, 4. Understanding basic spatial-temporal dynamics through use of models and 5. Model analysis. A common understanding at the workshop, in respect of the fact that no model can accurately show the complexity of the real world, was that "All models are wrong – but some are useful". Some important discussion points brought up at the workshop were related to application domain and model complexity. Are the models used to explain what actually has happened, or are they used for forecasting. It was decided that some of the participants will collaborate on a common publication on this subject. Another topic was the required level of complexity also phrased as ‘How long do we keep on improving our models?’ Does added complexity make the model more realistic, or does it just add errors?&#xD;
+ &#xD;
+We also discussed how we could make better use of each other's work. In this regard it was decided to make a list of the presented models, including links to the models and where possible open source code, so that parts of generic models could be used by other modellers. In addition, a common database with parameters characterizing different life cycle stages of specific weed species was planned. Since participants agreed that this workshop was a very important opportunity for weed population dynamics modellers to convene, it was suggested that a new workshop should be arranged within 2-3 years, location depending on possibilities for sponsoring.</dc:description>
+  <dc:contributor>Melander, B.</dc:contributor>
+  <dc:contributor>Cloutier, D.</dc:contributor>
+  <dc:contributor>Gerowitt, B.</dc:contributor>
+  <dc:date>2007</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>other</dc:format>
+  <dc:identifier>http://orgprints.org/11347/1/Ilse_Rasmussen-06-02.doc</dc:identifier>
+  <dc:identifier>Rasmussen, I.A.; Bastiaans, L.; Holst, N.; Grundy, A. and Melander, B.    (2007) Report from an EWRS workshop on modelling weed population dynamics.   In: Melander, B.; Cloutier, D. and Gerowitt, B. (Eds.)  Proceedings 7th EWRS workshop on Physical and Cultural Weed Control, p. 174.</dc:identifier>
+  <dc:relation>http://orgprints.org/11347/</dc:relation>
+</oai_dc:dc>

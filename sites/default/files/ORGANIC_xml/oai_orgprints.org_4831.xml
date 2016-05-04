@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Seed Mapping of Sugar Beet</dc:title>
+  <dc:creator>Griepentrog, Hans W.</dc:creator>
+  <dc:creator>Nørremark, Michael</dc:creator>
+  <dc:creator>Nielsen, Henning</dc:creator>
+  <dc:creator>Blackmore, Simon</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>Individual plant care may well become embodied in precision farming in the future and will lead to new opportunities in agricultural crop management. The objective of this project was to develop and evaluate a data logging system attached to a precision seeder to enable high accuracy seed position mapping of a field of sugar beet. A Real Time Kinematic Global Positioning System (RTK GPS), optical seed detectors and a data logging system were retrofitted on to a precision seeder to map the seeds as they were planted. The average error between the seed map and the actual plant map was about 16–43 mm depending on vehicle speed and seed spacing. The results showed that the overall accuracy of the estimated plant positions was acceptable for the guidance of vehicles and implements as well as potential individual plant treatments.</dc:description>
+  <dc:publisher>Kluwer Academic Publishers</dc:publisher>
+  <dc:contributor>Stafford, Dr. John</dc:contributor>
+  <dc:date>2005-04</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/4831/1/4831.pdf</dc:identifier>
+  <dc:identifier>Griepentrog, Hans W.; Nørremark, Michael; Nielsen, Henning and Blackmore, Simon   (2005) Seed Mapping of Sugar Beet.   journal, 6 (2), pp. 157-165.</dc:identifier>
+  <dc:relation>http://orgprints.org/4831/</dc:relation>
+</oai_dc:dc>

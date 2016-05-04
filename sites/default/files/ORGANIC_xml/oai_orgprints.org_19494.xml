@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>A sequential approach for improving AZODYN crop model under conventional and low-input conditions</dc:title>
+  <dc:creator>David, Christophe</dc:creator>
+  <dc:creator>Jeuffroy, Marie-Hélène</dc:creator>
+  <dc:subject>Cereals, pulses and oilseeds</dc:subject>
+  <dc:subject>Composting and manuring</dc:subject>
+  <dc:subject>Nutrient turnover</dc:subject>
+  <dc:description>Advances in scientific understanding of the plant and soil behaviour in a cultivated field led to the design of numerous soil-crop models simulating crop growth. The frequent low predictive quality of these models is linked to uncertainties in inputs, parameters and equations. The AZODYN crop model predicting wheat grain yield and grain protein content was previously developed to support decision for N management of conventional and organic wheat crops. This paper outlines a sequential approach to improve the predictions of the AZODYN model by testing various formalisms. This study is based on the comparison of 38 versions of the model assessed in multi-environment trials carried out under conventional or low-input conditions. This paper describes and discusses the methodology. The results show that the predictive value of grain yield and grain protein content could be largely improved without increasing model complexity.</dc:description>
+  <dc:date>2009</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/19494/1/David_et_Jeuffroy%2C_2009.pdf</dc:identifier>
+  <dc:identifier>David, Christophe and Jeuffroy, Marie-Hélène   (2009) A sequential approach for improving AZODYN crop model under conventional and low-input conditions.   European Journal of Agronomy, 31 (4), pp. 177-182.</dc:identifier>
+  <dc:relation>http://orgprints.org/19494/</dc:relation>
+</oai_dc:dc>

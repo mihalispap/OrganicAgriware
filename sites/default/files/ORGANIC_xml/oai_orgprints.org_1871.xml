@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Optimal decisions in organic steer production - a model including winter feed level, grazing strategy and slaughtering policy</dc:title>
+  <dc:creator>Nielsen, B.K.</dc:creator>
+  <dc:creator>Kristensen, A.R.</dc:creator>
+  <dc:creator>Thamsborg, S.M.</dc:creator>
+  <dc:subject>Production systems</dc:subject>
+  <dc:description>Organic steer production demand several decisions concerning grazing strategy, feeding level in the winter and factors as slaughter weight and length of the fattening period. The production system can be difficult to optimise, therefore the objective of this study was to develop a model to optimise the grazing strategy, feed level in winter and time of fattening and slaughter in organic steer production with regard to economic output at steer level. The steer model is a 4-level hierarchical Markov process with decisions defined at three levels. Decisions taken in the model include grazing strategy (permanent or ryegrass/clover pasture), feed level in winter (high and low), time for beginning of fattening (age 19-27 months) and time of slaughter (age 19-30 months). Overall optimal strategies at child level 1 with regard to economic output per produced steer were low feeding level in the winter period, grazing on permanent pastures in the first grazing season, whereas ryegrass/clover pastures gives the optimal net return per steer in the second and third grazing season. The optimal strategies from the model suggested that the effect of fattening in steer production might be overstated. It was concluded that the natural well-defined phases in organic steer production are well suited to be analysed by a multi-level hierarchic Markov processes.</dc:description>
+  <dc:date>2004</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>source</dc:format>
+  <dc:identifier>http://orgprints.org/1871/1/optimal_decisions.doc</dc:identifier>
+  <dc:identifier>Nielsen, B.K.; Kristensen, A.R. and Thamsborg, S.M.   (2004) Optimal decisions in organic steer production - a model including winter feed level, grazing strategy and slaughtering policy.   Livestock Production Science, 88 (1-3), pp. 239-250.</dc:identifier>
+  <dc:relation>http://orgprints.org/1871/</dc:relation>
+</oai_dc:dc>

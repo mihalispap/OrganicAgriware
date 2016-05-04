@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Revisiting the indicator problem: can three epigean arthropod taxa inform about each other’s biodiversity?</dc:title>
+  <dc:creator>Beck, Jan</dc:creator>
+  <dc:creator>Pfiffner, Lukas</dc:creator>
+  <dc:creator>Ballesteros-Mejia, Liliana</dc:creator>
+  <dc:creator>Blick, Theo</dc:creator>
+  <dc:creator>Luka, Henryk</dc:creator>
+  <dc:subject>Biodiversity and ecosystem services</dc:subject>
+  <dc:description>Aim: Conservation studies often investigate the biodiversity of one taxonomic group with the expectation that it reflects biodiversity of other taxa as well.&#xD;
+However, previous studies have found that biodiversity patterns are often only weakly correlated across ecologically very different taxa. Using three arthropod taxa that share the same habitat, utilize similar resources and are sampled with identical technique, we investigate the applicability of two levels of biodiversity indication: (1) prediction of biodiversity patterns, and (2) inference of environment–biodiversity relationships. The second aspect is of high relevance to applied conservation management yet mostly neglected, at least in terrestrial systems, when discussing the indicator concept.&#xD;
+Location: Northern Switzerland&#xD;
+Methods: We used a very large data set of pitfall trap samples from different habitats for three taxonomic groups (Carabidae, Staphylinidae and Araneae).&#xD;
+We quantified biodiversity by different metrics of local diversity (species richness, effective number of species) and of pairwise faunal dissimilarities (Sørensen, Bray–Curtis). We investigated the congruence of (1) biodiversity patterns by cross-taxa regressions, and (2) environmental models of biodiversity by comparing fitted coefficients, and resulting extrapolations across the research region.&#xD;
+Results: We found positive yet not very strong correlations in biodiversity patterns, while environmental models differed considerably between taxa as well as between diversity metrics.&#xD;
+Main conclusions: Inferences of environment–biodiversity relationships can differ between taxonomic groups even if biodiversity patterns alone show significant correlation. This may be either because species indeed respond differently to environmental variation or because of misspecifications inherent in ecological modelling. Both possibilities suggest a need for caution in selecting and applying biodiversity indicators. Furthermore, the choice of diversity metric can strongly affect results, and therefore, decisions about which metric to use in any given situation need to be made carefully.</dc:description>
+  <dc:date>2012</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/25006/1/Beck-etal-2012-DiversityDistrib-19_7-p688-699.pdf</dc:identifier>
+  <dc:identifier>Beck, Jan; Pfiffner, Lukas; Ballesteros-Mejia, Liliana; Blick, Theo and Luka, Henryk   (2012) Revisiting the indicator problem: can three epigean arthropod taxa inform about each other’s biodiversity?   Diversity and Distributions, 19 (7), pp. 688-699.</dc:identifier>
+  <dc:relation>http://orgprints.org/25006/</dc:relation>
+</oai_dc:dc>

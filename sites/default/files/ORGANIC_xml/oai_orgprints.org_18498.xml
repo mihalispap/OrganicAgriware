@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>FeederAnt - An autonomous mobile unit feeding outdoor pigs</dc:title>
+  <dc:creator>Jørgensen, R.N.</dc:creator>
+  <dc:creator>Sørensen, C.G.</dc:creator>
+  <dc:creator>Jensen, H.F.</dc:creator>
+  <dc:creator>Andersen, B.H.</dc:creator>
+  <dc:creator>Kristensen, E.F.</dc:creator>
+  <dc:creator>Jensen, K.</dc:creator>
+  <dc:creator>Maagaard, J.</dc:creator>
+  <dc:creator>Persson, A.</dc:creator>
+  <dc:subject>Pigs</dc:subject>
+  <dc:description>Small robots and the concept of decentralized animal husbandry make it possible to renew the principles of organic agriculture. The farm animals will be able to use the same type of housing and are placed integrated with the fields. This is expected to achieve a better utilization of nutrients and a better survival rate for useful insects and micro organisms. The small fields are flexible and could fit to the variation in soil structure topography. This type of precision agriculture has the possibility of increasing biodiversity.&#xD;
+The paper presents the concept of an autonomic feeding system for outdoor piglets. Initial results are presented using a remote controlled feeding unit (a prototype of the FeederAnt) to feed several pens with piglets. The FeederAnt drives into the grass paddocks twice a day and position itself in a new location for each feeding. This will help to distribute the manure from the animals evenly over the grass paddock to prevent point leaching of nutrients. The FeederAnt replaces many stationary feeding tables and reduce the amount of daily manual feeding routines. Further, it is expected that the problem with vermins will be solved since no feed residues will be left within the pens..</dc:description>
+  <dc:date>2007-06-17</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/18498/1/18498.pdf</dc:identifier>
+  <dc:identifier>Jørgensen, R.N.; Sørensen, C.G.; Jensen, H.F.; Andersen, B.H.; Kristensen, E.F.; Jensen, K.; Maagaard, J. and Persson, A.    (2007) FeederAnt - An autonomous mobile unit feeding outdoor pigs.       Paper at:   The 2007 ASABE Annual International Meeting, Minneapolis Convention Center, 17 - 20 June 2007.</dc:identifier>
+  <dc:relation>http://orgprints.org/18498/</dc:relation>
+</oai_dc:dc>

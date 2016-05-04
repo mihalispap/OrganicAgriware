@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Una Rete Bayesiana per migliorare l’efficienza della fase di ispezione del processo di certificazione biologica</dc:title>
+  <dc:creator>GAMBELLI, DANILO</dc:creator>
+  <dc:creator>SOLFANELLI, FRANCESCO</dc:creator>
+  <dc:subject>Values, standards and certification</dc:subject>
+  <dc:description>Organic certification costs represent an important competitive disadvantage for organic farming. A proportion of the higher costs of organic products may result from the costs of certification along the entire supply chain. A reduction of such transaction costs provides a basis for a general increase in organic farms competitiveness. In this paper we present a model based on Bayesian Networks (BN) for the support of certification bodies in the phase of inspection planning. BNs are probabilistic models with a graphical interface, representing a network of a set of interconnected random variables, and provide a basis for influence diagrams based on conditional probabilities computations. The model implements a BN approach using risk factors – such as crop rotation, farm size, etc. – that are expected to influence risk of infraction.  The model analyses the joint effects of different factors on the farmers’ probability of non-compliance. The study exploits a dataset based on data from Istituto Mediterraneo di Certificazione (IMC) for 2007. The main results concern the development of the network showing the main factors influencing the probability of non compliance, and a simulation run on different structural factors aiming to discriminate between farm types different risks of non compliance.</dc:description>
+  <dc:contributor>CRESCIMANNO , MARIA</dc:contributor>
+  <dc:contributor>SCHIFANI , GIORGIO</dc:contributor>
+  <dc:date>2009-10-26</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/17105/1/Paper_Grabit_Palermo.pdf</dc:identifier>
+  <dc:identifier>GAMBELLI, DANILO and SOLFANELLI, FRANCESCO    (2009) Una Rete Bayesiana per migliorare l’efficienza della fase di ispezione del processo di certificazione biologica.   In: CRESCIMANNO , MARIA  and SCHIFANI , GIORGIO  (Eds.)  Una Rete Bayesiana per migliorare l’efficienza della fase di ispezione del processo di certificazione biologica, pp. 91-96.</dc:identifier>
+  <dc:relation>http://orgprints.org/17105/</dc:relation>
+</oai_dc:dc>

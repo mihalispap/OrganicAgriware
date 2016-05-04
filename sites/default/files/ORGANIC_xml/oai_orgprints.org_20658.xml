@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Weed identification using an automated active shape&#xD;
+matching (AASM) technique</dc:title>
+  <dc:creator>Swain, Kishore</dc:creator>
+  <dc:creator>Nørremark, Michael</dc:creator>
+  <dc:creator>Jørgensen, Rasmus N.</dc:creator>
+  <dc:creator>Midtiby, Henrik S.</dc:creator>
+  <dc:creator>Green, Ole</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>Weed identification and control is a challenge for intercultural operations in agriculture. As an alternative to chemical pest control, a smart weed identification technique followed by mechanical weed control system could be developed. The proposed smart identification technique works on the concept of ‘active shape modelling’ to identify weed and crop plants based on their morphology. The automated active shape matching system (AASM) technique consisted of, i) a Pixelink camera ii) an LTI Lehrstuhlfuer technische informatik) image processing library, iii) a laptop pc with the Linux OS. A 2-leaf growth stage model for Solanum nigrum L. (nightshade) is generated from 32 segmented training images in Matlab software environment. Using the AASM algorithm, the leaf model was aligned and placed at the centre of the target plant and a model deformation process carried out. The parameters used for model deformation were estimated, updated and an improved  model was compared to the target plant shape to obtain the best fit. Around 90% of the nightshade plants were identified correctly with AASM. The time required for identifying target plant as a nightshade was approximately 0.053 s and a non-identification process required 0.062 s for eight iterations with the Linux platform used.</dc:description>
+  <dc:date>2011</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20658/4/20658.pdf</dc:identifier>
+  <dc:identifier>Swain, Kishore; Nørremark, Michael; Jørgensen, Rasmus N.; Midtiby, Henrik S.  and Green, Ole   (2011) Weed identification using an automated active shape matching (AASM) technique.   Biosystems Engineering, 110, pp. 450-457.</dc:identifier>
+  <dc:relation>http://orgprints.org/20658/</dc:relation>
+</oai_dc:dc>

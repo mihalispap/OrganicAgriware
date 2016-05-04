@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Conceptual and user-centric design guidelines for a plant nursing robot</dc:title>
+  <dc:creator>Sørensen, C.G.</dc:creator>
+  <dc:creator>Jørgensen, R.N.</dc:creator>
+  <dc:creator>Maagaard, J.</dc:creator>
+  <dc:creator>Bertelsen, K.K.</dc:creator>
+  <dc:creator>Dalgaard, L.</dc:creator>
+  <dc:creator>Nørremark, M.</dc:creator>
+  <dc:subject>Weed management</dc:subject>
+  <dc:description>Current service robots have relatively primitive behaviours and limited interaction with the environment. Technological foresights have indicated that the next generation of service robots will demonstrate a high degree of autonomy and reliability, have minimal impact on the environment, and will interact in a flexible way with the user. It is necessary therefore, to determine the functional requirements for a future energy-efficient robotic bioproduction system from the perspective of various stakeholders, together with the development of a high-level framework for designing and prototyping the common functionalities of mobile robots. This study presents technical guidelines for the design of a plant nursing robot. The methodology uses Quality Function Deployment (QFD) functionalities involving the identification of relationships between identified user requirements and the derived design parameters. Extracted important user requirements included: 1) adjustable to row distance and parcel size, 2) profitable, 3) minimize damage to  crops, and 4) reliable. Lower ratings were attributed to requirements such as: 1) affection value, prestige, 2) look attractive, 3) out of season operations, and 4) use of renewable energy. Subsequent important derived design parameters included: 1) PreparedForModularTools, 2) ControlableByExternalModules, 3) SemiAutonomous, and 4) Local- and GlobalPositioningSystem. The least important design parameters included: 1) OpenStandardSoftware, 2) Well-builtAppearance, 3) Wheels- With Infinite Steering Rotation, and 4) Internal Safety System. The study demonstrates the feasibility of applying a systematic design technique and procedures for translating the ‘consumer’s voice’ into the design and technical specifications of a robotic tool carrier to be used in bioproduction.</dc:description>
+  <dc:date>2010-01</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/20657/4/20657.pdf</dc:identifier>
+  <dc:identifier>Sørensen, C.G.; Jørgensen, R.N.; Maagaard, J.; Bertelsen, K.K.; Dalgaard, L. and Nørremark, M.   (2010) Conceptual and user-centric design guidelines for a plant nursing robot.   Biosystems Engineering, 105 (1), pp. 119-129.</dc:identifier>
+  <dc:relation>http://orgprints.org/20657/</dc:relation>
+</oai_dc:dc>

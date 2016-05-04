@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Predicting grain yield and protein content in winter wheat and spring barley using repeated canopy reflectance measurements and partial least squares regression</dc:title>
+  <dc:creator>Hansen, P.M.</dc:creator>
+  <dc:creator>Jørgensen, J.R.</dc:creator>
+  <dc:creator>Thomsen, A.</dc:creator>
+  <dc:subject>Crop husbandry</dc:subject>
+  <dc:description>By providing both spatial and temporal information remote sensing may function as an important source of data for site-specific crop management. This technology has been used for nitrogen application strategies to obtain optimum yield and grain quality. Here, the objective was to use early repeated remotely sensed multi-spectral data to predict grain yield and quality for winter wheat (Triticum aestivum L.) and spring barley (Hordeum vulgare L.). The crops were sown with two different seeding rates and a wide range of nitrogen strategies were applied. Multi-way partial least squares regression (N-PLS) was used to predict grain yield and protein content. The results were compared with unfold-PLS1 and PLS1 using reflectance data from the last measurement day. Both single reflectance wavelengths and selected vegetation indices were used simultaneously. The results reveal that all models can make a good prediction of yield in both crops with unfold-PLS1 and N-PLS as the best. However, estimation of grain protein content at harvest was very poorly determined in barley, as no relation between the reflectance measurements and barley protein content was obtained. The relation between reflectance measurements and protein content was slightly better in wheat, where especially N-PLS improved the prediction of grain protein content. The overall conclusion of the present experiments is that data from repeated measurements of reflectance used in multi-way partial least squares regression before heading improved the prediction of grain yield and protein content in wheat and barley.</dc:description>
+  <dc:date>2002-11</dc:date>
+  <dc:type>Journal paper</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/426/1/Predicting_grain_yield_and_protein_content_in_winter_wheat_and_spring_barley_using_repeated_canopy_reflectance_measurements_and_partial_least_squares_regression.pdf</dc:identifier>
+  <dc:identifier>Hansen, P.M.; Jørgensen, J.R. and Thomsen, A.   (2002) Predicting grain yield and protein content in winter wheat and spring barley using repeated canopy reflectance measurements and partial least squares regression.   The Journal of Agricultural Science, 139 (03), pp. 307-318.</dc:identifier>
+  <dc:relation>http://orgprints.org/426/</dc:relation>
+</oai_dc:dc>

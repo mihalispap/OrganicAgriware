@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>DIET TYPE AND CHALLENGE BY YERSINIA RUCKERI INFLUENCE THE INTESTINAL MICROBIOTA IN RAINBOW TROUT (ONCORHYNCHUS MYKISS)</dc:title>
+  <dc:creator>Ingerslev, Hans-Christian</dc:creator>
+  <dc:creator>Dalsgaard, Inger</dc:creator>
+  <dc:creator>Jørgensen, Louise von Gersdorff</dc:creator>
+  <dc:creator>Madsen, Lone</dc:creator>
+  <dc:subject>Feeding and growth</dc:subject>
+  <dc:subject>Health and welfare</dc:subject>
+  <dc:subject>Denmark</dc:subject>
+  <dc:description>In warm-blooded animals such as humans and pigs the intestinal microbial composition is dependent on the type of ingested diet. It is known that it also influences the immune system and prevent colonization of pathogenic bacteria. The question is if the gut microbiota has the same impact in lower vertebrates such as fish? &#xD;
+To examine this rainbow trout fry were fed two different diets of either a marine or vegetable origin. At a size of about four gram a subset of the fish was bath challenged by Yersinia ruckeri serotype O1 and intestines were then sampled 5 days post challenge from challenged fish (n = 40) and non-challenged control fish (n = 40). Subsequent metagenomic examination based on the 16S rDNA gene was then performed using the Illumina HiSeq 2000 platform. Obtained sequences were paired, sorted, filtered, checked for chimeras and finally mapped against the Greengene database using the open-source package Bion-meta. Analysis of the microbial communities when then made for the non-infected control fish and Yersinia ruckeri challenged fish. &#xD;
+For the non-infected control fish, the results showed two distinctly different microbial patterns in the intestines dependent on the administered diet type. Fish fed a marine based diet overall had a significantly higher amount of the class β-proteobacteria, while phylum Firmicutes was significantly higher abundant in the intestines of vegetable fed fish. The genera within phylum Firmicutes present in significantly higher amounts in vegetable fed fish were Weissella, Leuconostoc and Streptococcus. Genus Aeromonas from the γ-proteobacteria class was also present in significantly higher amounts in the vegetable fed fish.&#xD;
+The microbial community was different in the fish that were challenged by Yersinia ruckeri. Challenged fish clustered into two groups according to the load of Yersinia ruckeri specific reads in their intestine; the main part of challenged fish (n = 34) had a low amount of Yersinia specific reads (≤ 1.2 % of total amount of reads), while a minor group (n = 6) had a high load ranging between 13.9 and 23.2 % of all reads. These ‘high Yersinia level’ fish had a significantly lower amount of reads from the order Burkholderiales relative to the ‘low Yersinia level’ fish and non-infected control fish. Further, the ‘high Yersinia level’ fish further clustered separately when analyzing the bacterial community on a PCA plot. &#xD;
+The immunological examinations were performed by RT-qPCR in order to measure the expression of selected immune genes. The results showed a similar expression pattern between the two diet groups of non-infected fish, but the response differed between the two diet groups in challenged fish. Overall, the results indicate that the gut microbiota in rainbow trout, like in warm-blooded animals, is highly plastic according to the type of diet and does also seem to be involved in the immunological response in connection to pathogenic challenge.</dc:description>
+  <dc:date>2013-09</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>application/pdf</dc:format>
+  <dc:identifier>http://orgprints.org/24228/3/24228.pdf</dc:identifier>
+  <dc:identifier>Ingerslev, Hans-Christian; Dalsgaard, Inger; Jørgensen, Louise von Gersdorff and Madsen, Lone    (2013) DIET TYPE AND CHALLENGE BY YERSINIA RUCKERI INFLUENCE THE INTESTINAL MICROBIOTA IN RAINBOW TROUT (ONCORHYNCHUS MYKISS).   In:     Book of Abstracts. 3rd International Symposium GIA 2013. Genomics in Aquaculture.</dc:identifier>
+  <dc:relation>http://orgprints.org/24228/</dc:relation>
+</oai_dc:dc>

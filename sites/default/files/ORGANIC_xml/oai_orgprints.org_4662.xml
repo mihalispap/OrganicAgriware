@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Modelling short term carbon and nitrogen development</dc:title>
+  <dc:creator>Petersen, B.M.</dc:creator>
+  <dc:creator>Jensen, L.S.</dc:creator>
+  <dc:creator>Berntsen, J.</dc:creator>
+  <dc:creator>Hansen, S.</dc:creator>
+  <dc:creator>Pedersen, A.</dc:creator>
+  <dc:subject>Soil biology</dc:subject>
+  <dc:description>Carbon (C) and nitrogen (N) transformations are highly interdependent, driven by the C metabolism. Though many details of the transformations of C and N forms in soil are well known, basic knowledge about the mechanisms determining substrate availability, and the chemical and physical properties determining the stabilisation of organic matter are still lacking. The soil biota furthermore constitutes an extremely complex food web, consisting of a vast number of bacteria, fungi and fauna species, each having their own feeding preferences and characteristic life cycle.&#xD;
+A good quantitative description of the main processes involved is required. This involves both the long-term build-up and degradation of soil organic matter, and the more short-termed N mineralisation-immobilisation turnover (MIT). The high complexity of the topic leads to the need of mathematical models, which are usable for predicting the N availability for both uptake and losses with a fine time scale resolution. Our aim was to develop a model, which combines the ability to make satisfactory simulations of a number of laboratory experiments, with the ability to simulate long-term field experiments (Petersen et al., 2003a). Much effort has gone into limiting the number of required parameters, in order to obtain a robust model. Furthermore a large data-set, covering a range of soil types and amendments, were utilised in model development.&#xD;
+The novel computer model CN-SIM (Petersen et al., 2003b) describes the transformations of C and N in the soil. The development has been divided into long-term soil organic C simulation capabilities, and short-term simulations of C and N, the latter outlined in this poster. A number of existing, independent laboratory experiments, covering a range of amendments, have been utilised. The amendments include a variety of different crop residues and animal manure.&#xD;
+Utilised experiments include measurements of 13C and 15N in various pools, and the model facilitates the simulation of these isotopes.&#xD;
+Statistical methods were employed to estimate parameters, and obtain proximate confidence intervals for these parameters. Cross-validation was used to assess how the model performed on data not used for parameterisation.&#xD;
+&#xD;
+The simulations clearly indicate that considerable amounts of added N in some phase must reside elsewhere than in microbes, mineral N or "humus". In the model this is represented by a “soil microbial residue” pool, which may reflect a conglomerate of easily decomposable microbial residues and soil fauna species with low fumigation extraction efficiency. Even when utilising this pool, there is a tendency towards overestimating mineral N. This may be due to the model constraints caused by fixed C/N ratios of the microbial pools SMB1 and SMB2. Several measurements show that the microbial biomass actually can display a large span in C/N ratio, dependant on N availability. Future versions might benefit from algorithms mimicking this behaviour.&#xD;
+&#xD;
+We argue that the combination of long- and short- term simulation capabilities and the use of large data-sets will yield a maximum of constraints, all other equal leading to maximum generality.&#xD;
+&#xD;
+A model with a good generality was achieved. Few short-term data series were simulated very closely though. This is often inherent when using a comparatively simple model to represent highly complicated processes. If only a few data series were utilised for model development, and constraints from the long-term simulation capabilities further were excluded, far more impressive agreements between measurements and simulations could have been achieved, as other studies have demonstrated. This might however have been at the cost of wider applicability and biological realism.</dc:description>
+  <dc:date>2003</dc:date>
+  <dc:type>Conference paper, poster, etc.</dc:type>
+  <dc:type>NonPeerReviewed</dc:type>
+  <dc:format>source</dc:format>
+  <dc:identifier>http://orgprints.org/4662/1/4662.doc</dc:identifier>
+  <dc:identifier>Petersen, B.M.; Jensen, L.S.; Berntsen, J.; Hansen, S. and Pedersen, A.    (2003) Modelling short term carbon and nitrogen development.   In:     Abstracts for the 12th N workshop.</dc:identifier>
+  <dc:relation>http://orgprints.org/4662/</dc:relation>
+</oai_dc:dc>
